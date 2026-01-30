@@ -1,0 +1,7 @@
+"Check #","Payee Name","Check Date","Payment Amount","Check Memo","Property Name","Amount","GL Account Name","Description"
+"1001","John Doe","2025-01-15","1500.00","Fix roof","Sunrise Apts","1500.00","Repairs","Roof repair main building"
+"1002","Hardware Store","2025-01-16","450.50","Supplies","","","",""
+"","","","","","Sunrise Apts","200.00","Supplies","Paint"
+"","","","","","Sunset Villas","250.50","Supplies","Lumber"
+"ACH","Electric Co","2025-01-18","300.00","Utilities","Sunrise Apts","300.00","Utilities","Electric Bill"
+"1003","Plumber Inc","2025-01-20","500.00","Pipe fix","Sunset Villas","500.00","Repairs","Leaky pipe"

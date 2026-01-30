@@ -21,65 +21,69 @@ export const parseCheckRegister = (file) => {
 };
 
 const processRows = (rows) => {
-    // Group by Txn
-    const groups = {};
-
-    rows.forEach(row => {
-        const txn = row['Txn'];
-        if (txn) {
-            if (!groups[txn]) {
-                groups[txn] = [];
-            }
-            groups[txn].push(row);
-        }
-    });
-
     const checks = [];
+    let currentCheck = null;
 
-    Object.values(groups).forEach(groupRows => {
-        // Find header (has Payee Name or Bank Account)
-        // Heuristic: The row with Payee Name is the header.
-        const header = groupRows.find(r => r['Payee Name'] && r['Payee Name'].trim() !== '') || groupRows[0];
+    rows.forEach((row, index) => {
+        // Identify a "Header" row vs a "Split" row
+        // In the new format, Header rows have values in 'Check #' or 'Payee Name'
+        // Split rows have those empty, but have 'Property Name'
 
-        if (!header) return;
+        // Some header rows might also have the first split on the SAME line? 
+        // Looking at the sample:
+        // Line 16 (header): ... "24,547.85","","","" ... Property Name is empty.
+        // Line 3 (header): ... Property Name is empty.
+        // So Header rows are distinct from Split rows in this export.
 
-        const checkNum = (header['Check #'] || '').trim();
+        const checkNumInRow = (row['Check #'] || '').trim();
+        const payeeInRow = (row['Payee Name'] || '').trim();
 
-        // Filter for actual check numbers (digits only)
-        if (!/^\d+$/.test(checkNum)) {
-            return;
+        // Heuristic: It's a new check if we have a Check Number OR Payee Name (and it's not just a blank line)
+        // Sometimes Check # is 'ONLINE TRANSFER', so we filter later.
+        const isHeaderRow = checkNumInRow.length > 0 || payeeInRow.length > 0;
+
+        if (isHeaderRow) {
+            // Save previous check if it was valid (had a real check number)
+            if (currentCheck && isValidCheck(currentCheck.checkNumber)) {
+                checks.push(currentCheck);
+            } else if (currentCheck) {
+                // It was a non-check transaction (e.g. online transfer), we skip it based on user rules
+                // But wait, the user wants us to filter for *actual* check numbers.
+                // We'll accumulate everything and filter at the end or push conditionally.
+            }
+
+            // Start new check
+            currentCheck = {
+                id: `row-${index}`, // fallback ID since Txn is gone
+                checkNumber: checkNumInRow,
+                date: row['Check Date'],
+                payee: payeeInRow,
+                amount: row['Payment Amount'],
+                memo: row['Check Memo'],
+                properties: [],
+                status: 'unknown'
+            };
         }
 
-        const checkData = {
-            id: header['Txn'], // Use Txn as ID
-            checkNumber: checkNum,
-            date: header['Check Date'],
-            payee: header['Payee Name'],
-            amount: header['Payment Amount'],
-            memo: header['Check Memo'],
-            properties: [],
-            status: 'unknown' // Default status
-        };
-
-        // Find splits (rows with 'Property Name')
-        groupRows.forEach(row => {
-            const propName = row['Property Name'];
-            if (propName) {
-                checkData.properties.push({
-                    name: propName,
-                    amount: row['Amount'],
-                    glName: row['GL Account Name'],
-                    description: row['Description']
-                });
-            }
-        });
-
-        // Sort splits slightly? No, keeping order is fine.
-
-        checks.push(checkData);
+        // If it's a split (Property Name is present), add to current check
+        // Note: The header row usually has empty Property Name, but if it HAD one, we'd want to capture it too.
+        const propName = (row['Property Name'] || '').trim();
+        if (currentCheck && propName.length > 0) {
+            currentCheck.properties.push({
+                name: propName,
+                amount: row['Amount'], // Split amount
+                glName: row['GL Account Name'],
+                description: row['Description']
+            });
+        }
     });
 
-    // Sort checks by number
+    // Push the final check
+    if (currentCheck && isValidCheck(currentCheck.checkNumber)) {
+        checks.push(currentCheck);
+    }
+
+    // Final Sort
     checks.sort((a, b) => {
         const numA = parseInt(a.checkNumber, 10) || 0;
         const numB = parseInt(b.checkNumber, 10) || 0;
@@ -87,4 +91,10 @@ const processRows = (rows) => {
     });
 
     return checks;
+};
+
+const isValidCheck = (checkNum) => {
+    if (!checkNum) return false;
+    // User only wants physical checks (digits), not "ONLINE TRANSFER" or "ACH Batch"
+    return /^\d+$/.test(checkNum);
 };
