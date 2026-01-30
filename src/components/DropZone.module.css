@@ -1,0 +1,37 @@
+.dropZone {
+    border: 2px dashed var(--border);
+    border-radius: 12px;
+    padding: 40px;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.02);
+    transition: all 0.2s;
+    cursor: pointer;
+    margin-bottom: 32px;
+}
+
+.dropZone:hover {
+    border-color: var(--accent);
+    background: rgba(56, 189, 248, 0.05);
+}
+
+.label {
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.icon {
+    color: var(--accent);
+    margin-bottom: 16px;
+}
+
+h3 {
+    font-size: 1.2rem;
+    margin-bottom: 8px;
+    color: var(--text-primary);
+}
+
+p {
+    color: var(--text-secondary);
+}
