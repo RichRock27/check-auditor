@@ -24,7 +24,7 @@ Error generating stack: `+a.message+`
                         0% { text-shadow: 0 0 20px #0ea5e9, 0 0 40px #3b82f6; opacity: 0.4; }
                         100% { text-shadow: 0 0 40px #0ea5e9, 0 0 80px #3b82f6, 0 0 100px #fff; opacity: 0.8; }
                     }
-                `}),["R","R","W","W"].map((R,q)=>H.jsx("div",{className:"ee-letter",style:{fontFamily:"Arial Black, sans-serif",fontSize:"8rem",color:"transparent",WebkitTextStroke:"4px #0ea5e9",position:"relative",transformStyle:"preserve-3d",opacity:0,animation:`reveal3D 3s cubic-bezier(0.16, 1, 0.3, 1) forwards ${q*.2}s`},"data-char":R,children:R},q))]}),H.jsx("div",{style:{position:"absolute",top:"50%",left:"50%",width:"10px",height:"10px",borderRadius:"50%",border:"20px solid #fff",transform:"translate(-50%, -50%)",opacity:0,zIndex:9999,animation:"shockwaveAnim 0.8s ease-out forwards 3.5s"},children:H.jsx("style",{children:`
+                `}),["R","R","W","W"].map((R,q)=>H.jsx("div",{className:"ee-letter",style:{fontFamily:"Arial Black, sans-serif",fontSize:"8rem",color:"transparent",WebkitTextStroke:"4px #0ea5e9",position:"relative",transformStyle:"preserve-3d",opacity:0,animation:`reveal3D 3s cubic-bezier(0.16, 1, 0.3, 1) both ${q*.2}s`},"data-char":R,children:R},q))]}),H.jsx("div",{style:{position:"absolute",top:"50%",left:"50%",width:"10px",height:"10px",borderRadius:"50%",border:"20px solid #fff",transform:"translate(-50%, -50%)",opacity:0,zIndex:9999,animation:"shockwaveAnim 0.8s ease-out forwards 3.5s"},children:H.jsx("style",{children:`
                     @keyframes shockwaveAnim {
                         0% { width: 0; height: 0; opacity: 1; border-width: 50px; }
                         100% { width: 150vw; height: 150vw; opacity: 0; border-width: 0; }
