@@ -53,3 +53,34 @@ h1, h2, h3 {
 ::-webkit-scrollbar-thumb:hover {
   background: var(--text-secondary); 
 }
+
+/* Easter Egg Animations */
+@keyframes reveal3D {
+  0% { transform: rotateX(90deg) translateY(100px); opacity: 0; }
+  20% { opacity: 1; }
+  100% { transform: rotateX(0deg) translateY(0); opacity: 1; }
+}
+
+@keyframes glowPulse {
+  0% { text-shadow: 0 0 20px #0ea5e9, 0 0 40px #3b82f6; opacity: 0.4; }
+  100% { text-shadow: 0 0 40px #0ea5e9, 0 0 80px #3b82f6, 0 0 100px #fff; opacity: 0.8; }
+}
+
+@keyframes shockwaveAnim {
+  0% { width: 0; height: 0; opacity: 1; border-width: 50px; }
+  100% { width: 150vw; height: 150vw; opacity: 0; border-width: 0; }
+}
+
+.ee-letter::before {
+  content: attr(data-char); 
+  position: absolute;
+  top: 0; 
+  left: 0; 
+  color: #0ea5e9;
+  pointer-events: none;
+  text-shadow: 0 0 20px #0ea5e9, 0 0 40px #0ea5e9;
+  opacity: 0; 
+  transform: translateZ(-10px); 
+  filter: blur(10px);
+  animation: glowPulse 2s ease-in-out infinite alternate;
+}

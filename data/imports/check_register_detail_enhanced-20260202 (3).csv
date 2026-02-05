@@ -1,0 +1,1444 @@
+Bank Account,Payee Name,Check #,Cleared,Check Memo,Check Date,Payment Amount,Property Name,GL Account #,GL Account Name,Amount,Description,Bill Reference #
+
+Denver Operating - CPB,Premier Properties M & R,ACH Transaction,No,"TFZ584EB, TQWFNAHB, TDCFU31, TA8U8KL, TD74626, TPM4WNN, TF8UNXEB, T0834E5, TTWKPJFB, V-40182, T905QWJ, T4CB2M8, TJAXZXH, TPMHLRV, TX4KZ23, TDPUG8F, T7VPHUDB, T72MABF",01/02/2026,"19,982.52","","","","","",""
+"","","","","","","",13LAF2139,6610,Maintenance Labor,"4,340.00",Maintenance Labor - 11/13/2025,T0834E5
+"","","","","","","",13IRO1746,6610,Maintenance Labor,326.94,Maintenance Labor - 10/03/2025,T4CB2M8
+"","","","","","","",13EMP2328,6240,"HVAC (Heat, Vent, Air)",407.96,HVAC - 11/24/2025,T72MABF
+"","","","","","","",14THI115,6510,Plumbing,267.75,Plumbing - 10/02/2025,T905QWJ
+"","","","","","","",13MOL1380,6515,Electrical Repair,125.41,Electrical repair - 10/27/2025,TA8U8KL
+"","","","","","","",13MOL1380,6515,Electrical Repair,150.00,Electrical repair - 09/15/2025,TD74626
+"","","","","","","",13MOL1380,6510,Plumbing,355.56,Plumbing - 10/27/2025,TDCFU31
+"","","","","","","",13MOL1380,6510,Plumbing,130.20,Plumbing - 09/15/2025,TF8UNXEB
+"","","","","","","",14THI115,6510,Plumbing,104.03,Plumbing - 09/18/2025,TFZ584EB
+"","","","","","","",11FED5302,6510,Plumbing,38.00,Plumbing - 09/12/2025,TJAXZXH
+"","","","","","","",13MOL1380,6510,Plumbing,105.60,Plumbing - 09/15/2025,TPM4WNN
+"","","","","","","",13KEN16456,6610,Maintenance Labor,92.33,Maintenance Labor - 12/20/2025,TPMHLRV
+"","","","","","","",13MOL1380,6790,Pest Control,"1,440.00",Pest Control - 09/16/2025,TQWFNAHB
+"","","","","","","",13MOL1380,6254,Cleaning,90.00,Cleaning - 09/13/2025,TTWKPJFB
+"","","","","","","",16BEL4861,6610,Maintenance Labor,"9,600.00",Maintenance Labor - 11/30/2025,TX4KZ23
+"","","","","","","",12FAI361,6510,Plumbing,218.56,Plumbing - 10/21/2025,V-40182
+"","","","","","","",14EAS4150,6240,"HVAC (Heat, Vent, Air)","2,016.18",HVAC - 12/20/2025,T7VPHUDB
+"","","","","","","",11HOL2149,6790,Pest Control,174.00,Pest Control - 12/20/2025,TDPUG8F
+Denver Operating - CPB,Property Alliance LLC,"",No,"",01/05/2026,0.00,"","","","","",""
+"","","","","","","",13EMP2328,6270,Commissions Paid,-50.00,Commissions Paid credit for 12/2025,""
+"","","","","","","",13EMP2328,4127,Late Fee,50.00,Late Fee for 12/2025,""
+Denver Operating - CPB,IPFS Corporation,online payment,No,"",01/05/2026,"36,682.59","","","","","",""
+"","","","","","","",17FITZ,6320,Insurance - Property,"21,731.39",Insurance,""
+"","","","","","","",18Greenleaf,6320,Insurance - Property,"9,735.67",Insurance,""
+"","","","","","","",18Villa Verde,6320,Insurance - Property,"5,215.53",Insurance,""
+Denver Operating - CPB,Property Alliance LLC,ONLINE TRANSFER,No,"New Lease Fee - 10638 Varese, New Lease Fee - Unit 8905 Lower",01/05/2026,"32,216.73","","","","","",""
+"","","","","","","",14VAR10638,6290,Tenant Leasing Fee,"1,120.00",New Lease Fee - 10638 Varese,""
+"","","","","","","",13SEV8901,6295,Lease Renewal,200.00,New New Lease Fee - Unit 8905 Lower Fee - Unit 11555,""
+"","","","","","","",13IOL1980,6270,Commissions Paid,4.00,Commissions Paid for 12/2025,""
+"","","","","","","",13IOL1980,4127,Late Fee,2.50,Late Fee for 12/2025,""
+"","","","","","","",13NAT17442-202,4127,Late Fee,95.00,Late Fee for 12/2025,""
+"","","","","","","",14OGD2231,6270,Commissions Paid,10.62,Commissions Paid for 12/2025,""
+"","","","","","","",13KEN16456,6270,Commissions Paid,227.50,Commissions Paid for 12/2025,""
+"","","","","","","",13LAF2139,6270,Commissions Paid,50.00,Commissions Paid for 12/2025,""
+"","","","","","","",14PEA1720,6270,Commissions Paid,35.19,Commissions Paid for 12/2025,""
+"","","","","","","",16BEL4861,6270,Commissions Paid,39.14,Commissions Paid for 12/2025,""
+"","","","","","","",16BEL4861,6270,Commissions Paid,13.30,Commissions Paid for 12/2025,""
+"","","","","","","",11FED5302,6270,Commissions Paid,444.38,Commissions Paid for 01/2026,""
+"","","","","","","",11FED5302,4121,Garage Fees,350.00,Garage Fees for 01/2026,""
+"","","","","","","",11FED8020,6270,Commissions Paid,32.21,Commissions Paid for 01/2026,""
+"","","","","","","",11HOL2149,6270,Commissions Paid,500.00,Commissions Paid for 01/2026,""
+"","","","","","","",11KIP1901,6270,Commissions Paid,248.60,Commissions Paid for 01/2026,""
+"","","","","","","",11KIP5990,6270,Commissions Paid,66.48,Commissions Paid for 01/2026,""
+"","","","","","","",11NEV518,6270,Commissions Paid,167.20,Commissions Paid for 01/2026,""
+"","","","","","","",11NIN8129,6270,Commissions Paid,502.84,Commissions Paid for 01/2026,""
+"","","","","","","",11NIN8129,4125,Parking Fees,100.91,Parking Fees for 01/2026,""
+"","","","","","","",11SAN10065,6270,Commissions Paid,143.25,Commissions Paid for 01/2026,""
+"","","","","","","",11SAN742,6270,Commissions Paid,205.33,Commissions Paid for 01/2026,""
+"","","","","","","",11WAD3502,6270,Commissions Paid,696.00,Commissions Paid for 01/2026,""
+"","","","","","","",12ANT7829,6270,Commissions Paid,190.00,Commissions Paid for 01/2026,""
+"","","","","","","",12AST2562,6270,Commissions Paid,14.02,Commissions Paid for 01/2026,""
+"","","","","","","",12BUR578	,6270,Commissions Paid,176.00,Commissions Paid for 01/2026,""
+"","","","","","","",12FAI361,6270,Commissions Paid,106.75,Commissions Paid for 01/2026,""
+"","","","","","","",12HOT4626,6270,Commissions Paid,240.00,Commissions Paid for 01/2026,""
+"","","","","","","",12MAH8396,6270,Commissions Paid,252.00,Commissions Paid for 01/2026,""
+"","","","","","","",12MOR914,6270,Commissions Paid,68.75,Commissions Paid for 01/2026,""
+"","","","","","","",12YUM629,6270,Commissions Paid,35.85,Commissions Paid for 01/2026,""
+"","","","","","","",13BUC5584,6270,Commissions Paid,165.00,Commissions Paid for 01/2026,""
+"","","","","","","",13CAL4017,6270,Commissions Paid,187.25,Commissions Paid for 01/2026,""
+"","","","","","","",13CHE1725,6270,Commissions Paid,71.18,Commissions Paid for 01/2026,""
+"","","","","","","",13DAL1100,6270,Commissions Paid,109.60,Commissions Paid for 01/2026,""
+"","","","","","","",13FOU10444,6270,Commissions Paid,129.64,Commissions Paid for 01/2026,""
+"","","","","","","",13FRA711,6270,Commissions Paid,74.10,Commissions Paid for 01/2026,""
+"","","","","","","",13HOL895,6270,Commissions Paid,48.56,Commissions Paid for 01/2026,""
+"","","","","","","",13IOL1980,6270,Commissions Paid,172.00,Commissions Paid for 01/2026,""
+"","","","","","","",13IRO1746,6270,Commissions Paid,91.00,Commissions Paid for 01/2026,""
+"","","","","","","",13JAC2870,6270,Commissions Paid,84.00,Commissions Paid for 01/2026,""
+"","","","","","","",13JOL1601,6270,Commissions Paid,202.15,Commissions Paid for 01/2026,""
+"","","","","","","",13JOL1601,4580,Liability to Landlord Insurance,45.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13JOL1789,6270,Commissions Paid,122.50,Commissions Paid for 01/2026,""
+"","","","","","","",13JOL1789,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13KEA3038	,6270,Commissions Paid,175.00,Commissions Paid for 01/2026,""
+"","","","","","","",13LAF2139,6270,Commissions Paid,178.68,Commissions Paid for 01/2026,""
+"","","","","","","",13NAS22354,6270,Commissions Paid,208.00,Commissions Paid for 01/2026,""
+"","","","","","","",13PLY22351,6270,Commissions Paid,192.00,Commissions Paid for 01/2026,""
+"","","","","","","",13PLY22351,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13SEV11713,6270,Commissions Paid,27.47,Commissions Paid for 01/2026,""
+"","","","","","","",13SEV8395,6270,Commissions Paid,115.00,Commissions Paid for 01/2026,""
+"","","","","","","",13SEV8901,6270,Commissions Paid,141.69,Commissions Paid for 01/2026,""
+"","","","","","","",13TOW9601,6270,Commissions Paid,208.00,Commissions Paid for 01/2026,""
+"","","","","","","",13TOW9601,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",14ALL224,6270,Commissions Paid,100.00,Commissions Paid for 01/2026,""
+"","","","","","","",14EAS4150,6270,Commissions Paid,360.00,Commissions Paid for 01/2026,""
+"","","","","","","",14FED2700,6270,Commissions Paid,121.25,Commissions Paid for 01/2026,""
+"","","","","","","",14FEN4830,6270,Commissions Paid,166.00,Commissions Paid for 01/2026,""
+"","","","","","","",14GAY1242-102,6270,Commissions Paid,125.00,Commissions Paid for 01/2026,""
+"","","","","","","",14GRA1975-323,6270,Commissions Paid,5.75,Commissions Paid for 01/2026,""
+"","","","","","","",14HOO213,6270,Commissions Paid,143.00,Commissions Paid for 01/2026,""
+"","","","","","","",14HUR12150-101,6270,Commissions Paid,105.00,Commissions Paid for 01/2026,""
+"","","","","","","",14INC725,6270,Commissions Paid,0.16,Commissions Paid for 01/2026,""
+"","","","","","","",14IVY3263,6270,Commissions Paid,184.00,Commissions Paid for 01/2026,""
+"","","","","","","",14KEN4820-A,6270,Commissions Paid,92.50,Commissions Paid for 01/2026,""
+"","","","","","","",14LAR1278,6270,Commissions Paid,175.00,Commissions Paid for 01/2026,""
+"","","","","","","",14LOG1120,6270,Commissions Paid,342.00,Commissions Paid for 01/2026,""
+"","","","","","","",14LOG600,6270,Commissions Paid,406.60,Commissions Paid for 01/2026,""
+"","","","","","","",14MIL3408,6270,Commissions Paid,17.76,Commissions Paid for 01/2026,""
+"","","","","","","",14OGD1642,6270,Commissions Paid,131.25,Commissions Paid for 01/2026,""
+"","","","","","","",14PER1350,6270,Commissions Paid,172.00,Commissions Paid for 01/2026,""
+"","","","","","","",14SEV3281,6270,Commissions Paid,283.50,Commissions Paid for 01/2026,""
+"","","","","","","",14SEV5575-202,6270,Commissions Paid,2.73,Commissions Paid for 01/2026,""
+"","","","","","","",14SEV6751,6270,Commissions Paid,88.50,Commissions Paid for 01/2026,""
+"","","","","","","",14THI115,6270,Commissions Paid,119.25,Commissions Paid for 01/2026,""
+"","","","","","","",14VAR10638,6270,Commissions Paid,224.00,Commissions Paid for 01/2026,""
+"","","","","","","",14VAR10638,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",14WOL8079,6270,Commissions Paid,148.00,Commissions Paid for 01/2026,""
+"","","","","","","",16BEL4861,6270,Commissions Paid,771.79,Commissions Paid for 01/2026,""
+"","","","","","","",17FITZ,6270,Commissions Paid,948.96,Commissions Paid for 01/2026,""
+"","","","","","","",17FITZ,4125,Parking Fees,200.00,Parking Fees for 01/2026,""
+"","","","","","","",18Greenleaf,6270,Commissions Paid,754.67,Commissions Paid for 01/2026,""
+"","","","","","","",18Villa Verde,6270,Commissions Paid,555.26,Commissions Paid for 01/2026,""
+"","","","","","","",11FED5302,6270,Commissions Paid,142.70,Commissions Paid for 01/2026,""
+"","","","","","","",11FED8020,6270,Commissions Paid,142.73,Commissions Paid for 01/2026,""
+"","","","","","","",11FED8020,4121,Garage Fees,500.00,Garage Fees for 01/2026,""
+"","","","","","","",11KIP1901,6270,Commissions Paid,50.00,Commissions Paid for 01/2026,""
+"","","","","","","",11KIP5990,6270,Commissions Paid,121.95,Commissions Paid for 01/2026,""
+"","","","","","","",11NIN8129,6270,Commissions Paid,316.91,Commissions Paid for 01/2026,""
+"","","","","","","",11NIN8129,4127,Late Fee,54.71,Late Fee for 01/2026,""
+"","","","","","","",11SAN744,6270,Commissions Paid,185.49,Commissions Paid for 01/2026,""
+"","","","","","","",12ANI1317,6270,Commissions Paid,56.25,Commissions Paid for 01/2026,""
+"","","","","","","",12AST2562,6270,Commissions Paid,66.25,Commissions Paid for 01/2026,""
+"","","","","","","",12AST2562,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",12MON1563	,6270,Commissions Paid,114.00,Commissions Paid for 01/2026,""
+"","","","","","","",12MOR914,6270,Commissions Paid,66.25,Commissions Paid for 01/2026,""
+"","","","","","","",12YUM629,6270,Commissions Paid,140.00,Commissions Paid for 01/2026,""
+"","","","","","","",13CEN14900-B,6270,Commissions Paid,175.92,Commissions Paid for 01/2026,""
+"","","","","","","",13CEN14900-B,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13CHE1725,6270,Commissions Paid,87.25,Commissions Paid for 01/2026,""
+"","","","","","","",13CHE1725,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13DAL1100,6270,Commissions Paid,108.00,Commissions Paid for 01/2026,""
+"","","","","","","",13DAL1100,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13FAI8335-6-102,6270,Commissions Paid,82.00,Commissions Paid for 01/2026,""
+"","","","","","","",13FAI8335-6-102,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13FOU10444,6270,Commissions Paid,294.21,Commissions Paid for 01/2026,""
+"","","","","","","",13FOU10444,4580,Liability to Landlord Insurance,30.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13FRA711,6270,Commissions Paid,178.20,Commissions Paid for 01/2026,""
+"","","","","","","",13FRA711,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13JEB3432,6270,Commissions Paid,240.45,Commissions Paid for 01/2026,""
+"","","","","","","",13JEB3432,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13JOL1601,6270,Commissions Paid,368.10,Commissions Paid for 01/2026,""
+"","","","","","","",13JOL1601,4580,Liability to Landlord Insurance,30.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13KEN3453,6270,Commissions Paid,148.75,Commissions Paid for 01/2026,""
+"","","","","","","",13KEN3453,4580,Liability to Landlord Insurance,30.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13KNO3679,6270,Commissions Paid,222.25,Commissions Paid for 01/2026,""
+"","","","","","","",13KNO3679,4580,Liability to Landlord Insurance,30.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13LAF2139,6270,Commissions Paid,104.02,Commissions Paid for 01/2026,""
+"","","","","","","",13LAN257,6270,Commissions Paid,112.00,Commissions Paid for 01/2026,""
+"","","","","","","",13LAN257,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13MOL1380,4127,Late Fee,36.05,Late Fee for 01/2026,""
+"","","","","","","",13NAP4227,6270,Commissions Paid,156.00,Commissions Paid for 01/2026,""
+"","","","","","","",13NAP4227,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13NEV12368-201,6270,Commissions Paid,70.00,Commissions Paid for 01/2026,""
+"","","","","","","",13NEV12368-201,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13RAR1129,6270,Commissions Paid,69.00,Commissions Paid for 01/2026,""
+"","","","","","","",13SAB1311,6270,Commissions Paid,160.00,Commissions Paid for 01/2026,""
+"","","","","","","",13SAB1311,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13SEV11713,6270,Commissions Paid,108.50,Commissions Paid for 01/2026,""
+"","","","","","","",13SEV11713,4580,Liability to Landlord Insurance,30.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13SEV8901,6270,Commissions Paid,138.31,Commissions Paid for 01/2026,""
+"","","","","","","",13SEV8901,4580,Liability to Landlord Insurance,45.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13VIE14775,6270,Commissions Paid,180.00,Commissions Paid for 01/2026,""
+"","","","","","","",13WRI479-201,6270,Commissions Paid,170.00,Commissions Paid for 01/2026,""
+"","","","","","","",14BRO9251,6270,Commissions Paid,300.00,Commissions Paid for 01/2026,""
+"","","","","","","",14DAR9931,6270,Commissions Paid,238.00,Commissions Paid for 01/2026,""
+"","","","","","","",14EVA4845,6270,Commissions Paid,245.00,Commissions Paid for 01/2026,""
+"","","","","","","",14FED2700,6270,Commissions Paid,55.00,Commissions Paid for 01/2026,""
+"","","","","","","",14FED2700,4125,Parking Fees,12.00,Parking Fees for 01/2026,""
+"","","","","","","",14FEN7145,6270,Commissions Paid,214.90,Commissions Paid for 01/2026,""
+"","","","","","","",14HIG5230,6270,Commissions Paid,176.00,Commissions Paid for 01/2026,""
+"","","","","","","",14HOO213,6270,Commissions Paid,150.00,Commissions Paid for 01/2026,""
+"","","","","","","",14HUR8701-6-209,6270,Commissions Paid,165.00,Commissions Paid for 01/2026,""
+"","","","","","","",14KEN4820-A,6270,Commissions Paid,92.50,Commissions Paid for 01/2026,""
+"","","","","","","",14LOG1120,6270,Commissions Paid,396.00,Commissions Paid for 01/2026,""
+"","","","","","","",14LOG600,6270,Commissions Paid,318.00,Commissions Paid for 01/2026,""
+"","","","","","","",14MAD10523,6270,Commissions Paid,240.00,Commissions Paid for 01/2026,""
+"","","","","","","",14MAR2338,6270,Commissions Paid,224.80,Commissions Paid for 01/2026,""
+"","","","","","","",14MIL3408,6270,Commissions Paid,88.00,Commissions Paid for 01/2026,""
+"","","","","","","",14NEW1022,6270,Commissions Paid,176.00,Commissions Paid for 01/2026,""
+"","","","","","","",14NEW4410,6270,Commissions Paid,265.00,Commissions Paid for 01/2026,""
+"","","","","","","",14NEW6470,6270,Commissions Paid,119.00,Commissions Paid for 01/2026,""
+"","","","","","","",14NEW6480,6270,Commissions Paid,87.00,Commissions Paid for 01/2026,""
+"","","","","","","",14OGD1642,6270,Commissions Paid,140.00,Commissions Paid for 01/2026,""
+"","","","","","","",14OGD2231,6270,Commissions Paid,142.32,Commissions Paid for 01/2026,""
+"","","","","","","",14PEA1720,6270,Commissions Paid,81.20,Commissions Paid for 01/2026,""
+"","","","","","","",14PEA1720,4130,Lease Processing Fee,199.00,Lease Processing Fee for 01/2026,""
+"","","","","","","",14TUM622,6270,Commissions Paid,34.00,Commissions Paid for 01/2026,""
+"","","","","","","",14TWE3806,6270,Commissions Paid,161.25,Commissions Paid for 01/2026,""
+"","","","","","","",14WAS1616,6270,Commissions Paid,453.25,Commissions Paid for 01/2026,""
+"","","","","","","",16BEL4861,6270,Commissions Paid,823.27,Commissions Paid for 01/2026,""
+"","","","","","","",16BEL4861,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",16BEL4861,4127,Late Fee,0.20,Late Fee for 01/2026,""
+"","","","","","","",17FITZ,6270,Commissions Paid,"1,009.64",Commissions Paid for 01/2026,""
+"","","","","","","",17FITZ,4125,Parking Fees,150.00,Parking Fees for 01/2026,""
+"","","","","","","",17FITZ,4127,Late Fee,-51.88,Late Fee credit for 01/2026,""
+"","","","","","","",18Greenleaf,6270,Commissions Paid,956.69,Commissions Paid for 01/2026,""
+"","","","","","","",18Greenleaf,4127,Late Fee,220.95,Late Fee for 01/2026,""
+"","","","","","","",18Villa Verde,6270,Commissions Paid,700.71,Commissions Paid for 01/2026,""
+"","","","","","","",18Villa Verde,4127,Late Fee,49.13,Late Fee for 01/2026,""
+"","","","","","","",11FED8020,6270,Commissions Paid,73.33,Commissions Paid for 01/2026,""
+"","","","","","","",11NEV518,6270,Commissions Paid,52.00,Commissions Paid for 01/2026,""
+"","","","","","","",12ROA1942-1.5,6270,Commissions Paid,154.00,Commissions Paid for 01/2026,""
+"","","","","","","",13ELM1120,6270,Commissions Paid,136.50,Commissions Paid for 01/2026,""
+"","","","","","","",13ELM1120,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13HOL895,6270,Commissions Paid,218.94,Commissions Paid for 01/2026,""
+"","","","","","","",13JOL1601,6270,Commissions Paid,89.25,Commissions Paid for 01/2026,""
+"","","","","","","",13JOL1601,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13LAN257,6270,Commissions Paid,112.40,Commissions Paid for 01/2026,""
+"","","","","","","",13LAN257,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13SEV11713,6270,Commissions Paid,60.10,Commissions Paid for 01/2026,""
+"","","","","","","",13SEV11713,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",14FED2700,6270,Commissions Paid,47.65,Commissions Paid for 01/2026,""
+"","","","","","","",14GRA1975-323,6270,Commissions Paid,134.25,Commissions Paid for 01/2026,""
+"","","","","","","",14LOG600,6270,Commissions Paid,88.00,Commissions Paid for 01/2026,""
+"","","","","","","",16BEL4861,6270,Commissions Paid,9.45,Commissions Paid for 01/2026,""
+"","","","","","","",16BEL4861,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",17FITZ,6270,Commissions Paid,419.17,Commissions Paid for 01/2026,""
+"","","","","","","",17FITZ,4125,Parking Fees,50.00,Parking Fees for 01/2026,""
+"","","","","","","",17FITZ,4127,Late Fee,211.73,Late Fee for 01/2026,""
+"","","","","","","",17FITZ,4126,NSF Fees Collected,140.00,NSF Fees Collected for 01/2026,""
+"","","","","","","",18Greenleaf,6270,Commissions Paid,82.21,Commissions Paid for 01/2026,""
+Denver Operating - CPB,Campus Liquor,14724,No,1120 Logan - Trash Fee,01/05/2026,140.00,"","","","","",""
+"","","","","","","",14LOG1120,6450,Garbage and Recycling,140.00,January 2026,""
+Denver Operating - CPB,City of Aurora Water Dep.,14725,No,"",01/05/2026,107.66,"","","","","",""
+"","","","","","","",13NAP4227,6461,Water/Sewer,107.66,Water/Sewer,""
+Denver Operating - CPB,City of Aurora Water Dep.,14726,No,"",01/05/2026,41.09,"","","","","",""
+"","","","","","","",13LAN257,6461,Water/Sewer,41.09,Water/sewer,""
+Denver Operating - CPB,"ClassicPlan Premium Financing, Inc.",14727,No,"",01/05/2026,761.88,"","","","","",""
+"","","","","","","",13LAF2139,6320,Insurance - Property,761.88,Insurance,""
+Denver Operating - CPB,Denver Water,14729,No,0782749362 - 5302 S. Federal Circle (Centennial Plaza),01/05/2026,987.72,"","","","","",""
+"","","","","","","",11FED5302,6461,Water/Sewer,987.72,water/sewer,""
+Denver Operating - CPB,FARMERS INSURANCE EXCHANGE,14736,No,F008791011-001-00001,01/05/2026,"1,302.25","","","","","",""
+"","","","","","","",11HOL2149,6320,Insurance - Property,"1,302.25",Monthly Property Insurance for 2149 S Holly St. Office,""
+Denver Operating - CPB,IPFS Corporation,14737,No,"",01/05/2026,"2,512.61","","","","","",""
+"","","","","","","",13JOL1601,6320,Insurance - Property,"2,512.61",Property Insurance ILC-470884,""
+Denver Operating - CPB,Meadow Ranch Master Association,14738,No,1123SSJW,01/05/2026,"1,437.00","","","","","",""
+"","","","","","","",11SAN10065,6150,HOA Dues,"1,437.00",January 2026,""
+Denver Operating - CPB,Premier Properties M & R,ACH Transaction,No,"T4LB7IN, TTALU1K, TTMU2LC, TI6BUGGB, T3YT7NH, TEH1391, V-3771, TVD1ZLH, T9NC04T, TRUEIQKB, TREFYOR, T6W538MB, T5NXC65, T1QXWOHB, T636WBGB, TLKBY52, TOVCIPO, TD133AHB, TDI7K8H, TDCPZPIB, TD9ZMJ3, T3MCORG, T3J46HQ, T1M591K, T5NMJ58, T73CKH3, T15GG1I, T7DBGI",01/05/2026,"25,974.60","","","","","",""
+"","","","","","","",14OGD2231,6254,Cleaning,210.00,Cleaning - 08/29/2025,T4LB7IN
+"","","","","","","",18Greenleaf,6610,Maintenance Labor,"6,240.00",Maintenance Labor - 12/17/2025,T1QXWOHB
+"","","","","","","",13LAF2139,6610,Maintenance Labor,868.51,Maintenance Labor - 11/13/2025,T3YT7NH
+"","","","","","","",18Greenleaf,6510,Plumbing,333.63,Plumbing - 11/19/2025,T636WBGB
+"","","","","","","",18Villa Verde,6670,Appliance Repair & Replacement,199.62,Appliances - 12/20/2025,T9NC04T
+"","","","","","","",14OGD2231,6250,Landscaping,65.00,Landscaping - 10/14/2025,TEH1391
+"","","","","","","",14OGD2231,6610,Maintenance Labor,97.50,Maintenance Labor - 09/19/2025,TI6BUGGB
+"","","","","","","",18Villa Verde,6610,Maintenance Labor,732.50,Maintenance Labor - 12/21/2025,TLKBY52
+"","","","","","","",18Villa Verde,6610,Maintenance Labor,930.00,Maintenance Labor - 12/21/2025,TOVCIPO
+"","","","","","","",14OGD2231,6610,Maintenance Labor,792.50,Maintenance Labor - 12/20/2025,TRUEIQKB
+"","","","","","","",14OGD2231,6254,Cleaning,617.38,Cleaning - 09/10/2025,TTALU1K
+"","","","","","","",14OGD2231,6250,Landscaping,90.00,Landscaping - 09/20/2025,TTMU2LC
+"","","","","","","",14OGD2231,6250,Landscaping,81.25,Landscaping - 10/07/2025,TVD1ZLH
+"","","","","","","",14FED2700,6610,Maintenance Labor,113.75,Maintenance Labor - 12/15/2025,T4TOXYB
+"","","","","","","",13JOL1789,6670,Appliance Repair & Replacement,204.00,Appliances - 11/26/2025,V-3771
+"","","","","","","",14LOG1000,6670,Appliance Repair & Replacement,232.50,Appliances - 12/17/2025,T4KMAVJB
+"","","","","","","",13SAB1311,6240,"HVAC (Heat, Vent, Air)",170.00,HVAC - 12/19/2025,TOWRC8MB
+"","","","","","","",17FITZ,6610,Maintenance Labor,"10,400.00",Maintenance Labor - 12/20/2025,T5NXC65
+"","","","","","","",18Greenleaf,6240,"HVAC (Heat, Vent, Air)",480.19,HVAC - 12/20/2025,T6W538MB
+"","","","","","","",14HIG5230,6510,Plumbing,232.50,Plumbing - 12/20/2025,TREFYOR
+"","","","","","","",14LOG1120,6240,"HVAC (Heat, Vent, Air)",85.00,HVAC - 12/23/2025,T3MCORG
+"","","","","","","",14ONE5023,6240,"HVAC (Heat, Vent, Air)",125.00,HVAC - 12/23/2025,T422QFT
+"","","","","","","",14TWE3806,6610,Maintenance Labor,65.00,Maintenance Labor - 12/19/2025,T47N6B7
+"","","","","","","",13KEN3453,6510,Plumbing,145.70,Plumbing - 12/23/2025,T4DFTQR
+"","","","","","","",13LAF2139,6250,Landscaping,100.75,Landscaping - 01/04/2025,T61112CB
+"","","","","","","",14SEV6751,6610,Maintenance Labor,141.82,Maintenance Labor - 01/04/2026,T637WBGB
+"","","","","","","",14EAS4150,6610,Maintenance Labor,81.25,Maintenance Labor - 12/17/2025,T641WBGB
+"","","","","","","",14FED2700,6510,Plumbing,77.50,Plumbing - 01/04/2026,T674607
+"","","","","","","",14LOG1000,6510,Plumbing,102.95,Plumbing - 01/04/2026,T7DBGIQ
+"","","","","","","",13CHE1725,6240,"HVAC (Heat, Vent, Air)",85.00,HVAC - 12/19/2025,TD133AHB
+"","","","","","","",14LOG1120,6510,Plumbing,113.05,Plumbing - 01/04/2025,TD9ZMJ3
+"","","","","","","",13SEV11713,6240,"HVAC (Heat, Vent, Air)",125.00,HVAC - 01/04/2025,TDCPZPIB
+"","","","","","","",13BUC5584,6610,Maintenance Labor,97.50,Maintenance Labor - 01/04/2025,TDI7K8H
+"","","","","","","",14LOG1120,6610,Maintenance Labor,73.95,Maintenance Labor - 01/04/2025,TOQ52IQ
+"","","","","","","",13SEV8901,6510,Plumbing,212.50,Plumbing - 01/04/2025,T1184AL
+"","","","","","","",14LOG1120,6240,"HVAC (Heat, Vent, Air)",85.00,HVAC - 12/17/2025,T15GG1I
+"","","","","","","",14FED2700,6610,Maintenance Labor,77.50,Maintenance Labor - 12/17/2025,T1ITLFZ
+"","","","","","","",14LOG1120,6610,Maintenance Labor,145.00,Maintenance Labor - 01/04/2025,T1M591K
+"","","","","","","",14GAY1242-102,6670,Appliance Repair & Replacement,77.50,Appliances - 12/17/2025,T1Y9AFC
+"","","","","","","",14LOG1120,6240,"HVAC (Heat, Vent, Air)",85.00,HVAC - 12/23/2025,T28C56N
+"","","","","","","",13CHE1725,6240,"HVAC (Heat, Vent, Air)",85.00,HVAC - 12/19/2025,T2EWHXJB
+"","","","","","","",14LOG1120,6254,Cleaning,65.00,Cleaning - 12/23/2025,T2F2NBG
+"","","","","","","",11SAN10065,6610,Maintenance Labor,116.25,Maintenance Labor - 12/15/2025,T2FWYII
+"","","","","","","",14FED2700,6610,Maintenance Labor,65.00,Maintenance Labor - 12/19/2025,T337Y7IB
+"","","","","","","",14LOG1120,6250,Landscaping,130.00,Landscaping - 12/19/2025,T3J46HQ
+"","","","","","","",14LOG600,6610,Maintenance Labor,92.80,Maintenance Labor - 01/04/2026,T5NMJ58
+"","","","","","","",13JOL1601,6254,Cleaning,65.00,Cleaning - 01/04/2025,T5PX05
+"","","","","","","",13LAF2139,6510,Plumbing,85.25,Plumbing - 01/04/2026,T73CKH3
+"","","","","","","",14FED2700,6610,Maintenance Labor,77.50,Maintenance Labor - 01/04/2025,T7CC120
+Denver Operating - CPB,South Adams County Water & Sanitation,14739,No,"",01/05/2026,125.39,"","","","","",""
+"","","","","","","",14NEW6480,6461,Water/Sewer,125.39,water/sewer,""
+Denver Operating - CPB,Waste Connections of Colorado,14740,No,8953978V311,01/05/2026,"1,085.97","","","","","",""
+"","","","","","","",11FED5302,6450,Garbage and Recycling,"1,085.97",Garbage and Recycling,8953978V311
+Denver Operating - CPB,Xcel Energy,14741,No,53-0013374361-3 - 5302 S. Federal Circle (Centennial Plaza),01/05/2026,216.50,"","","","","",""
+"","","","","","","",11FED5302,6462,Electric/Gas,216.50,Electric/Gas,956488908
+Denver Operating - CPB,IPFS Corporation,online payment,No,"",01/06/2026,"4,425.65","","","","","",""
+"","","","","","","",16BEL4861,6320,Insurance - Property,"4,425.65",Insurance,""
+Denver Operating - CPB,Soukup Bush & Associates,online payment,No,"",01/06/2026,"1,605.00","","","","","",""
+"","","","","","","",17FITZ,7615,Accounting Expenses,"1,605.00",Accounting Expenses,""
+Denver Operating - CPB,"Capital Premium Financing, LLC",online payment,No,"",01/07/2026,"1,154.55","","","","","",""
+"","","","","","","",13FOU10444,6320,Insurance - Property,"1,154.55",Property Insurance,""
+Denver Operating - CPB,Comcast,22337161413,No,Payment of past due amount - $377.05,01/08/2026,377.05,"","","","","",""
+"","","","","","","",17FITZ,6475,Internet,377.05,Payment of past due amount - $377.05,22337161413
+Denver Operating - CPB,Soukup Bush & Associates,online payment,No,97697,01/08/2026,"12,275.00","","","","","",""
+"","","","","","","",16BEL4861,7615,Accounting Expenses,"12,275.00",Accounting Expenses,97697
+Denver Operating - CPB,Property Alliance LLC,14746,No,"New Lease Fee - Unit 209, New Lease Fee - Unit 211, New Lease Fee - Unit 215, New Lease - Unit 257",01/09/2026,"6,483.67","","","","","",""
+"","","","","","","",13MOL1380,8800,Capitalized Expenses,599.40,hotel reservation,""
+"","","","","","","",13MOL1380,6450,Garbage and Recycling,"3,285.00",Garbage and recycling,""
+"","","","","","","",13MOL1380,6295,Lease Renewal,200.00,New Lease Fee - Unit 209,""
+"","","","","","","",13MOL1380,6295,Lease Renewal,200.00,New Lease Fee - Unit 211,""
+"","","","","","","",13MOL1380,6295,Lease Renewal,200.00,New Lease Fee - Unit 211,""
+"","","","","","","",13MOL1380,6270,Commissions Paid,205.32,Commissions Paid for 12/2025,""
+"","","","","","","",13MOL1380,6270,Commissions Paid,305.81,Commissions Paid for 01/2026,""
+"","","","","","","",13MOL1380,6270,Commissions Paid,737.28,Commissions Paid for 01/2026,""
+"","","","","","","",13MOL1380,4135,Application Fee Income,15.00,Application Fee Income for 01/2026,""
+"","","","","","","",13MOL1380,6290,Tenant Leasing Fee,500.00,New Lease - Unit 257,""
+"","","","","","","",13MOL1380,6270,Commissions Paid,235.86,Commissions Paid for 01/2026,""
+Denver Operating - CPB,"Tschetter Sulzer, P.C.",ACH Batch # 1054,No,EC-508638,01/09/2026,87.08,"","","","","",""
+"","","","","","","",13MOL1380,7610,Legal Expenses,87.08,legal fee,EC-508638
+Denver Operating - CPB,City of Aurora Water Dep.,online payment,No,"",01/09/2026,"1,329.83","","","","","",""
+"","","","","","","",13MOL1380,6461,Water/Sewer,"1,329.83",Water/sewer,""
+Denver Operating - CPB,City of Aurora Water Dep.,online payment,No,"",01/09/2026,"1,037.80","","","","","",""
+"","","","","","","",13MOL1380,6461,Water/Sewer,"1,037.80",Water/sewer,""
+Denver Operating - CPB,Property Alliance LLC,ONLINE TRANSFER CC,No,"",01/12/2026,"4,915.55","","","","","",""
+"","","","","","","",18Greenleaf,7420,Office Supplies,480.40,check scanner,""
+"","","","","","","",17FITZ,7420,Office Supplies,480.40,check scanner,""
+"","","","","","","",18Greenleaf,7420,Office Supplies,101.83,office cleaning supply,""
+"","","","","","","",16BEL4861,7610,Legal Expenses,24.32,certified letter,""
+"","","","","","","",18Greenleaf,6140,Keys / Locksmith,51.00,10 keys copies,""
+"","","","","","","",18Greenleaf,7420,Office Supplies,29.57,paper for office,""
+"","","","","","","",16BEL4861,6420,Gas,"1,816.12",PAST DUE GAS CC,""
+"","","","","","","",16BEL4861,6420,Gas,442.10,PAS DUE GAS CC,""
+"","","","","","","",16BEL4861,7420,Office Supplies,87.10,OFFICE SUPPLY,""
+"","","","","","","",16BEL4861,6790,Pest Control,28.74,Roach Bombs and Gel Bate,""
+"","","","","","","",16BEL4861,6240,"HVAC (Heat, Vent, Air)","1,321.13",SPACE HEATER,""
+"","","","","","","",17FITZ,7420,Office Supplies,52.84,office supply,""
+Denver Operating - CPB,Property Alliance LLC,ONLINE TRANSFER,No,"New Lease Fee - Unit 11555, Leasing Fee - Unit 247, New Lease - 2328 Renewal, New Lease Unit 4, New Lease - 2145, Renewal - 2328 -1, Renewal - 2328 -3, Renewal - 2328 -5, Renewal - 2320 -2, Renewal - 301, Lease nenewal - 13IOL1980, Renewal - 1617, Renewal",01/12/2026,"24,547.85","","","","","",""
+"","","","","","","",13LAF2139,6320,Insurance - Property,775.94,Property Insurance,""
+"","","","","","","",16BEL4861,7610,Legal Expenses,20.83,COURT PARKING  CC,""
+"","","","","","","",13SEV11555,6295,Lease Renewal,200.00,New Lease Fee - Unit 11555,""
+"","","","","","","",13EMP2328,6270,Commissions Paid,36.18,Commissions Paid for 12/2025,""
+"","","","","","","",14FED2700,6270,Commissions Paid,47.65,Commissions Paid for 12/2025,""
+"","","","","","","",13COR9596,6270,Commissions Paid,260.00,Commissions Paid for 01/2026,""
+"","","","","","","",13EMP2328,6270,Commissions Paid,89.88,Commissions Paid for 01/2026,""
+"","","","","","","",13SAG10219,6270,Commissions Paid,100.00,Commissions Paid for 01/2026,""
+"","","","","","","",14THI5045,6270,Commissions Paid,108.00,Commissions Paid for 01/2026,""
+"","","","","","","",13ALT1390,6270,Commissions Paid,152.00,Commissions Paid for 01/2026,""
+"","","","","","","",13EMP2328,6270,Commissions Paid,316.87,Commissions Paid for 01/2026,""
+"","","","","","","",13EMP2328,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13LIM1925,6270,Commissions Paid,156.00,Commissions Paid for 01/2026,""
+"","","","","","","",13SEV11555,6270,Commissions Paid,151.60,Commissions Paid for 01/2026,""
+"","","","","","","",13SEV11555,4127,Late Fee,2.25,Late Fee for 01/2026,""
+"","","","","","","",13SEV11555,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",14HAR2801,6270,Commissions Paid,130.00,Commissions Paid for 01/2026,""
+"","","","","","","",14INC725,6270,Commissions Paid,47.84,Commissions Paid for 01/2026,""
+"","","","","","","",14JOS2494,6270,Commissions Paid,385.00,Commissions Paid for 01/2026,""
+"","","","","","","",14ONE2628,6270,Commissions Paid,189.00,Commissions Paid for 01/2026,""
+"","","","","","","",13WIL1213,6270,Commissions Paid,176.00,Commissions Paid for 01/2026,""
+"","","","","","","",14SEV1140,6270,Commissions Paid,212.00,Commissions Paid for 01/2026,""
+"","","","","","","",17FITZ,6290,Tenant Leasing Fee,500.00,New Lease - Unit 20-03,""
+"","","","","","","",16BEL4861,6290,Tenant Leasing Fee,500.00,Leasing Fee - Unit 247,""
+"","","","","","","",13EMP2328,"",AppFolio Tax Authority,500.00,New Lease - 2328 Renewal,""
+"","","","","","","",13LAF2139,6290,Tenant Leasing Fee,500.00,New Lease Unit 4,""
+"","","","","","","",13LAF2139,6290,Tenant Leasing Fee,500.00,New Lease - 2145,""
+"","","","","","","",13LAF2139,6290,Tenant Leasing Fee,500.00,New Lease - 2145,""
+"","","","","","","",13EMP2328,6295,Lease Renewal,100.00,Renewal - 2328 -1,""
+"","","","","","","",13EMP2328,6295,Lease Renewal,100.00,Renewal - 2328 -1,""
+"","","","","","","",13EMP2328,6295,Lease Renewal,100.00,Renewal - 2328 -5,""
+"","","","","","","",13EMP2328,6295,Lease Renewal,100.00,Renewal - 2328 -1,""
+"","","","","","","",13FOU10444,6295,Lease Renewal,200.00,Renewal - 301,""
+"","","","","","","",13IOL1980,6295,Lease Renewal,200.00,Lease nenewal - 13IOL1980,""
+"","","","","","","",13JOL1601,6295,Lease Renewal,200.00,Renewal - 1617,""
+"","","","","","","",13LAF2139,6295,Lease Renewal,200.00,Renewal - 2153,""
+"","","","","","","",13RAR1129,6295,Lease Renewal,200.00,Renewal - 2153,""
+"","","","","","","",13SEV8901,6295,Lease Renewal,200.00,Renewal - 8901 Upper,""
+"","","","","","","",14LOG600,6295,Lease Renewal,200.00,Renewal - 600 Logan Unit 4,""
+"","","","","","","",14TWE3806,6295,Lease Renewal,200.00,Renewal - 3806,""
+"","","","","","","",11FED8020,6270,Commissions Paid,134.61,Commissions Paid for 01/2026,""
+"","","","","","","",11KIP1901,6270,Commissions Paid,37.50,Commissions Paid for 01/2026,""
+"","","","","","","",11SAN10065,6270,Commissions Paid,487.96,Commissions Paid for 01/2026,""
+"","","","","","","",11SAN734,6270,Commissions Paid,382.10,Commissions Paid for 01/2026,""
+"","","","","","","",11SAN738,6270,Commissions Paid,265.65,Commissions Paid for 01/2026,""
+"","","","","","","",12ANI1317,6270,Commissions Paid,51.25,Commissions Paid for 01/2026,""
+"","","","","","","",12ANT7823,6270,Commissions Paid,180.00,Commissions Paid for 01/2026,""
+"","","","","","","",12ANT7835,6270,Commissions Paid,190.00,Commissions Paid for 01/2026,""
+"","","","","","","",12ANT7835,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",12YUM629,6270,Commissions Paid,31.40,Commissions Paid for 01/2026,""
+"","","","","","","",13BRA1258,6270,Commissions Paid,256.00,Commissions Paid for 01/2026,""
+"","","","","","","",13EMP2328,6270,Commissions Paid,168.12,Commissions Paid for 01/2026,""
+"","","","","","","",13EMP2328,4580,Liability to Landlord Insurance,30.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13FLO18425-C,6270,Commissions Paid,80.00,Commissions Paid for 01/2026,""
+"","","","","","","",13FLO18425-C,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13FOU10444,6270,Commissions Paid,140.14,Commissions Paid for 01/2026,""
+"","","","","","","",13FOU10444,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13FRA711,6270,Commissions Paid,10.14,Commissions Paid for 01/2026,""
+"","","","","","","",13FUN1838,6270,Commissions Paid,140.00,Commissions Paid for 01/2026,""
+"","","","","","","",13FUN1838,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13IRO2295,6270,Commissions Paid,192.00,Commissions Paid for 01/2026,""
+"","","","","","","",13JAC2870,6270,Commissions Paid,120.00,Commissions Paid for 01/2026,""
+"","","","","","","",13JOL1601,6270,Commissions Paid,253.96,Commissions Paid for 01/2026,""
+"","","","","","","",13JOL1601,4580,Liability to Landlord Insurance,30.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13JOL1781,6270,Commissions Paid,133.00,Commissions Paid for 01/2026,""
+"","","","","","","",13JOL1781,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13KEN3453,6270,Commissions Paid,71.75,Commissions Paid for 01/2026,""
+"","","","","","","",13KEN3453,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13LAF2139,6270,Commissions Paid,65.05,Commissions Paid for 01/2026,""
+"","","","","","","",13LAF2139,4135,Application Fee Income,45.00,Application Fee Income for 01/2026,""
+"","","","","","","",13LIN19584,6270,Commissions Paid,230.00,Commissions Paid for 01/2026,""
+"","","","","","","",13LIN19584,4580,Liability to Landlord Insurance,10.50,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13PAR1933,6270,Commissions Paid,100.00,Commissions Paid for 01/2026,""
+"","","","","","","",13PAR1933,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13RAR1133,6270,Commissions Paid,92.00,Commissions Paid for 01/2026,""
+"","","","","","","",13SAB1311,6270,Commissions Paid,160.00,Commissions Paid for 01/2026,""
+"","","","","","","",13SAB1311,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13SEV807,6270,Commissions Paid,84.00,Commissions Paid for 01/2026,""
+"","","","","","","",13SEV807,4127,Late Fee,2.50,Late Fee for 01/2026,""
+"","","","","","","",13SEV807,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",14DEL2478-5,6270,Commissions Paid,146.65,Commissions Paid for 01/2026,""
+"","","","","","","",14FED2700,6270,Commissions Paid,16.85,Commissions Paid for 01/2026,""
+"","","","","","","",14JOS11846,6270,Commissions Paid,176.00,Commissions Paid for 01/2026,""
+"","","","","","","",14LOG1120,6270,Commissions Paid,32.00,Commissions Paid for 01/2026,""
+"","","","","","","",14MIL3408,6270,Commissions Paid,2.00,Commissions Paid for 01/2026,""
+"","","","","","","",14NEW6480,6270,Commissions Paid,82.50,Commissions Paid for 01/2026,""
+"","","","","","","",14ONE3000-94	,6270,Commissions Paid,180.00,Commissions Paid for 01/2026,""
+"","","","","","","",14SEV6751,6270,Commissions Paid,85.50,Commissions Paid for 01/2026,""
+"","","","","","","",14ZEN3904,6270,Commissions Paid,185.60,Commissions Paid for 01/2026,""
+"","","","","","","",16BEL4861,6270,Commissions Paid,245.91,Commissions Paid for 01/2026,""
+"","","","","","","",16BEL4861,4580,Liability to Landlord Insurance,30.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",17FITZ,6270,Commissions Paid,540.11,Commissions Paid for 01/2026,""
+"","","","","","","",17FITZ,4125,Parking Fees,150.00,Parking Fees for 01/2026,""
+"","","","","","","",18Greenleaf,6270,Commissions Paid,213.90,Commissions Paid for 01/2026,""
+"","","","","","","",13KEN16456,7460,Marketing,10.00,Marketing - December 2025,""
+"","","","","","","",14FED2700,7460,Marketing,250.00,Marketing - December 2025,""
+"","","","","","","",13LAF2139,7460,Marketing,250.00,Marketing - December 2025,""
+"","","","","","","",14KIN1928	,7460,Marketing,90.00,Marketing - December 2025,""
+"","","","","","","",14LOG1120,7460,Marketing,250.00,Marketing - December 2025,""
+"","","","","","","",14PEA1720,7460,Marketing,150.00,Marketing - December 2025,""
+"","","","","","","",14VAR10638,7460,Marketing,60.00,Marketing - December 2025,""
+"","","","","","","",17FITZ,7460,Marketing,250.00,Marketing - December 2025,""
+"","","","","","","",18Greenleaf,7460,Marketing,250.00,Marketing - December 2025,""
+"","","","","","","",18Villa Verde,7460,Marketing,50.00,Marketing - December 2025,""
+"","","","","","","",11FED8020,6270,Commissions Paid,27.07,Commissions Paid for 01/2026,""
+"","","","","","","",11FED8020,4127,Late Fee,58.28,Late Fee for 01/2026,""
+"","","","","","","",11FED8020,4135,Application Fee Income,45.00,Application Fee Income for 01/2026,""
+"","","","","","","",11FIF6000,6270,Commissions Paid,157.30,Commissions Paid for 01/2026,""
+"","","","","","","",11KIP5990,6270,Commissions Paid,139.17,Commissions Paid for 01/2026,""
+"","","","","","","",11NIN8129,6270,Commissions Paid,608.73,Commissions Paid for 01/2026,""
+"","","","","","","",11NIN8129,4127,Late Fee,28.61,Late Fee for 01/2026,""
+"","","","","","","",11NIN8129,4125,Parking Fees,149.30,Parking Fees for 01/2026,""
+"","","","","","","",12ANT7817,6270,Commissions Paid,193.50,Commissions Paid for 01/2026,""
+"","","","","","","",12MON1563	,6270,Commissions Paid,24.00,Commissions Paid for 01/2026,""
+"","","","","","","",13EMP2328,6270,Commissions Paid,54.06,Commissions Paid for 01/2026,""
+"","","","","","","",13EMP2328,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13FIF12235,6270,Commissions Paid,128.00,Commissions Paid for 01/2026,""
+"","","","","","","",13FIF12235,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13FIR25894,6270,Commissions Paid,265.00,Commissions Paid for 01/2026,""
+"","","","","","","",13FIR25894,4128,Pet Fee-Non Refundable,50.00,Pet Fee-Non Refundable for 01/2026,""
+"","","","","","","",13FOU10444,6270,Commissions Paid,220.64,Commissions Paid for 01/2026,""
+"","","","","","","",13FOU10444,4580,Liability to Landlord Insurance,30.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13FRA711,6270,Commissions Paid,41.70,Commissions Paid for 01/2026,""
+"","","","","","","",13FRA711,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13FRA711,4127,Late Fee,34.75,Late Fee for 01/2026,""
+"","","","","","","",13JOL1601,6270,Commissions Paid,665.21,Commissions Paid for 01/2026,""
+"","","","","","","",13JOL1601,4127,Late Fee,136.69,Late Fee for 01/2026,""
+"","","","","","","",13JOL1601,4580,Liability to Landlord Insurance,31.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13LAF2139,6270,Commissions Paid,18.70,Commissions Paid for 01/2026,""
+"","","","","","","",13LAF2139,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13LAF2139,4130,Lease Processing Fee,199.00,Lease Processing Fee for 01/2026,""
+"","","","","","","",13MOL1380,6270,Commissions Paid,478.27,Commissions Paid for 01/2026,""
+"","","","","","","",13MOL1380,4127,Late Fee,115.95,Late Fee for 01/2026,""
+"","","","","","","",13MOL1380,4135,Application Fee Income,50.00,Application Fee Income for 01/2026,""
+"","","","","","","",13SEV8395,6270,Commissions Paid,177.50,Commissions Paid for 01/2026,""
+"","","","","","","",13SEV8395,4128,Pet Fee-Non Refundable,25.00,Pet Fee-Non Refundable for 01/2026,""
+"","","","","","","",13SEV8395,4127,Late Fee,88.75,Late Fee for 01/2026,""
+"","","","","","","",13SEV8901,6270,Commissions Paid,72.00,Commissions Paid for 01/2026,""
+"","","","","","","",13SEV8901,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13SEV8901,4127,Late Fee,45.00,Late Fee for 01/2026,""
+"","","","","","","",13VIR12157,6270,Commissions Paid,234.50,Commissions Paid for 01/2026,""
+"","","","","","","",13VIR12157,4127,Late Fee,125.00,Late Fee for 01/2026,""
+"","","","","","","",13VIR12157,4580,Liability to Landlord Insurance,30.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13ZEN1333,6270,Commissions Paid,208.00,Commissions Paid for 01/2026,""
+"","","","","","","",13ZEN1333,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",14FED2700,6270,Commissions Paid,57.50,Commissions Paid for 01/2026,""
+"","","","","","","",14LOG600,6270,Commissions Paid,193.00,Commissions Paid for 01/2026,""
+"","","","","","","",14LOG600,4127,Late Fee,52.50,Late Fee for 01/2026,""
+"","","","","","","",14NIN5731,6270,Commissions Paid,154.80,Commissions Paid for 01/2026,""
+"","","","","","","",14NIN5731,4127,Late Fee,96.75,Late Fee for 01/2026,""
+"","","","","","","",14NIN883-802,6270,Commissions Paid,178.50,Commissions Paid for 01/2026,""
+"","","","","","","",14OGD1642,6270,Commissions Paid,65.00,Commissions Paid for 01/2026,""
+"","","","","","","",14ONE5023,6270,Commissions Paid,178.50,Commissions Paid for 01/2026,""
+"","","","","","","",14RAR13230,6270,Commissions Paid,216.00,Commissions Paid for 01/2026,""
+"","","","","","","",14SEV5575-202,6270,Commissions Paid,114.52,Commissions Paid for 01/2026,""
+"","","","","","","",14THI115,6270,Commissions Paid,115.75,Commissions Paid for 01/2026,""
+"","","","","","","",14TWE3806,6270,Commissions Paid,55.00,Commissions Paid for 01/2026,""
+"","","","","","","",16BEL4861,6270,Commissions Paid,111.85,Commissions Paid for 01/2026,""
+"","","","","","","",17FITZ,6270,Commissions Paid,900.13,Commissions Paid for 01/2026,""
+"","","","","","","",17FITZ,4125,Parking Fees,104.45,Parking Fees for 01/2026,""
+"","","","","","","",17FITZ,4127,Late Fee,122.25,Late Fee for 01/2026,""
+"","","","","","","",17FITZ,4135,Application Fee Income,62.90,Application Fee Income for 01/2026,""
+"","","","","","","",18Greenleaf,6270,Commissions Paid,55.02,Commissions Paid for 01/2026,""
+"","","","","","","",18Greenleaf,4127,Late Fee,0.02,Late Fee for 01/2026,""
+"","","","","","","",18Villa Verde,6270,Commissions Paid,57.84,Commissions Paid for 01/2026,""
+"","","","","","","",18Villa Verde,4127,Late Fee,16.20,Late Fee for 01/2026,""
+Denver Operating - CPB,Foremost Insurance Company,online payment,No,Policy : 381-0091831983-09,01/12/2026,163.60,"","","","","",""
+"","","","","","","",13HAN2208,6320,Insurance - Property,163.60,Monthly Payment - Policy : 381-0091831983-09,""
+Denver Operating - CPB,Foremost Insurance Company,online payment,No,Policy 381-0091815717-09,01/12/2026,122.93,"","","","","",""
+"","","","","","","",13IOL1980,6320,Insurance - Property,122.93,Monthly Payment - Policy 381-0091815717-09,""
+Denver Operating - CPB,Foremost Insurance Company,online payment,No,Policy: 381-0091831961-09,01/12/2026,120.28,"","","","","",""
+"","","","","","","",13IRO2295,6320,Insurance - Property,120.28,Monthly Payment - Policy: 381-0091831961-09,""
+Denver Operating - CPB,Foremost Insurance Company,online payment,No,"",01/12/2026,125.00,"","","","","",""
+"","","","","","","",13LIM1925,6320,Insurance - Property,125.00,Policy: : 381-0091831947-09,""
+Denver Operating - CPB,Foremost Insurance Company,online payment,No,Monthly Payment - Policy: : 381-0091831947-09,01/12/2026,115.71,"","","","","",""
+"","","","","","","",14IVY3263,6320,Insurance - Property,115.71,Monthly Payment - Policy: : 381-0091831947-09,""
+Denver Operating - CPB,Foremost Insurance Company,online payment,No,Policy - 381-0091815529-09,01/12/2026,153.23,"","","","","",""
+"","","","","","","",13GEN786,6320,Insurance - Property,153.23,Policy - 381-0091815529-09,""
+Denver Operating - CPB,Foremost Insurance Company,online payment,No,Securing Insurance Payment Funds,01/12/2026,132.98,"","","","","",""
+"","","","","","","",13ALT1390,6320,Insurance - Property,132.98,Securing Insurance Payment Funds - Monthly Payment,""
+Denver Operating - CPB,"ClassicPlan Premium Financing, Inc.",14768,No,VOPBV,01/12/2026,"1,022.88","","","","","",""
+"","","","","","","",13EMP2328,6320,Insurance - Property,"1,022.88",VOPBV,""
+Denver Operating - CPB,Ecolab Pest Elimination,14774,No,3102294,01/12/2026,102.71,"","","","","",""
+"","","","","","","",11SAN10065,6790,Pest Control,102.71,Pest Control,3102294
+Denver Operating - CPB,Narrate Real Estate LLC,ACH Batch # 1055,No,"INV-000170, INV-000174, INV-000179, INV-000181, INV-000183, INV-000177",01/12/2026,"3,271.00","","","","","",""
+"","","","","","","",11HOL2149,6271,Asset Management Fee,650.00,Asset  Management fee,INV-000170
+"","","","","","","",13SEV11713,6271,Asset Management Fee,200.00,"",INV-000174
+"","","","","","","",12FAI361,6271,Asset Management Fee,856.00,Asset  Management fee,INV-000177
+"","","","","","","",13MOL1380,6271,Asset Management Fee,815.00,Asset  Management fee,INV-000179
+"","","","","","","",11HOL2149,6271,Asset Management Fee,650.00,Asset  Management fee,INV-000181
+"","","","","","","",11NEV518,6271,Asset Management Fee,100.00,Asset  Management fee,INV-000183
+Denver Operating - CPB,Premier Properties M & R,ACH Batch # 1055,No,"PP0099, PP0169, PP0166-A, TKM3XXCB, T48NBUO, TZNNX9X, T7AB7YBB, TMFDW8G, TLORXL7, TAW3H1Q, TG6N6DG, TXE0155, TK946U, TLE559X, TLKVX9X, TKJMNG8, TNREHC2, TXKZK5, TYNR76M, TY5U1EM, TV71WXI, TVDKY5U, T730YVE, T36E6PD, TLVC9ZJB, T5CAKXJB, T3A9WPKB, T5RIZ63, T",01/12/2026,"58,547.49","","","","","",""
+"","","","","","","",14SEV1140,6540,Garage Door Repair & Replacement,764.27,Garage door repair,PP0099
+"","","","","","","",14SEV1140,6610,Maintenance Labor,904.52,16050-1,PP0166-A
+"","","","","","","",14SEV1140,6215,Materials for Repairs,506.21,MR full paint materials,PP0169
+"","","","","","","",13PAR1933,6610,Maintenance Labor,238.76,Maintenance Labor - 12/20/2025,TYNR76M
+"","","","","","","",13MOL1380,6790,Pest Control,120.00,Pest Control - 09/12/2025,TZNNX9X
+"","","","","","","",13MOL1380,6254,Cleaning,117.00,CLeaning - 09/24/2025,T48NBUO
+"","","","","","","",13MOL1380,6254,Cleaning,90.00,Cleaning - 09/16/2025,T7AB7YBB
+"","","","","","","",13MOL1380,6510,Plumbing,77.50,Plumbing - 10/22/2025,TAW3H1Q
+"","","","","","","",13EMP2328,6240,"HVAC (Heat, Vent, Air)",218.45,HVAC - 12/23/2025,TFLU7MMB
+"","","","","","","",13MOL1380,6510,Plumbing,77.50,Plumbing - 10/16/2025,TG6N6DG
+"","","","","","","",13MOL1380,6515,Electrical Repair,77.50,Electrical repair - 10/08/2025,TK946U
+"","","","","","","",13MOL1380,6610,Maintenance Labor,181.50,Maintenance Labor - 10/04/2025,TKJMNG8
+"","","","","","","",14ONE2628,6240,"HVAC (Heat, Vent, Air)","1,902.48",HVAC - 11/05/2025,TKM3XXCB
+"","","","","","","",13MOL1380,6670,Appliance Repair & Replacement,116.25,Appliances - 10/06/2025,TLE559X
+"","","","","","","",13MOL1380,6254,Cleaning,113.75,Cleaning - 10/06/2025,TLKVX9X
+"","","","","","","",13MOL1380,6510,Plumbing,180.20,Plumbing - 10/20/2025,TLORXL7
+"","","","","","","",13FUL2081,6610,Maintenance Labor,121.78,Maintenance Labor - 12/05/2025,TLVC9ZJB
+"","","","","","","",13MOL1380,6515,Electrical Repair,77.50,Electrical repair - 09/16/2025,TMFDW8G
+"","","","","","","",13MOL1380,6254,Cleaning,97.50,Cleaning - 10/04/2025,TNREHC2
+"","","","","","","",13JOL1601,6254,Cleaning,94.25,Cleaning - 12/17/2025,TTW55RKB
+"","","","","","","",13SAB1311,6240,"HVAC (Heat, Vent, Air)",805.57,HVAC - 12/20/2025,TV71WXI
+"","","","","","","",14TUM622,6240,"HVAC (Heat, Vent, Air)","2,905.50",HVAC - 12/20/2025,TVDKY5U
+"","","","","","","",13MOL1380,6790,Pest Control,133.25,Pest Control - 10/13/2025,TXE0155
+"","","","","","","",13MOL1380,6790,Pest Control,247.50,Pest Control - 10/03/2025,TXKZK5
+"","","","","","","",13PAR1933,6610,Maintenance Labor,"1,263.99",Maintenance Labor - 12/20/2025,TY5U1EM
+"","","","","","","",14FEN7145,6610,Maintenance Labor,302.45,Maintenance Labor - 12/20/2025,T36E6PD
+"","","","","","","",14ONE2628,6670,Appliance Repair & Replacement,514.64,Appliances - 12/20/2025,T730YVE
+"","","","","","","",13JOL1601,6610,Maintenance Labor,529.20,Maintenance Labor - 01/04/2025,T022MT7
+"","","","","","","",14FED2700,6254,Cleaning,"2,382.05",Cleaning - 12/29/2025,T19538MB
+"","","","","","","",14FED2700,6250,Landscaping,260.00,Landscaping - 12/15/2025,T1JYA04
+"","","","","","","",14GRA1185,6250,Landscaping,104.36,Landscaping - 10/15/2025,T2XU3TFB
+"","","","","","","",13EMP2328,6790,Pest Control,65.00,Pest Control - 12/17/2025,T3A9WPKB
+"","","","","","","",13NAS22354,6610,Maintenance Labor,72.50,Maintenance Labor - 10/21/2025,T3GPMHE
+"","","","","","","",13EMP2328,6254,Cleaning,130.00,Cleaning - 01/06/2026,T3JX9G1
+"","","","","","","",13EMP2328,6240,"HVAC (Heat, Vent, Air)",544.80,HVAC - 01/08/2025,T3VHP6C
+"","","","","","","",13BRA1258,6610,Maintenance Labor,77.50,Maintenance Labor - 12/15/2025,T47VPNLB
+"","","","","","","",13EMP2328,6790,Pest Control,65.00,Pest Control - 01/04/2025,T5CAKXJB
+"","","","","","","",13PAR1933,6790,Pest Control,125.00,Pest Control - 01/04/2026,T5RIZ63
+"","","","","","","",13JOL1781,6610,Maintenance Labor,77.50,Maintenance Labor - 12/23/2025,T6VNHGT
+"","","","","","","",14LOG600,6510,Plumbing,372.86,Plumbing - 01/08/2026,T6YYM6FB
+"","","","","","","",13EMP2328,6790,Pest Control,176.00,Pest Control - 12/17/2025,T7DKCUG
+"","","","","","","",13JAC2870,6250,Landscaping,195.00,Landscaping - 12/17/2025,T7G69TKB
+"","","","","","","",14NEW4410,6250,Landscaping,273.00,Landscaping - 01/04/2026,T7JJMYBB
+"","","","","","","",13IRO2295,6610,Maintenance Labor,210.80,Maintenance Labor - 01/04/2026,T7KB4JJ
+"","","","","","","",14LOG1120,6610,Maintenance Labor,72.50,Maintenance Labor - 10/21/2025,T7T1TD2
+"","","","","","","",14MAR2338,6610,Maintenance Labor,85.00,Maintenance Labor - 12/23/2025,T7Y048B
+"","","","","","","",13EMP2328,6254,Cleaning,65.00,Cleaning - 01/04/2026,T80NOKP
+"","","","","","","",13ALT1390,6610,Maintenance Labor,77.50,Maintenance Labor - 01/04/2026,T84ZJ1BB
+"","","","","","","",14LOG1120,6610,Maintenance Labor,77.50,Maintenance Labor - 01/04/2026,T8FWUMMB
+"","","","","","","",13ALT1390,6240,"HVAC (Heat, Vent, Air)",100.00,HVAC - 01/04/2026,T8KGW8EB
+"","","","","","","",14LOG1120,6240,"HVAC (Heat, Vent, Air)",170.00,HVAC - 01/04/2026,T8U1UEK
+"","","","","","","",13SAB1311,6240,"HVAC (Heat, Vent, Air)",77.50,HVAC - 12/19/2025,T8VK92BB
+"","","","","","","",14KEN4820-A,6510,Plumbing,170.00,Plumbing - 12/19/2025,T8X3UVAB
+"","","","","","","",13JOL1601,6510,Plumbing,214.00,Plumbing - 12/23/2025,T8XD3VGB
+"","","","","","","",13FOU10444,6610,Maintenance Labor,142.16,Maintenance Labor - 12/09/2025,T90DYBFB
+"","","","","","","",14LOG1120,6240,"HVAC (Heat, Vent, Air)",85.00,HVAC - 01/04/2026,T9LBL4JB
+"","","","","","","",14FED2700,6254,Cleaning,65.00,Cleaning - 01/04/2026,T9Q8AZLB
+"","","","","","","",13CHE1725,6240,"HVAC (Heat, Vent, Air)",77.50,HVAC - 01/04/2026,TA5J99F
+"","","","","","","",13FIR25894,6515,Electrical Repair,85.25,Electrical repair - 01/04/2026,TAD6N2BB
+"","","","","","","",14FED2700,6450,Garbage and Recycling,116.25,Garbage and Recycling - 01/04/2026,TAERBLAB
+"","","","","","","",13KNO3839,6610,Maintenance Labor,105.54,Maintenance Labor - 01/04/202,TAJTCLX
+"","","","","","","",13KNO3839,6790,Pest Control,100.00,Pest Control - 12/31/2025,TAQ8UHJB
+"","","","","","","",14LOG600,6240,"HVAC (Heat, Vent, Air)",148.75,HVAC - 12/31/2025,TAQE4E4
+"","","","","","","",14SEV1140,6610,Maintenance Labor,195.00,Maintenance Labor - 12/31/2025,TARJF8BB
+"","","","","","","",13QUA3682,6610,Maintenance Labor,100.00,Maintenance Labor - 12/31/2025,TAZKZ9I
+"","","","","","","",13PLY22351,6670,Appliance Repair & Replacement,77.50,Appliances - 12/31/2025,TB2XD0HB
+"","","","","","","",13SAB1311,6610,Maintenance Labor,"6,043.60",Maintenance Labor - 01/05/2026,TBCARIP
+"","","","","","","",14TWE3806,6790,Pest Control,77.50,Pest Control - 12/31/2025,TBGYEKR
+"","","","","","","",14LOG1120,6240,"HVAC (Heat, Vent, Air)",77.50,HVAC - 12/31/2025,TBHIW3HB
+"","","","","","","",13FIF12235,6450,Garbage and Recycling,479.64,Garbage and Recycling - 12/19/2025,TBJ7KT6
+"","","","","","","",13CHE1725,6240,"HVAC (Heat, Vent, Air)",204.00,HVAC - 12/17/2025,TBRFT8LB
+"","","","","","","",13EMP2328,6250,Landscaping,65.00,Landscaping - 12/17/2025,TC3CL52
+"","","","","","","",13EMP2328,6510,Plumbing,212.50,Plumbing - 12/15/2025,TC4HGU2
+"","","","","","","",13CHE1725,6240,"HVAC (Heat, Vent, Air)",85.00,HVAC - 12/23/2025,TCCQQOV
+"","","","","","","",13SAB1311,6610,Maintenance Labor,917.80,Maintenance Labor - 01/03/2025,TCJPRRQ
+"","","","","","","",13SAB1311,6510,Plumbing,460.67,Plumbing - 12/19/2025,TCR9FWJ
+"","","","","","","",14LOG1120,6510,Plumbing,110.73,Plumbing - 12/10/2025,TCVN54D
+"","","","","","","",13KNO3679,6240,"HVAC (Heat, Vent, Air)",125.25,HVAC - 01/09/2026,TCX5ULIB
+"","","","","","","",13EMP2328,6790,Pest Control,250.00,Pest Control - 12/14/2025,TCZEHD2
+"","","","","","","",14WAS1616,6240,"HVAC (Heat, Vent, Air)",181.25,HVAC - 01/05/2026,TCZZWAB
+"","","","","","","",13JOL1601,6240,"HVAC (Heat, Vent, Air)",227.80,HVAC - 12/17/2025,TD3MAL3
+"","","","","","","",13ALT1390,6240,"HVAC (Heat, Vent, Air)",129.20,HVAC - 12/23/2025,TDK44B9
+"","","","","","","",13JOL1601,6240,"HVAC (Heat, Vent, Air)",85.00,HVAC - 12/17/2025,TDPXCV3
+"","","","","","","",14LOG600,6254,Cleaning,60.00,Cleaning - 01/04/2026,TDQXK3R
+"","","","","","","",14DEL2478-5,6610,Maintenance Labor,72.50,Maintenance Labor - 01/03/2026,TDUGPT3
+"","","","","","","",14TWE3806,6610,Maintenance Labor,193.57,Maintenance Labor - 01/04/2026,TE2YZJX
+"","","","","","","",14FED2700,6254,Cleaning,65.00,Cleaning - 12/17/2025,TE9X1ZFB
+"","","","","","","",14ZEN3904,6670,Appliance Repair & Replacement,477.98,Appliances - 01/09/2026,TEBZ4XCB
+"","","","","","","",14FED2700,6610,Maintenance Labor,108.75,Maintenance Labor - 01/04/2026,TEFLMGF
+"","","","","","","",14LOG1120,6240,"HVAC (Heat, Vent, Air)",77.50,HVAC - 01/05/2026,TEJF685
+"","","","","","","",14IVY3263,6240,"HVAC (Heat, Vent, Air)",77.50,HVAC - 12/19/2025,TEQ6UNEB
+"","","","","","","",14LOG1120,6610,Maintenance Labor,77.50,Maintenance Labor - 12/15/2025,TF7FLGR
+"","","","","","","",13CHE1725,6510,Plumbing,382.50,Plumbing - 01/08/2026,TF953P4
+"","","","","","","",13PAR1933,6610,Maintenance Labor,"4,603.74",Maintenance Labor - 01/06/2026,TF996KY
+"","","","","","","",14GRA1185,6610,Maintenance Labor,200.64,Maintenance Labor - 12/10/2025,TF9K3MK
+"","","","","","","",13JOL1601,6254,Cleaning,130.00,Cleaning - 12/14/2025,TFAIA6HB
+"","","","","","","",13ALT1390,6240,"HVAC (Heat, Vent, Air)",170.00,HVAC - 12/17/2025,TFKKYACB
+"","","","","","","",13KEN16456,6610,Maintenance Labor,50.00,Maintenance Labor - 01/02/2026,TFLDXBLB
+"","","","","","","",13RAR1133,6510,Plumbing,158.88,Plumbing - 12/17/2025,TFR1MPGB
+"","","","","","","",14FED2700,6254,Cleaning,77.50,Cleaning - 12/19/2025,TFWIONQ
+"","","","","","","",13RAR1133,6515,Electrical Repair,77.50,Electrical repair - 12/17/2025,TFYWH28
+"","","","","","","",13DAL1100,6610,Maintenance Labor,38.75,Maintenance Labor - 12/23/2025,TG4JNM3
+"","","","","","","",13BUC5584,6240,"HVAC (Heat, Vent, Air)",277.45,HVAC - 01/05/2026,TG4X2F9
+"","","","","","","",14LOG600,6610,Maintenance Labor,72.50,Maintenance Labor - 01/04/2026,TGB0F9D
+"","","","","","","",13CHE1725,6790,Pest Control,100.00,Pest Control - 12/15/2025,TGDZXYE
+"","","","","","","",13EMP2328,6250,Landscaping,65.00,Landscaping - 12/15/2025,TGJ3PUKB
+"","","","","","","",13IOL1980,6510,Plumbing,408.08,Plumbing - 12/02/2025,TGZZ1DH
+"","","","","","","",13JAC2870,6250,Landscaping,65.00,Landscaping - 01/04/2026,TH5DNNH
+"","","","","","","",13SEV11713,6670,Appliance Repair & Replacement,195.00,Appliances - 12/23/2025,THIJOOM
+"","","","","","","",13LAN257,6790,Pest Control,100.00,Pest Control - 12/19/2025,THKZZELB
+"","","","","","","",14EAS4150,6250,Landscaping,65.00,Landscaping - 01/03/2026,THNIWOJB
+"","","","","","","",14FED2700,6790,Pest Control,128.00,Pest Control - 12/19/2025,TI3UILF
+"","","","","","","",13JAC2870,6246,Exterior Repairs,32.50,Exterior repairs - 01/0/2025,TI4K895
+"","","","","","","",14LOG600,6610,Maintenance Labor,23.25,Maintenance Labor - 12/17/2025,TI7TT1D
+"","","","","","","",14LOG1120,6240,"HVAC (Heat, Vent, Air)",170.00,HVAC - 12/23/2025,TIE1MZIB
+"","","","","","","",14LOG1120,6610,Maintenance Labor,108.75,Maintenance Labor - 10/21/2025,TJ7P6RP
+"","","","","","","",13LAN257,6250,Landscaping,180.00,Landscaping - 01/03/2026,TJWIY45
+"","","","","","","",11HOL2149,6610,Maintenance Labor,130.00,Maintenance Labor - 12/17/2025,TK2U5NR
+"","","","","","","",13JOL1601,6254,Cleaning,74.75,Cleaning - 01/05/2026,TK8TOKI
+"","","","","","","",14LOG600,6240,"HVAC (Heat, Vent, Air)",170.00,HVAC - 12/23/2025,TKP51CK
+"","","","","","","",14TWE3806,6510,Plumbing,143.38,Plumbing - 12/23/2025,TKRXRCU
+"","","","","","","",14MIL3408,6610,Maintenance Labor,443.75,Maintenance Labor - 01/06/2026,TLG8PQT
+"","","","","","","",13KNO3679,6510,Plumbing,233.75,Plumbing - 12/17/2025,TLIGXKJ
+"","","","","","","",13JOL1601,6254,Cleaning,81.25,Cleaning - 12/23/2025,TLIRX1D
+"","","","","","","",13KNO3679,6670,Appliance Repair & Replacement,161.20,Appliances - 12/23/2025,TLKB3E7
+"","","","","","","",14FED2700,6610,Maintenance Labor,368.49,Maintenance Labor - 11/24/2025,TLQZB9Z
+"","","","","","","",14LOG1120,6610,Maintenance Labor,30.00,Maintenance Labor - 12/17/2025,TLVIHWB
+"","","","","","","",14FED2700,6254,Cleaning,195.00,Cleaning - 01/05/2026,TLZFE3G
+"","","","","","","",13FOU10444,6250,Landscaping,81.25,Landscaping - 12/13/2025,TM130N7
+"","","","","","","",14FED2700,6610,Maintenance Labor,254.05,Maintenance Labor - 11/26/2025,TMLDCMZ
+"","","","","","","",13SAB1311,6240,"HVAC (Heat, Vent, Air)",85.00,HVAC - 12/17/2025,TMMIOC2
+"","","","","","","",13JOL1601,6670,Appliance Repair & Replacement,116.25,Appliances - 12/15/2025,TMTIJGDB
+"","","","","","","",13SEV11555,6610,Maintenance Labor,127.88,Maintenance Labor - 01/06/2026,TMWGKIL
+"","","","","","","",14HOO213,6610,Maintenance Labor,77.50,Maintenance Labor - 12/15/2025,TN5EJAAB
+"","","","","","","",14TWE3806,6790,Pest Control,77.50,Pest Control - 12/17/2025,TN6BKBJ
+"","","","","","","",14LOG600,6240,"HVAC (Heat, Vent, Air)",121.13,HVAC - 12/10/2025,TN73IG1
+"","","","","","","",14FED2700,6254,Cleaning,97.50,Cleaning - 12/17/2025,TNA81DD
+"","","","","","","",13JOL1601,6254,Cleaning,97.50,Cleaning - 12/17/2025,TNHTJKL
+"","","","","","","",14LOG1000,6610,Maintenance Labor,77.50,Maintenance Labor - 12/17/2025,TNU5PVAB
+"","","","","","","",14FED2700,6610,Maintenance Labor,72.50,Maintenance Labor - 01/04/2026,TNX96JD
+"","","","","","","",14TWE3806,6610,Maintenance Labor,185.50,Maintenance Labor - 12/17/2025,TOTCH8H
+"","","","","","","",11FED8020,6240,"HVAC (Heat, Vent, Air)",125.00,HVAC - 12/17/2025,TP1T90Q
+"","","","","","","",13WRI479-201,6610,Maintenance Labor,135.63,Maintenance Labor - 12/17/2025,TP1UBMBB
+"","","","","","","",13JEB3432,6240,"HVAC (Heat, Vent, Air)",72.50,HVAC - 01/04/2026,TP3MBR1
+"","","","","","","",14THI115,6670,Appliance Repair & Replacement,270.45,Appliances - 12/03/2025,TPFJLZLB
+"","","","","","","",13KEN16456,6610,Maintenance Labor,104.00,Maintenance Labor - 12/19/2025,TPOLFLDB
+"","","","","","","",13SEV11713,6240,"HVAC (Heat, Vent, Air)",828.09,HVAC - 01/08/2026,TPZXBM5
+"","","","","","","",14LOG1120,6240,"HVAC (Heat, Vent, Air)",127.50,HVAC - 12/23/2025,TQAA9YU
+"","","","","","","",13JOL1601,6610,Maintenance Labor,97.50,Maintenance Labor - 12/23/2025,TQCAYBMB
+"","","","","","","",13CHE1725,6240,"HVAC (Heat, Vent, Air)","1,181.05",HVAC - 01/08/2026,TQMV1C0
+"","","","","","","",13JOL1601,6790,Pest Control,130.00,Pest Control - 12/14/2025,TQZTDKV
+"","","","","","","",13JOL1789,6790,Pest Control,250.00,Pest Control - 12/14/2025,TRGMT21
+"","","","","","","",13SAB1311,6515,Electrical Repair,100.00,Electrical repair - 12/17/2025,TRI8P13
+"","","","","","","",14TWE3806,6250,Landscaping,195.00,Landscaping - 12/15/2025,TRM4TXV
+"","","","","","","",13EMP2328,6250,Landscaping,105.30,Landscaping - 12/15/2025,TRRDH4C
+"","","","","","","",13SAB1311,6240,"HVAC (Heat, Vent, Air)","1,600.00",HVAC - 01/08/2026,TT2Z24M
+"","","","","","","",14FED2700,6510,Plumbing,77.50,Plumbing - 12/23/2025,TT4LK7MB
+"","","","","","","",14FEN7145,4135,Application Fee Income,77.50,Appliances - 12/17/2025,TT5MCHR
+"","","","","","","",13JOL1789,6670,Appliance Repair & Replacement,77.50,Appliances - 12/17/2025,TT9AIHEB
+"","","","","","","",13EMP2328,6510,Plumbing,21.70,Plumbing - 01/03/2025,TTMRH6U
+"","","","","","","",13COR9596,6610,Maintenance Labor,77.50,Maintenance Labor - 12/16/2025,TTR48KC
+"","","","","","","",13EMP2328,6510,Plumbing,145.00,Plumbing - 01/04/2026,TU69YYD
+"","","","","","","",13JAC2870,6790,Pest Control,51.92,Pest Control - 12/17/2025,TU9PR6U
+"","","","","","","",13PAR1933,6254,Cleaning,260.00,Cleaning - 12/19/2025,TUBRMX9
+"","","","","","","",14LOG1120,6240,"HVAC (Heat, Vent, Air)",85.00,HVAC - 12/19/2025,TUJBMFX
+"","","","","","","",14LOG600,6240,"HVAC (Heat, Vent, Air)",85.00,HVAC - 12/31/2025,TULMCIEB
+"","","","","","","",14NEW1022,6250,Landscaping,180.00,Landscaping - 01/04/2026,TUNP93AB
+"","","","","","","",13JAC2870,6610,Maintenance Labor,168.95,Maintenance Labor - 12/15/2025,TUOBBRFB
+"","","","","","","",13JOL1601,6254,Cleaning,97.50,Cleaning - 12/23/2025,TUXHL1N
+"","","","","","","",13JOL1601,6254,Cleaning,81.25,Cleaning - 12/19/2025,TUXKLAH
+"","","","","","","",13JOL1601,6790,Pest Control,165.75,Pest Control - 01/03/2026,TVHBRYW
+"","","","","","","",14FED2700,6790,Pest Control,195.00,Pest Control - 12/13/2025,TVU6QE0
+"","","","","","","",14ONE5023,6250,Landscaping,196.50,Landscaping - 12/15/2025,TVUEDHW
+"","","","","","","",13RAR1129,6670,Appliance Repair & Replacement,131.75,Appliances - 12/17/2025,TVYXB3F
+"","","","","","","",13SEV11713,6510,Plumbing,72.50,Plumbing - 01/04/2026,TWAZ4DL
+"","","","","","","",14LOG1120,6610,Maintenance Labor,162.50,Maintenance Labor - 12/23/2025,TWC1CKQ
+"","","","","","","",13PLY22351,6240,"HVAC (Heat, Vent, Air)",72.50,HVAC - 10/21/2025,TWC7P5EB
+"","","","","","","",13JOL1601,6610,Maintenance Labor,195.00,Maintenance Labor - 01/03/2026,TWJM7W6
+"","","","","","","",14FED2700,6610,Maintenance Labor,180.00,Maintenance Labor - 01/04/2026,TWOYVXL
+"","","","","","","",13JOL1601,6250,Landscaping,130.00,Landscaping - 12/23/2025,TWYEBF1
+"","","","","","","",13JAC2870,6610,Maintenance Labor,133.30,Maintenance Labor - 12/15/2025,TWYIOTDB
+"","","","","","","",12BUR578	,6610,Maintenance Labor,100.00,Maintenance Labor - 12/17/2025,TWYKVAFB
+"","","","","","","",14LOG600,6240,"HVAC (Heat, Vent, Air)",232.50,HVAC - 12/19/2025,TX1YNTG
+"","","","","","","",13KEA3038	,6240,"HVAC (Heat, Vent, Air)",152.50,HVAC - 11/21/2025,TX2D6X2
+"","","","","","","",13JOL1601,6790,Pest Control,200.00,Pest Control - 01/03/2026,TX7316CB
+"","","","","","","",13FOU10444,6450,Garbage and Recycling,93.50,Garbage and Recycling - 12/23/2025,TXE5TLT
+"","","","","","","",13EMP2328,6610,Maintenance Labor,77.50,Maintenance Labor - 12/23/2025,TXECUNU
+"","","","","","","",13JOL1601,4114,Pest Control Reimbursement,158.88,Pest Control - 12/17/2025,TXH059T
+"","","","","","","",13EMP2328,6510,Plumbing,161.68,Plumbing - 10/21/2025,TXLNH4Z
+"","","","","","","",14FED2700,6254,Cleaning,97.50,Cleaning - 12/23/2025,TXVK58E
+"","","","","","","",13SEV8901,6610,Maintenance Labor,38.75,Maintenance Labor - 12/23/2025,TXZW1TZ
+"","","","","","","",14LOG1120,6240,"HVAC (Heat, Vent, Air)",124.95,HVAC - 12/19/2025,TYAW2JT
+"","","","","","","",14EAS4150,6610,Maintenance Labor,50.00,Maintenance Labor - 12/15/2025,TYKQHP
+"","","","","","","",14LOG1120,6240,"HVAC (Heat, Vent, Air)",85.00,HVAC - 12/31/2025,TYNANMMB
+"","","","","","","",14SEV6751,6610,Maintenance Labor,161.20,Maintenance Labor - 01/04/2026,TYRDUAGB
+"","","","","","","",14LOG600,6610,Maintenance Labor,77.50,Maintenance Labor - 12/23/2025,TZBW5VIB
+"","","","","","","",14FED2700,6610,Maintenance Labor,179.84,Maintenance Labor - 11/20/2025,TZP7A48
+"","","","","","","",14BRO9251,6250,Landscaping,105.95,Landscaping - 01/03/2026,TZRYU1R
+"","","","","","","",14COR5261,6510,Plumbing,320.85,Plumbing - 12/15/2025,TZXB2EW
+"","","","","","","",14SEV6751,6670,Appliance Repair & Replacement,72.50,Appliances - 01/04/2026,TZZ5KWT
+"","","","","","","",11NIN8129,6610,Maintenance Labor,"2,307.00",Maintenance Labor - 12/18/2025,V-2025-1785
+"","","","","","","",13FUL2081,6240,"HVAC (Heat, Vent, Air)","2,664.00",HVAC - 12/11/2025,V-404
+Denver Operating - CPB,"Tschetter Sulzer, P.C.",ACH Batch # 1055,No,EC-508638,01/12/2026,228.18,"","","","","",""
+"","","","","","","",13KNO3839,7610,Legal Expenses,38.18,legal,EC-508638
+"","","","","","","",13JOL1601,7610,Legal Expenses,62.00,legal,EC-508638
+"","","","","","","",13PAR1933,7610,Legal Expenses,128.00,legal fee,EC-508638
+Denver Operating - CPB,"10444 Partners, LLC",ACH Batch # 1057,No,"",01/12/2026,"6,015.27","","","","","",""
+"","","","","","","",13FOU10444,3250,Owner Distribution,"6,015.27",Owner payment for 01/2026,""
+Denver Operating - CPB,"518 S. Nevada, LLC",ACH Batch # 1057,No,"",01/12/2026,"2,320.80","","","","","",""
+"","","","","","","",11NEV518,3250,Owner Distribution,"2,320.80",Owner payment for 01/2026,""
+Denver Operating - CPB,"8701 Huron St 6-209, LLC",ACH Batch # 1057,No,"",01/12/2026,"1,520.00","","","","","",""
+"","","","","","","",14HUR8701-6-209,3250,Owner Distribution,"1,520.00",Owner payment for 01/2026,""
+Denver Operating - CPB,94th at Wads LLC,ACH Batch # 1057,No,"",01/12/2026,"28,464.09","","","","","",""
+"","","","","","","",11NIN8129,3250,Owner Distribution,"28,464.09",Owner payment for 01/2026,""
+Denver Operating - CPB,"ASTT, LLC",ACH Batch # 1057,No,"",01/12/2026,"14,441.26","","","","","",""
+"","","","","","","",11FED5302,3250,Owner Distribution,"14,441.26",Owner payment for 01/2026,""
+Denver Operating - CPB,Rotimi Aderohunmu,ACH Batch # 1056,No,"",01/12/2026,"2,420.66","","","","","",""
+"","","","","","","",14LAR9758-7A,3250,Owner Distribution,"1,428.30",Owner payment for 12/2025,""
+"","","","","","","",13FIF12235,3250,Owner Distribution,992.36,Owner payment for 01/2026,""
+Denver Operating - CPB,Brian Aichang,ACH Batch # 1056,No,"",01/12/2026,"7,444.05","","","","","",""
+"","","","","","","",14BRO9251,3250,Owner Distribution,"7,444.05",Owner payment for 01/2026,""
+Denver Operating - CPB,Thanarach Aksharadananda,ACH Batch # 1056,No,"",01/12/2026,"1,890.58","","","","","",""
+"","","","","","","",14FEN4830,3250,Owner Distribution,"1,890.58",Owner payment for 01/2026,""
+Denver Operating - CPB,Donald Anderson,ACH Batch # 1056,No,"",01/12/2026,"2,110.50","","","","","",""
+"","","","","","","",13VIR12157,3250,Owner Distribution,"2,110.50",Owner payment for 01/2026,""
+Denver Operating - CPB,"BSD Holdings, LLC",ACH Batch # 1057,No,"",01/12/2026,"37,831.81","","","","","",""
+"","","","","","","",13MAC1030,3250,Owner Distribution,"1,840.00",Owner payment for 01/2026,""
+"","","","","","","",13SEV11555,3250,Owner Distribution,"1,415.52",Owner payment for 01/2026,""
+"","","","","","","",13WIL1213,3250,Owner Distribution,"2,024.00",Owner payment for 01/2026,""
+"","","","","","","",13ALT1390,3250,Owner Distribution,"1,005.34",Owner payment for 01/2026,""
+"","","","","","","",13LIM1925,3250,Owner Distribution,"1,669.00",Owner payment for 01/2026,""
+"","","","","","","",13IOL1980,3250,Owner Distribution,"1,292.99",Owner payment for 01/2026,""
+"","","","","","","",13NAS22354,3250,Owner Distribution,"2,319.50",Owner payment for 01/2026,""
+"","","","","","","",13IRO2295,3250,Owner Distribution,"1,876.92",Owner payment for 01/2026,""
+"","","","","","","",14IVY3263,3250,Owner Distribution,"1,162.18",Owner payment for 01/2026,""
+"","","","","","","",13QUA3682,3250,Owner Distribution,"1,335.25",Owner payment for 01/2026,""
+"","","","","","","",13NAP4227,3250,Owner Distribution,"1,686.34",Owner payment for 01/2026,""
+"","","","","","","",14HIG5230,3250,Owner Distribution,"1,791.50",Owner payment for 01/2026,""
+"","","","","","","",13ELM1120,3250,Owner Distribution,"1,613.50",Owner payment for 01/2026,""
+"","","","","","","",13LAN257,3250,Owner Distribution,"2,101.88",Owner payment for 01/2026,""
+"","","","","","","",12FAI361,3250,Owner Distribution,168.69,Owner payment for 01/2026,""
+"","","","","","","",12MOR914,3250,Owner Distribution,"3,320.75",Owner payment for 01/2026,""
+"","","","","","","",14HAR2801,3250,Owner Distribution,"1,570.00",Owner payment for 01/2026,""
+"","","","","","","",13SEV8901,3250,Owner Distribution,"1,845.32",Owner payment for 01/2026,""
+"","","","","","","",13DAL1100,3250,Owner Distribution,"2,366.01",Owner payment for 01/2026,""
+"","","","","","","",13IRO1746,3250,Owner Distribution,882.06,Owner payment for 01/2026,""
+"","","","","","","",13JOL1781,3250,Owner Distribution,"1,689.50",Owner payment for 01/2026,""
+"","","","","","","",13JOL1789,3250,Owner Distribution,"1,096.00",Owner payment for 01/2026,""
+"","","","","","","",13SEV11713,3250,Owner Distribution,"1,023.56",Owner payment for 01/2026,""
+"","","","","","","",12ELM505,3250,Owner Distribution,736.00,Owner payment for 01/2026,""
+Denver Operating - CPB,Sandeep Koppa Balasubramanyam,ACH Batch # 1056,No,"",01/12/2026,"2,820.00","","","","","",""
+"","","","","","","",13VIE14775,3250,Owner Distribution,"2,820.00",Owner payment for 01/2026,""
+Denver Operating - CPB,Kristen Brodie,ACH Batch # 1056,No,"",01/12/2026,"1,047.50","","","","","",""
+"","","","","","","",14GAY1242-102,3250,Owner Distribution,"1,047.50",Owner payment for 01/2026,""
+Denver Operating - CPB,Hook Bruce,ACH Batch # 1056,No,"",01/12/2026,"1,554.15","","","","","",""
+"","","","","","","",14FEN7145,3250,Owner Distribution,"1,554.15",Owner payment for 01/2026,""
+Denver Operating - CPB,Siham Lasaal Carson,ACH Batch # 1056,No,"",01/12/2026,"3,678.22","","","","","",""
+"","","","","","","",14TUR7555,3250,Owner Distribution,"3,678.22",Owner payment for 01/2026,""
+Denver Operating - CPB,William Chance,ACH Batch # 1056,No,"",01/12/2026,"1,366.00","","","","","",""
+"","","","","","","",14KEN4820-A,3250,Owner Distribution,"1,366.00",Owner payment for 01/2026,""
+Denver Operating - CPB,"Chester Properties, LLC",ACH Batch # 1057,No,"",01/12/2026,"3,730.55","","","","","",""
+"","","","","","","",13CHE1725,3250,Owner Distribution,"3,730.55",Owner payment for 01/2026,""
+Denver Operating - CPB,Amiel Chu,ACH Batch # 1056,No,"",01/12/2026,"1,711.11","","","","","",""
+"","","","","","","",14GRA1975-323,3250,Owner Distribution,"1,711.11",Owner payment for 01/2026,""
+Denver Operating - CPB,Jean Chu,ACH Batch # 1056,No,"",01/12/2026,"1,656.00","","","","","",""
+"","","","","","","",14NEW6470,3250,Owner Distribution,"1,656.00",Owner payment for 01/2026,""
+Denver Operating - CPB,"Darwin Ln, LLC",ACH Batch # 1057,No,"",01/12/2026,"2,762.00","","","","","",""
+"","","","","","","",14DAR9931,3250,Owner Distribution,"2,762.00",Owner payment for 01/2026,""
+Denver Operating - CPB,Shelbi Davis,ACH Batch # 1056,No,"",01/12/2026,749.25,"","","","","",""
+"","","","","","","",13RAR1129,3250,Owner Distribution,749.25,Owner payment for 01/2026,""
+Denver Operating - CPB,Tegan Davis,ACH Batch # 1056,No,"",01/12/2026,821.62,"","","","","",""
+"","","","","","","",13RAR1133,3250,Owner Distribution,821.62,Owner payment for 01/2026,""
+Denver Operating - CPB,Brian Dilorio,ACH Batch # 1056,No,"",01/12/2026,"2,268.00","","","","","",""
+"","","","","","","",12MAH8396,3250,Owner Distribution,"2,268.00",Owner payment for 01/2026,""
+Denver Operating - CPB,Garrett Easton,ACH Batch # 1056,No,"",01/12/2026,"5,532.75","","","","","",""
+"","","","","","","",13FLO18425-C,3250,Owner Distribution,"1,520.00",Owner payment for 01/2026,""
+"","","","","","","",12YUM629,3250,Owner Distribution,"4,012.75",Owner payment for 01/2026,""
+Denver Operating - CPB,Lynda Edgington,ACH Batch # 1056,No,"",01/12/2026,"1,330.00","","","","","",""
+"","","","","","","",13NEV12368-201,3250,Owner Distribution,"1,330.00",Owner payment for 01/2026,""
+Denver Operating - CPB,"Equity Management Company, Inc.",ACH Batch # 1057,No,"",01/12/2026,"3,465.00","","","","","",""
+"","","","","","","",14JOS2494,3250,Owner Distribution,"3,465.00",Owner payment for 01/2026,""
+Denver Operating - CPB,David Feeny,ACH Batch # 1056,No,"",01/12/2026,"2,417.62","","","","","",""
+"","","","","","","",14MAR2338,3250,Owner Distribution,"2,417.62",Owner payment for 01/2026,""
+Denver Operating - CPB,"First Noels Properties, LLC",ACH Batch # 1057,No,"",01/12/2026,"4,322.32","","","","","",""
+"","","","","","","",13FRA711,3250,Owner Distribution,"4,322.32",Owner payment for 01/2026,""
+Denver Operating - CPB,Alyssa Fisher,ACH Batch # 1056,No,"",01/12/2026,943.00,"","","","","",""
+"","","","","","","",13FAI8335-6-102,3250,Owner Distribution,943.00,Owner payment for 01/2026,""
+Denver Operating - CPB,Richard Fohn,ACH Batch # 1056,No,"",01/12/2026,"1,837.50","","","","","",""
+"","","","","","","",13COR9596,3250,Owner Distribution,"1,837.50",Owner payment for 01/2026,""
+Denver Operating - CPB,"Gallagher Hall Residential, LLC",ACH Batch # 1057,No,"",01/12/2026,"9,307.63","","","","","",""
+"","","","","","","",14LOG600,3250,Owner Distribution,"9,307.63",Owner payment for 01/2026,""
+Denver Operating - CPB,Cynthia L. George,ACH Batch # 1056,No,"",01/12/2026,"1,307.77","","","","","",""
+"","","","","","","",14THI115,3250,Owner Distribution,"1,307.77",Owner payment for 01/2026,""
+Denver Operating - CPB,Ignizio Graham,ACH Batch # 1056,No,"",01/12/2026,"1,937.41","","","","","",""
+"","","","","","","",14PER1350,3250,Owner Distribution,"1,937.41",Owner payment for 01/2026,""
+Denver Operating - CPB,Matthew Gruber,ACH Batch # 1056,No,"",01/12/2026,"1,710.00","","","","","",""
+"","","","","","","",13NAT17442-202,3250,Owner Distribution,"1,710.00",Owner payment for 01/2026,""
+Denver Operating - CPB,"HQ 1, LLC",ACH Batch # 1057,No,"",01/12/2026,"16,253.49","","","","","",""
+"","","","","","","",11HOL2149,3250,Owner Distribution,"16,253.49",Owner payment for 01/2026,""
+Denver Operating - CPB,Happy Capital LLC,ACH Batch # 1057,No,"",01/12/2026,"3,766.50","","","","","",""
+"","","","","","","",14SEV3281,3250,Owner Distribution,"3,766.50",Owner payment for 01/2026,""
+Denver Operating - CPB,Timothy Hawpe,14807,No,"",01/12/2026,"1,486.00","","","","","",""
+"","","","","","","",14VAR10638,3250,Owner Distribution,"1,486.00",Owner payment for 01/2026,""
+Denver Operating - CPB,Beth Hickam,ACH Batch # 1056,No,"",01/12/2026,"2,058.00","","","","","",""
+"","","","","","","",13PLY22351,3250,Owner Distribution,"2,058.00",Owner payment for 01/2026,""
+Denver Operating - CPB,"JSR, LLC",ACH Batch # 1057,No,"",01/12/2026,"5,040.00","","","","","",""
+"","","","","","","",12ANT7823,3250,Owner Distribution,"1,620.00",Owner payment for 01/2026,""
+"","","","","","","",12ANT7835,3250,Owner Distribution,"1,710.00",Owner payment for 01/2026,""
+"","","","","","","",12ANT7829,3250,Owner Distribution,"1,710.00",Owner payment for 01/2026,""
+Denver Operating - CPB,Siddhartha Jain,ACH Batch # 1056,No,"",01/12/2026,"2,768.75","","","","","",""
+"","","","","","","",12AST2562,3250,Owner Distribution,"2,768.75",Owner payment for 01/2026,""
+Denver Operating - CPB,Timothy M. Jones,ACH Batch # 1056,No,"",01/12/2026,"1,670.28","","","","","",""
+"","","","","","","",14SEV5575-202,3250,Owner Distribution,"1,670.28",Owner payment for 01/2026,""
+Denver Operating - CPB,Jason Kirkbride,ACH Batch # 1056,No,"",01/12/2026,"2,424.00","","","","","",""
+"","","","","","","",12BUR578	,3250,Owner Distribution,"2,424.00",Owner payment for 01/2026,""
+Denver Operating - CPB,Jean Kraft,ACH Batch # 1056,No,"",01/12/2026,"1,243.75","","","","","",""
+"","","","","","","",13SEV8395,3250,Owner Distribution,"1,243.75",Owner payment for 01/2026,""
+Denver Operating - CPB,L & M Enterprises LLC,ACH Batch # 1057,No,"",01/12/2026,"1,865.00","","","","","",""
+"","","","","","","",14NEW1022,3250,Owner Distribution,"1,865.00",Owner payment for 01/2026,""
+Denver Operating - CPB,"Live Oak Properties, LLC",ACH Batch # 1057,No,"",01/12/2026,"1,395.00","","","","","",""
+"","","","","","","",14HUR12150-101,3250,Owner Distribution,"1,395.00",Owner payment for 01/2026,""
+Denver Operating - CPB,Roger Loecher (3502 Wadsworth),ACH Batch # 1056,No,"",01/12/2026,"8,004.00","","","","","",""
+"","","","","","","",11WAD3502,3250,Owner Distribution,"8,004.00",Owner payment for 01/2026,""
+Denver Operating - CPB,Roger Loecher (5990 Kipling St),ACH Batch # 1056,No,"",01/12/2026,"6,224.34","","","","","",""
+"","","","","","","",11KIP5990,3250,Owner Distribution,"6,224.34",Owner payment for 01/2026,""
+Denver Operating - CPB,Roger Loecher (6000 W. 55th Pl),ACH Batch # 1056,No,"",01/12/2026,"3,927.06","","","","","",""
+"","","","","","","",11FIF6000,3250,Owner Distribution,"3,927.06",Owner payment for 01/2026,""
+Denver Operating - CPB,Miguel A. Luna,ACH Batch # 1056,No,"",01/12/2026,"2,023.08","","","","","",""
+"","","","","","","",13CEN14900-B,3250,Owner Distribution,"2,023.08",Owner payment for 01/2026,""
+Denver Operating - CPB,"MJ Residential, LLC",ACH Batch # 1057,No,"",01/12/2026,"6,416.07","","","","","",""
+"","","","","","","",14LOG1120,3250,Owner Distribution,"6,416.07",Owner payment for 01/2026,""
+Denver Operating - CPB,Mamas Kastle LLC,ACH Batch # 1057,No,"",01/12/2026,"4,504.75","","","","","",""
+"","","","","","","",13FIR25894,3250,Owner Distribution,"2,299.75",Owner payment for 01/2026,""
+"","","","","","","",14EVA4845,3250,Owner Distribution,"2,205.00",Owner payment for 01/2026,""
+Denver Operating - CPB,Medina Family Trust,ACH Batch # 1057,No,"",01/12/2026,"12,264.18","","","","","",""
+"","","","","","","",14INC725,3250,Owner Distribution,302.01,Owner payment for 01/2026,""
+"","","","","","","",11SAN734,3250,Owner Distribution,"4,281.23",Owner payment for 01/2026,""
+"","","","","","","",11SAN742,3250,Owner Distribution,"1,734.70",Owner payment for 01/2026,""
+"","","","","","","",11SAN744,3250,Owner Distribution,"2,133.08",Owner payment for 01/2026,""
+"","","","","","","",13SEV807,3250,Owner Distribution,758.15,Owner payment for 01/2026,""
+"","","","","","","",11SAN738,3250,Owner Distribution,"3,055.01",Owner payment for 01/2026,""
+Denver Operating - CPB,Sowa Michael (11846 Josephine St),ACH Batch # 1056,No,"",01/12/2026,"2,024.00","","","","","",""
+"","","","","","","",14JOS11846,3250,Owner Distribution,"2,024.00",Owner payment for 01/2026,""
+Denver Operating - CPB,"Milan-Chase III, LLC",ACH Batch # 1057,No,"",01/12/2026,"2,277.57","","","","","",""
+"","","","","","","",14EAS4150,3250,Owner Distribution,"2,277.57",Owner payment for 01/2026,""
+Denver Operating - CPB,Edward Muljadi,ACH Batch # 1056,No,"",01/12/2026,"4,902.50","","","","","",""
+"","","","","","","",14ALL224,3250,Owner Distribution,"2,495.00",Owner payment for 01/2026,""
+"","","","","","","",13HOL895,3250,Owner Distribution,"2,407.50",Owner payment for 01/2026,""
+Denver Operating - CPB,Anthony Naves,ACH Batch # 1056,No,"",01/12/2026,"2,971.50","","","","","",""
+"","","","","","","",13BRA1258,3250,Owner Distribution,"2,971.50",Owner payment for 01/2026,""
+Denver Operating - CPB,Ashkhen Nikogosyan,ACH Batch # 1056,No,"",01/12/2026,"5,768.22","","","","","",""
+"","","","","","","",13KEN16456,3250,Owner Distribution,"2,646.17",Owner payment for 01/2026,""
+"","","","","","","",13JEB3432,3250,Owner Distribution,"3,122.05",Owner payment for 01/2026,""
+Denver Operating - CPB,Patricia O'Connor,ACH Batch # 1056,No,"",01/12/2026,"2,160.00","","","","","",""
+"","","","","","","",14MAD10523,3250,Owner Distribution,"2,160.00",Owner payment for 01/2026,""
+Denver Operating - CPB,"PMC, LLC",ACH Batch # 1057,No,"",01/12/2026,"5,884.08","","","","","",""
+"","","","","","","",14WAS1616,3250,Owner Distribution,"5,884.08",Owner payment for 01/2026,""
+Denver Operating - CPB,Elizabeth A. Pippin,ACH Batch # 1056,No,"",01/12/2026,"2,766.57","","","","","",""
+"","","","","","","",14THI5045,3250,Owner Distribution,"1,204.31",Owner payment for 01/2026,""
+"","","","","","","",14ZEN3904,3250,Owner Distribution,"1,562.26",Owner payment for 01/2026,""
+Denver Operating - CPB,"Pope Journeys, LLC",ACH Batch # 1057,No,"",01/12/2026,"2,325.00","","","","","",""
+"","","","","","","",14LAR1278,3250,Owner Distribution,"2,325.00",Owner payment for 01/2026,""
+Denver Operating - CPB,Patchava Raghavi,ACH Batch # 1056,No,"",01/12/2026,"2,484.00","","","","","",""
+"","","","","","","",14RAR13230,3250,Owner Distribution,"2,484.00",Owner payment for 01/2026,""
+Denver Operating - CPB,"Ramirez Hospitality Group, LLC",ACH Batch # 1057,No,"",01/12/2026,"9,213.50","","","","","",""
+"","","","","","","",11SAN10065,3250,Owner Distribution,"9,213.50",Owner payment for 01/2026,""
+Denver Operating - CPB,"Rivermond, LLC",ACH Batch # 1057,No,"",01/12/2026,"6,958.75","","","","","",""
+"","","","","","","",14OGD1642,3250,Owner Distribution,"6,958.75",Owner payment for 01/2026,""
+Denver Operating - CPB,Michael Robideau,ACH Batch # 1056,No,"",01/12/2026,"5,179.07","","","","","",""
+"","","","","","","",11KIP1901,3250,Owner Distribution,"5,179.07",Owner payment for 01/2026,""
+Denver Operating - CPB,Masumeh Rouhi,ACH Batch # 1056,No,"",01/12/2026,"2,392.00","","","","","",""
+"","","","","","","",13ZEN1333,3250,Owner Distribution,"2,392.00",Owner payment for 01/2026,""
+Denver Operating - CPB,Satish Sampa,ACH Batch # 1056,No,"",01/12/2026,"2,450.00","","","","","",""
+"","","","","","","",13SAG10219,3250,Owner Distribution,"2,450.00",Owner payment for 01/2026,""
+Denver Operating - CPB,Austin Saunders,ACH Batch # 1056,No,"",01/12/2026,"2,070.00","","","","","",""
+"","","","","","","",14ONE3000-94	,3250,Owner Distribution,"2,070.00",Owner payment for 01/2026,""
+Denver Operating - CPB,Melissa & Gregg Savage,ACH Batch # 1056,No,"",01/12/2026,"4,504.00","","","","","",""
+"","","","","","","",14NEW4410,3250,Owner Distribution,"2,112.00",Owner payment for 01/2026,""
+"","","","","","","",13TOW9601,3250,Owner Distribution,"2,392.00",Owner payment for 01/2026,""
+Denver Operating - CPB,Subhash Sheanh,ACH Batch # 1056,No,"",01/12/2026,"4,685.25","","","","","",""
+"","","","","","","",13KEA3038	,3250,Owner Distribution,"2,172.50",Owner payment for 01/2026,""
+"","","","","","","",13CAL4017,3250,Owner Distribution,"2,512.75",Owner payment for 01/2026,""
+Denver Operating - CPB,Rajendra Singh,ACH Batch # 1056,No,"",01/12/2026,"1,587.00","","","","","",""
+"","","","","","","",12MON1563	,3250,Owner Distribution,"1,587.00",Owner payment for 01/2026,""
+Denver Operating - CPB,"Smelting Brothers of Nevada, LLC",ACH Batch # 1057,No,"",01/12/2026,"1,875.85","","","","","",""
+"","","","","","","",14DEL2478-5,3250,Owner Distribution,"1,875.85",Owner payment for 01/2026,""
+Denver Operating - CPB,Pannalal Soni Ashok,ACH Batch # 1056,No,"",01/12/2026,"2,210.05","","","","","",""
+"","","","","","","",13BUC5584,3250,Owner Distribution,"2,210.05",Owner payment for 01/2026,""
+Denver Operating - CPB,The Living Trust of Georges & Afaf Meleka,ACH Batch # 1057,No,"",01/12/2026,"13,244.28","","","","","",""
+"","","","","","","",11FED8020,3250,Owner Distribution,"13,244.28",Owner payment for 01/2026,""
+Denver Operating - CPB,Patty Thomas,ACH Batch # 1056,No,"",01/12/2026,"1,860.00","","","","","",""
+"","","","","","","",13FUN1838,3250,Owner Distribution,"1,860.00",Owner payment for 01/2026,""
+Denver Operating - CPB,Dung Truong (98th Ave.),ACH Batch # 1056,No,"",01/12/2026,"2,371.50","","","","","",""
+"","","","","","","",14NIN883-802,3250,Owner Distribution,"2,371.50",Owner payment for 01/2026,""
+Denver Operating - CPB,Steve Tur,ACH Batch # 1056,No,"",01/12/2026,"4,650.42","","","","","",""
+"","","","","","","",14HOO213,3250,Owner Distribution,"2,580.42",Owner payment for 01/2026,""
+"","","","","","","",13LIN19584,3250,Owner Distribution,"2,070.00",Owner payment for 01/2026,""
+Denver Operating - CPB,Jansen Velante,ACH Batch # 1056,No,"",01/12/2026,"2,160.00","","","","","",""
+"","","","","","","",12HOT4626,3250,Owner Distribution,"2,160.00",Owner payment for 01/2026,""
+Denver Operating - CPB,"WAYM Investment Group, LLC",ACH Batch # 1057,No,"",01/12/2026,"4,901.35","","","","","",""
+"","","","","","","",13KNO3679,3250,Owner Distribution,"2,117.55",Owner payment for 01/2026,""
+"","","","","","","",13KEN3453,3250,Owner Distribution,"2,783.80",Owner payment for 01/2026,""
+Denver Operating - CPB,Mary Wade,ACH Batch # 1056,No,"",01/12/2026,"1,444.37","","","","","",""
+"","","","","","","",13WRI479-201,3250,Owner Distribution,"1,444.37",Owner payment for 01/2026,""
+Denver Operating - CPB,Rebecca Whittaker,ACH Batch # 1056,No,"",01/12/2026,"1,846.00","","","","","",""
+"","","","","","","",12ROA1942-1.5,3250,Owner Distribution,"1,846.00",Owner payment for 01/2026,""
+Denver Operating - CPB,Deyanira Zavala,ACH Batch # 1056,No,"",01/12/2026,"1,737.00","","","","","",""
+"","","","","","","",14WOL8079,3250,Owner Distribution,"1,737.00",Owner payment for 01/2026,""
+Denver Operating - CPB,City and County of Denver,online payment,No,INV02166476,01/12/2026,228.00,"","","","","",""
+"","","","","","","",13JAC2870,6450,Garbage and Recycling,228.00,Garbage and Recycling,INV02166476
+Denver Operating - CPB,City and County of Denver,online payment,No,INV02227138,01/12/2026,156.00,"","","","","",""
+"","","","","","","",14PEA1720,6450,Garbage and Recycling,156.00,Garbage and Recycling,INV02227138
+Denver Operating - CPB,City and County of Denver,online payment,No,"",01/12/2026,81.00,"","","","","",""
+"","","","","","","",14WAS1616,6450,Garbage and Recycling,81.00,Garbage and Recycling,""
+Denver Operating - CPB,City of Westminster,online payment,No,"",01/12/2026,"1,337.40","","","","","",""
+"","","","","","","",11FED8020,6461,Water/Sewer,"1,337.40",Water/Sewer,""
+Denver Operating - CPB,City of Westminster,online payment,No,"",01/12/2026,"1,029.40","","","","","",""
+"","","","","","","",11NIN8129,6461,Water/Sewer,"1,029.40",Water/Sewer,""
+Denver Operating - CPB,Republic Services,online payment,No,3-0535-0171029 - 10444 E. 14th Avenue,01/12/2026,501.47,"","","","","",""
+"","","","","","","",13FOU10444,6450,Garbage and Recycling,501.47,Garbage and Recycling,0535-006621828
+Denver Operating - CPB,"WM Corporate Services, Inc.",online payment,No,9879292-2514-0,01/12/2026,"4,247.91","","","","","",""
+"","","","","","","",11NIN8129,6450,Garbage and Recycling,"4,247.91",Garbage and Recycling,9879292-2514-0
+Denver Operating - CPB,"WM Corporate Services, Inc.",online payment,No,9882097-2514-8,01/12/2026,"2,561.30","","","","","",""
+"","","","","","","",13JOL1601,6450,Garbage and Recycling,"2,561.30",Garbage and Recycling,9882097-2514-8
+Denver Operating - CPB,"WM Corporate Services, Inc.",online payment,No,3468501-0178-0,01/12/2026,"2,051.99","","","","","",""
+"","","","","","","",11SAN10065,6450,Garbage and Recycling,"2,051.99",Garbage and Recycling,3468501-0178-0
+Denver Operating - CPB,"WM Corporate Services, Inc.",online payment,No,3468488-0178-0,01/12/2026,"1,925.24","","","","","",""
+"","","","","","","",11SAN10065,6450,Garbage and Recycling,"1,925.24",Garbage and Recycling,3468488-0178-0
+Denver Operating - CPB,"WM Corporate Services, Inc.",online payment,No,9882126-2514-5,01/12/2026,"1,330.40","","","","","",""
+"","","","","","","",13EMP2328,6450,Garbage and Recycling,"1,330.40",Garbage and Recycling,9882126-2514-5
+Denver Operating - CPB,Waste Connections of Colorado,online payment,No,"",01/12/2026,"1,085.97","","","","","",""
+"","","","","","","",11FED5302,6450,Garbage and Recycling,"1,085.97",Garbage and Recycling,""
+Denver Operating - CPB,Waste Connections of Colorado,online payment,No,8958738V311,01/12/2026,77.06,"","","","","",""
+"","","","","","","",13PAR1933,6450,Garbage and Recycling,77.06,Garbage and Recycling,8958738V311
+Denver Operating - CPB,Xcel Energy,online payment,No,53-0014813882-6 - 1601-1645 Joliet Street,01/12/2026,"2,355.46","","","","","",""
+"","","","","","","",13JOL1601,6462,Electric/Gas,"2,355.46",Electric/Gas,957780847
+Denver Operating - CPB,Xcel Energy,online payment,No,53-0013261017-7 - 1901 Kipling Street,01/12/2026,"1,146.59","","","","","",""
+"","","","","","","",11KIP1901,6462,Electric/Gas,"1,146.59",Electric/Gas,957336593
+Denver Operating - CPB,Xcel Energy,online payment,No,53-0013907280-6 - 8020 Federal Boulevard,01/12/2026,"1,031.41","","","","","",""
+"","","","","","","",11FED8020,6462,Electric/Gas,"1,031.41",Electric/Gas,957945567
+Denver Operating - CPB,Xcel Energy,online payment,No,53-0015192173-1 - 600 S. Logan Street,01/12/2026,848.95,"","","","","",""
+"","","","","","","",14LOG600,6462,Electric/Gas,848.95,Electric/Gas,957338766
+Denver Operating - CPB,Xcel Energy,online payment,No,53-0014429206-3 - 2139-2153 N. Lafayette Street,01/12/2026,"1,268.10","","","","","",""
+"","","","","","","",13LAF2139,6462,Electric/Gas,"1,268.10",Electric/Gas,957339383
+Denver Operating - CPB,Xcel Energy,online payment,No,53-8704327-4 - 2700 N. Federal Blvd,01/12/2026,690.69,"","","","","",""
+"","","","","","","",14FED2700,6462,Electric/Gas,690.69,Electric/Gas,958091414
+Denver Operating - CPB,Xcel Energy,online payment,No,53-0012970239-7 - 1720 N. Pearl Street,01/12/2026,597.43,"","","","","",""
+"","","","","","","",14PEA1720,6462,Electric/Gas,597.43,Electric/Gas,957521148
+Denver Operating - CPB,Xcel Energy,online payment,No,53-0014776462-8 - 10444 E. 14th Avenue,01/12/2026,319.00,"","","","","",""
+"","","","","","","",13FOU10444,6462,Electric/Gas,319.00,Electric/Gas,957768217
+Denver Operating - CPB,Xcel Energy,online payment,No,53-0012506496-5 - 1616 N. Washington Street,01/12/2026,314.60,"","","","","",""
+"","","","","","","",14WAS1616,6462,Electric/Gas,314.60,Electric/Gas,957542753
+Denver Operating - CPB,Xcel Energy,online payment,No,53-9701188-0 - 2870-2876  N Jackson Street,01/12/2026,219.15,"","","","","",""
+"","","","","","","",13JAC2870,6462,Electric/Gas,219.15,Electric/Gas,955608676
+Denver Operating - CPB,Xcel Energy,online payment,No,53-0012282059-0 - 2338 Marion Street,01/12/2026,132.58,"","","","","",""
+"","","","","","","",14MAR2338,6462,Electric/Gas,132.58,Electric/Gas,957299278
+Denver Operating - CPB,Xcel Energy,online payment,No,53-0012973679-5 - 10065-10125 W. San Juan Way,01/12/2026,123.12,"","","","","",""
+"","","","","","","",11SAN10065,6462,Electric/Gas,123.12,Electric/Gas,956704633
+Denver Operating - CPB,Xcel Energy,online payment,No,53-0014778449-5 - 10444 E. 14th Avenue,01/12/2026,116.44,"","","","","",""
+"","","","","","","",13FOU10444,6462,Electric/Gas,116.44,Electric/Gas,955473296
+Denver Operating - CPB,Xcel Energy,online payment,No,53-0012973690-0 - 10065-10125 W. San Juan Way,01/12/2026,94.70,"","","","","",""
+"","","","","","","",11SAN10065,6462,Electric/Gas,94.70,Electric/Gas,956234977
+Denver Operating - CPB,Xcel Energy,online payment,No,53-0798226-1 - 3408-3412 Milwaukee Street,01/12/2026,92.42,"","","","","",""
+"","","","","","","",14MIL3408,6462,Electric/Gas,92.42,Electric/Gas,959380135
+Denver Operating - CPB,Xcel Energy,online payment,No,53-0014609843-6 - 1601-1645 Joliet Street,01/12/2026,73.08,"","","","","",""
+"","","","","","","",13JOL1601,6462,Electric/Gas,73.08,Electric/Gas,957815379
+Denver Operating - CPB,City of Aurora Water Dep.,online payment,No,"",01/12/2026,"1,194.74","","","","","",""
+"","","","","","","",13JOL1601,6461,Water/Sewer,"1,194.74",Water/Sewer,""
+Denver Operating - CPB,City of Aurora Water Dep.,online payment,No,"",01/12/2026,726.43,"","","","","",""
+"","","","","","","",13SEV8901,6461,Water/Sewer,726.43,Water/Sewer,""
+Denver Operating - CPB,City of Aurora Water Dep.,online payment,No,"",01/12/2026,481.99,"","","","","",""
+"","","","","","","",13FOU10444,6461,Water/Sewer,481.99,Water/Sewer,""
+Denver Operating - CPB,City of Aurora Water Dep.,online payment,No,"",01/12/2026,474.51,"","","","","",""
+"","","","","","","",13EMP2328,6461,Water/Sewer,474.51,Water/Sewer,""
+Denver Operating - CPB,City of Aurora Water Dep.,online payment,No,"",01/12/2026,412.31,"","","","","",""
+"","","","","","","",13EMP2328,6461,Water/Sewer,412.31,Water/Sewer,""
+Denver Operating - CPB,City of Aurora Water Dep.,online payment,No,"",01/12/2026,373.14,"","","","","",""
+"","","","","","","",13JOL1601,6461,Water/Sewer,373.14,Water/Sewer,""
+Denver Operating - CPB,City of Aurora Water Dep.,online payment,No,"",01/12/2026,309.78,"","","","","",""
+"","","","","","","",13SEV11713,6461,Water/Sewer,309.78,Water/Sewer,""
+Denver Operating - CPB,City of Aurora Water Dep.,online payment,No,"",01/12/2026,257.63,"","","","","",""
+"","","","","","","",13LAN257,6461,Water/Sewer,257.63,Water/Sewer,""
+Denver Operating - CPB,City of Aurora Water Dep.,online payment,No,"",01/12/2026,255.39,"","","","","",""
+"","","","","","","",13SAB1311,6461,Water/Sewer,255.39,Water/Sewer,""
+Denver Operating - CPB,City of Aurora Water Dep.,online payment,No,"",01/12/2026,147.64,"","","","","",""
+"","","","","","","",13DAL1100,6461,Water/Sewer,147.64,Water/Sewer,""
+Denver Operating - CPB,City of Aurora Water Dep.,online payment,No,"",01/12/2026,75.92,"","","","","",""
+"","","","","","","",13FUL2081,6461,Water/Sewer,75.92,Water/Sewer,""
+Denver Operating - CPB,City of Aurora Water Dep.,online payment,No,"",01/12/2026,72.20,"","","","","",""
+"","","","","","","",13PAR1933,6461,Water/Sewer,72.20,Water/Sewer,""
+Denver Operating - CPB,Rhino Networks,ACH Batch # 1058,No,QN-094434,01/13/2026,"4,493.99","","","","","",""
+"","","","","","","",11HOL2149,6475,Internet,"4,493.99",internet -rhino,QN-094434
+Denver Operating - CPB,Alpine Contractors Group LLC,14808,No,1711,01/13/2026,"1,520.00","","","","","",""
+"","","","","","","",17FITZ,8800,Capitalized Expenses,"1,520.00",make ready,1711
+Denver Operating - CPB,"Aurora-Huddleston Plumbing,Inc",14809,No,36254,01/13/2026,"1,071.70","","","","","",""
+"","","","","","","",17FITZ,6244,Backflow,"1,071.70",backflow repair 08/01/2025,36254
+Denver Operating - CPB,Becker Appliance/Ecopliance,14810,No,"111783, 111784, 111785",01/13/2026,"1,342.31","","","","","",""
+"","","","","","","",17FITZ,8800,Capitalized Expenses,462.26,Appliance installation-08/13,111783
+"","","","","","","",17FITZ,8800,Capitalized Expenses,462.26,Appliance installation-08/13,111784
+"","","","","","","",17FITZ,8800,Capitalized Expenses,417.79,Appliance installation-08/13,111785
+Denver Operating - CPB,"Bell Isle Partners, LLC",ACH Batch # 1059,No,"",01/13/2026,"12,874.70","","","","","",""
+"","","","","","","",16BEL4861,7624,Mortgage Interest Expense,"12,874.70",Mortgage Interest Expense,""
+Denver Operating - CPB,C&A Maintenance Services LlC,ACH Batch # 1059,No,2342,01/13/2026,"3,200.00","","","","","",""
+"","","","","","","",18Greenleaf,8800,Capitalized Expenses,"3,200.00",Demolition-09/19,2342
+Denver Operating - CPB,"DRGinvest Fund Manager, LLC",ACH Batch # 1059,No,"",01/13/2026,"22,187.82","","","","","",""
+"","","","","","","",17FITZ,2628,1st Mortgage Expense,"22,187.82",Mortgage Interest Expense,""
+Denver Operating - CPB,Greenleaf XII LLC,ACH Batch # 1059,No,"",01/13/2026,"13,928.36","","","","","",""
+"","","","","","","",18Greenleaf,7624,Mortgage Interest Expense,"13,928.36",Mortgage Expense,""
+Denver Operating - CPB,KONE Inc.,14723,No,1159052126,01/13/2026,411.85,"","","","","",""
+"","","","","","","",18Greenleaf,6243,Elevator,411.85,Elevator,1159052126
+Denver Operating - CPB,Lions remodeling and concrete llc,14815,No,"INV-0841, INV-0842",01/13/2026,"4,839.00","","","","","",""
+"","","","","","","",18Villa Verde,8800,Capitalized Expenses,"1,334.00",Make Ready 7/25,INV-0841
+"","","","","","","",18Villa Verde,8800,Capitalized Expenses,"3,505.00",Make Ready 07/25,INV-0842
+Denver Operating - CPB,Darquita L Maggard PC,14816,No,"7461, 8072",01/13/2026,"1,533.00","","","","","",""
+"","","","","","","",16BEL4861,7610,Legal Expenses,507.00,Eviction/Sheriff,7461
+"","","","","","","",16BEL4861,7610,Legal Expenses,"1,026.00","legal expense 232,215,147 &125",8072
+Denver Operating - CPB,"Massey Services, Inc",14817,No,"67456899B, 67112184B",01/13/2026,291.00,"","","","","",""
+"","","","","","","",16BEL4861,6790,Pest Control,145.50,PEST CONTROL,67112184B
+"","","","","","","",16BEL4861,6790,Pest Control,145.50,PEST CONTROL,67456899B
+Denver Operating - CPB,"Pipeline Regulatory Consultants,INC",14818,No,24302,01/13/2026,"2,100.00","","","","","",""
+"","","","","","","",16BEL4861,8800,Capitalized Expenses,"2,100.00",Pipeline Regulation,24302
+Denver Operating - CPB,Professional Plumbers Denver MMBS LLC,14819,No,"3306, 3342, 3266",01/13/2026,"2,425.00","","","","","",""
+"","","","","","","",17FITZ,6510,Plumbing,885.00,PLUMBING -4/16/25,""
+"","","","","","","",17FITZ,8800,Capitalized Expenses,250.00,Plumbing 06/25,3266
+"","","","","","","",17FITZ,8800,Capitalized Expenses,840.00,Plumbing repair-07/25,3342
+"","","","","","","",17FITZ,8800,Capitalized Expenses,450.00,Plumbing repair 07/25,3306
+Denver Operating - CPB,"Tschetter Sulzer, P.C.",ACH Batch # 1059,No,EC-507936,01/13/2026,238.00,"","","","","",""
+"","","","","","","",17FITZ,7610,Legal Expenses,238.00,legal fee,EC-507936
+Denver Operating - CPB,UP Services LLC,ACH Batch # 1059,No,2095,01/13/2026,595.00,"","","","","",""
+"","","","","","","",17FITZ,8800,Capitalized Expenses,595.00,Plumbing repair 02/25,2095
+Denver Operating - CPB,Villa Verde XII LLC,ACH Batch # 1059,No,"",01/13/2026,"10,466.72","","","","","",""
+"","","","","","","",18Villa Verde,2628,1st Mortgage Expense,"10,466.72",Mortgage Interest Expense,""
+Denver Operating - CPB,City of Aurora Water Dep.,online payment,No,"",01/13/2026,"5,811.05","","","","","",""
+"","","","","","","",18Greenleaf,6461,Water/Sewer,"5,811.05",water/sewer,""
+Denver Operating - CPB,City of Aurora Water Dep.,online payment,No,"",01/13/2026,"2,812.55","","","","","",""
+"","","","","","","",18Villa Verde,6461,Water/Sewer,"2,812.55",water/sewer,""
+Denver Operating - CPB,City of Aurora Water Dep.,online payment,No,A091042,01/13/2026,"2,420.28","","","","","",""
+"","","","","","","",17FITZ,6461,Water/Sewer,"2,420.28",Water/Sewer,A091042
+Denver Operating - CPB,Republic Services,online payment,No,3-0535-0187136 - 1571 Beeler Street,01/13/2026,"1,125.69","","","","","",""
+"","","","","","","",18Greenleaf,6450,Garbage and Recycling,"1,125.69",Garbage and Recycling,""
+Denver Operating - CPB,Republic Services,online payment,No,3-0535-0157288 - 1642 Alton,01/13/2026,625.02,"","","","","",""
+"","","","","","","",18Villa Verde,6450,Garbage and Recycling,625.02,Garbage and Recycling,""
+Denver Operating - CPB,Waste Connections of Colorado,online payment,No,8926751V311,01/13/2026,926.04,"","","","","",""
+"","","","","","","",17FITZ,6450,Garbage and Recycling,926.04,Garbage and Recycling,8926751V311
+Denver Operating - CPB,Xcel Energy,online payment,No,53-0012096621-7,01/13/2026,"12,469.66","","","","","",""
+"","","","","","","",17FITZ,6462,Electric/Gas,"12,469.66",Electric/Gas,53-0012096621-7
+Denver Operating - CPB,Xcel Energy,online payment,No,53-0012098412,01/13/2026,"1,904.83","","","","","",""
+"","","","","","","",17FITZ,6462,Electric/Gas,"1,904.83",Electric/Gas,53-0012098412
+Denver Operating - CPB,Jansen Velante,ACH Batch # 1060,No,"",01/14/2026,"3,165.50","","","","","",""
+"","","","","","","",12HOT4626,3250,Owner Distribution,"1,005.50",Owner payment for 10/2025,""
+"","","","","","","",12HOT4626,3250,Owner Distribution,"2,160.00",Owner payment for 11/2025,""
+Denver Operating - CPB,"Corona Joliet Holdings, LLC",ACH Batch # 1061,No,"",01/14/2026,"4,338.78","","","","","",""
+"","","","","","","",13JOL1601,3250,Owner Distribution,"4,338.78",Owner payment for 01/2026,""
+Denver Operating - CPB,"2328 Emporia Partners, LLC",ACH Batch # 1062,No,"",01/14/2026,"3,023.00","","","","","",""
+"","","","","","","",13EMP2328,3250,Owner Distribution,"3,023.00",Owner payment for 01/2026,""
+Denver Operating - CPB,kidest Burukie,ACH Batch # 1063,No,"",01/14/2026,"2,291.67","","","","","",""
+"","","","","","","",17FITZ,7500,Payroll Expenses,"1,604.17",Payroll,""
+"","","","","","","",18Villa Verde,7500,Payroll Expenses,229.17,Payroll,""
+"","","","","","","",18Greenleaf,7500,Payroll Expenses,458.33,Payroll,""
+Denver Operating - CPB,Lawanda Dudley,ACH Batch # 1063,No,"",01/14/2026,"2,083.33","","","","","",""
+"","","","","","","",18Greenleaf,7500,Payroll Expenses,"1,041.67",Payroll,""
+"","","","","","","",18Villa Verde,7500,Payroll Expenses,"1,041.66",Payroll,""
+Denver Operating - CPB,Maria Fierro,ACH Batch # 1063,No,"",01/14/2026,"4,166.67","","","","","",""
+"","","","","","","",16BEL4861,7500,Payroll Expenses,"4,166.67",Payroll,""
+Denver Operating - CPB,Danielle Garcia,ACH Batch # 1063,No,"",01/14/2026,"6,666.67","","","","","",""
+"","","","","","","",17FITZ,7500,Payroll Expenses,"6,666.67",Payroll,""
+Denver Operating - CPB,"ClassicPlan Premium Financing, Inc.",Confirmation - 454283,No,Loan # 401319,01/16/2026,759.88,"","","","","",""
+"","","","","","","",13LAF2139,6320,Insurance - Property,759.88,Loan # 401319,""
+Denver Operating - CPB,FARMERS INSURANCE EXCHANGE,Confirmation - 4737615340,No,Policy # - 381-500-339-748-8,01/21/2026,204.19,"","","","","",""
+"","","","","","","",14NEW6480,6320,Insurance - Property,204.19,Policy # - 381-500-339-748-8,Policy # - 381-500-339-748-8
+Denver Operating - CPB,FARMERS INSURANCE EXCHANGE,Confirmation - 4737617016,No,381-009-199-570-6,01/21/2026,573.38,"","","","","",""
+"","","","","","","",13LAN257,6320,Insurance - Property,573.38,381-009-199-570-6,Policy # - 381-009-199-570-6
+Denver Operating - CPB,"5280 Waste Solutions, LLC",14825,No,1993 - 2700 N. Federal Blvd,01/26/2026,240.00,"","","","","",""
+"","","","","","","",14FED2700,6450,Garbage and Recycling,240.00,1993 - 2700 N. Federal Blvd-  to,36905
+Denver Operating - CPB,"BSD Holdings, LLC",ACH Batch # 1065,No,"",01/26/2026,"2,500.13","","","","","",""
+"","","","","","","",13SEV8901,3250,Owner Distribution,"1,000.00",Owner payment for 01/2026,""
+"","","","","","","",13SAB1311,3250,Owner Distribution,"1,500.13",Owner payment for 01/2026,""
+Denver Operating - CPB,Becker Appliance/Ecopliance,14826,No,"112082, 112544",01/26/2026,967.40,"","","","","",""
+"","","","","","","",17FITZ,8800,Capitalized Expenses,483.70,Appliance installation-08/26,112082
+"","","","","","","",17FITZ,8800,Capitalized Expenses,483.70,Appliance installation-09/15,112544
+Denver Operating - CPB,Chris Electric Company Inc.,14828,No,"",01/26/2026,29.53,"","","","","",""
+"","","","","","","",17FITZ,6515,Electrical Repair,29.53,electrical repair-08/05/2025,""
+Denver Operating - CPB,FARMERS INSURANCE EXCHANGE,14843,No,F008791011-001-00001,01/26/2026,"1,302.25","","","","","",""
+"","","","","","","",11HOL2149,6320,Insurance - Property,"1,302.25",Monthly Property Insurance for 2149 S Holly St. Office,""
+Denver Operating - CPB,FIRSTBANK,14844,No,Mortgage Payment,01/26/2026,0.53,"","","","","",""
+"","","","","","","",14OGD2231,7624,Mortgage Interest Expense,0.53,Mortgage Interest Expense Account #0009401827,""
+Denver Operating - CPB,"Gallagher Hall Residential, LLC",ACH Batch # 1065,No,"",01/26/2026,230.00,"","","","","",""
+"","","","","","","",14LOG600,3250,Owner Distribution,230.00,Owner payment for 01/2026,""
+Denver Operating - CPB,Hiller Fire Extinguisher Service,14845,No,722571,01/26/2026,501.00,"","","","","",""
+"","","","","","","",18Greenleaf,6265,Fire Suppression,501.00,fire inspection,722571
+Denver Operating - CPB,Kevin Woodard Inc.,14846,No,0087147,01/26/2026,325.00,"","","","","",""
+"","","","","","","",16BEL4861,6250,Landscaping,325.00,Landscaping-325,0087147
+Denver Operating - CPB,Jean Kraft,ACH Batch # 1064,No,"",01/26/2026,"1,438.75","","","","","",""
+"","","","","","","",13SEV8395,3250,Owner Distribution,"1,438.75",Owner payment for 01/2026,""
+Denver Operating - CPB,"Massey Services, Inc",14847,No,67999449B,01/26/2026,145.50,"","","","","",""
+"","","","","","","",16BEL4861,6790,Pest Control,145.50,PEST CONTROL,67999449B
+Denver Operating - CPB,Premier Properties M & R,ACH Batch # 1065,No,"T85GLEKB, TK5HIH, T9X69VM, T66J8VB, T2GE8M3, T2XU3TFB, TEJZH32, TZFC601, TVGCQM9, TR6V6WL, TMK6RL0, TLZKIBAB, TDJIYRHB, TAQ5FCH, TVUEDHW, T8UBU3P, T26CN73, TH6XIMT, TK9UIKEB, TQLQR2J, TI1MIHFB - 10444 E. 14th Avenue, T7YUEP8 - 711-775 Fraser Street, TYQTL",01/26/2026,"17,102.56","","","","","",""
+"","","","","","","",14WOL8079,6610,Maintenance Labor,79.75,- 8079 Wolff Street #A,T9F6GB2
+"","","","","","","",13SAB1311,6610,Maintenance Labor,71.50,Outside labor,T62JCGKB
+"","","","","","","",11HOL2149,6610,Maintenance Labor,297.00,- 2149 S. Holly Street,TJY1LMKB
+"","","","","","","",18Greenleaf,6610,Maintenance Labor,111.74,Maintenance Labor - 11/21/2025,T8UBU3P
+"","","","","","","",14PER1320,6610,Maintenance Labor,130.00,Maintenance Labor - 12/13/2025,T2GE8M3
+"","","","","","","",13MOL1380,6610,Maintenance Labor,"2,644.00",Maintenance Labor - 11/06/2025,T66J8VB
+"","","","","","","",13MOL1380,6610,Maintenance Labor,"3,088.00",Maintenance Labor - 11/11/2025,T85GLEKB
+"","","","","","","",14PER1320,6610,Maintenance Labor,"1,772.74",Maintenance Labor - 12/09/2025,T9X69VM
+"","","","","","","",18Greenleaf,6610,Maintenance Labor,186.30,Maintenance Labor - 11/20/2025,TAQ5FCH
+"","","","","","","",13MOL1380,6610,Maintenance Labor,"2,059.17",Maintenance Labor - 12/08/2025,TK5HIH
+"","","","","","","",18Greenleaf,6610,Maintenance Labor,565.12,Maintenance Labor - 12/2/2025,T26CN73
+"","","","","","","",14GRA1185,6250,Landscaping,220.64,Landscaping - 10/15/2025,T2XU3TFB
+"","","","","","","",14LOG1120,6610,Maintenance Labor,127.50,Maintenance labor - 1/20/2026,T65BLNR
+"","","","","","","",13FRA711,6790,Pest Control,107.86,Pest Control - 05/08/2025,T7YUEP8
+"","","","","","","",14LOG600,6610,Maintenance Labor,159.00,Maintenance labor - 1/20/2026,T9WKRTZ
+"","","","","","","",13FOU10444,6610,Maintenance Labor,139.75,Maintenance labor - 1/20/2026,TA8210HB
+"","","","","","","",14FED2700,6610,Maintenance Labor,65.00,Maintenance labor - 1/20/2026,TBGU6B4
+"","","","","","","",18Greenleaf,6610,Maintenance Labor,183.18,Maintenance Labor - 11/25/2025,TDJIYRHB
+"","","","","","","",14FED2700,6610,Maintenance Labor,65.00,Maintenance labor - 1/20/2026,TE28FBD
+"","","","","","","",14PER1320,6610,Maintenance Labor,130.00,Maintenance Labor - 12/13/2025,TEJZH32
+"","","","","","","",18Greenleaf,6610,Maintenance Labor,77.50,Maintenance Labor - 01/05/2026,TH6XIMT
+"","","","","","","",14FED2700,6610,Maintenance Labor,74.75,Maintenance labor - 1/20/2026,TI0D6HNB
+"","","","","","","",13FOU10444,6610,Maintenance Labor,268.11,Maintenance Labor - 11/19/2025,TI1MIHFB
+"","","","","","","",14LOG600,6610,Maintenance Labor,118.58,Maintenance labor - 1/20/2026,TIQV98V
+"","","","","","","",18Villa Verde,6610,Maintenance Labor,77.50,Maintenance labor - 1/20/2026,TIQXTDI
+"","","","","","","",14PER1320,6610,Maintenance Labor,130.00,Maintenance Labor - 12/13/2025,TK9UIKEB
+"","","","","","","",18Villa Verde,6510,Plumbing,263.50,Plumbing - 01/19/2026,TLEJ95V
+"","","","","","","",18Greenleaf,6510,Plumbing,"1,047.88",Plumbing - 11/24/2025,TLZKIBAB
+"","","","","","","",18Greenleaf,6510,Plumbing,695.01,Plumbing - 11/26/2025,TMK6RL0
+"","","","","","","",14LOG600,6670,Appliance Repair & Replacement,72.50,Appliances - 11/07/2025,TPBLMWL
+"","","","","","","",14FED2700,6254,Cleaning,65.00,Cleaning - 01/19/2026,TPE1GYEB
+"","","","","","","",18Villa Verde,6240,"HVAC (Heat, Vent, Air)",256.70,HVAC - 01/06/2026,TQLQR2J
+"","","","","","","",18Greenleaf,6510,Plumbing,327.38,Plumbing - 11/26/2025,TR6V6WL
+"","","","","","","",18Villa Verde,6510,Plumbing,77.50,Plumbing - 01/19/2026,TRTYEXFB
+"","","","","","","",18Villa Verde,6610,Maintenance Labor,187.36,Maintenance Labor - 11/24/2025,TVGCQM9
+"","","","","","","",14ONE5023,6250,Landscaping,128.50,Landscaping - 12/15/2025,TVUEDHW
+"","","","","","","",14LOG600,6515,Electrical Repair,391.73,Electrical repair - 01/14/2026,TX7XX4P
+"","","","","","","",18Villa Verde,6610,Maintenance Labor,120.13,Maintenance Labor - 01/07/2026,TY796MBB
+"","","","","","","",18Greenleaf,6610,Maintenance Labor,27.89,Maintenance Labor - 11/14/2025,TYQTLHM
+"","","","","","","",18Greenleaf,6610,Maintenance Labor,491.79,Maintenance Labor - 11/24/2025,TZFC601
+Denver Operating - CPB,Professional Plumbers Denver MMBS LLC,14848,No,3231,01/26/2026,775.00,"","","","","",""
+"","","","","","","",17FITZ,8800,Capitalized Expenses,775.00,Plumbing  06/25,3231
+Denver Operating - CPB,Property Alliance LLC,14849,No,"Lease renewal - 1129 Raritan. Unit A, Lease Renewal - Bell Isle Unit 117",01/26/2026,"5,782.68","","","","","",""
+"","","","","","","",11FED8020,6270,Commissions Paid,39.12,Commissions Paid for 01/2026,""
+"","","","","","","",11KIP1901,6270,Commissions Paid,179.38,Commissions Paid for 01/2026,""
+"","","","","","","",12MAP6042,6270,Commissions Paid,192.00,Commissions Paid for 01/2026,""
+"","","","","","","",12MAP6042,4128,Pet Fee-Non Refundable,25.00,Pet Fee-Non Refundable for 01/2026,""
+"","","","","","","",12YUM629,6270,Commissions Paid,70.00,Commissions Paid for 01/2026,""
+"","","","","","","",13FOU10444,6270,Commissions Paid,73.50,Commissions Paid for 01/2026,""
+"","","","","","","",13FOU10444,4130,Lease Processing Fee,65.00,Lease Processing Fee for 01/2026,""
+"","","","","","","",13KEN3453,6270,Commissions Paid,74.90,Commissions Paid for 01/2026,""
+"","","","","","","",13KEN3453,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13KEN3453,4127,Late Fee,53.50,Late Fee for 01/2026,""
+"","","","","","","",13PAR1933,6270,Commissions Paid,88.00,Commissions Paid for 01/2026,""
+"","","","","","","",13WRI479-201,6270,Commissions Paid,5.00,Commissions Paid for 01/2026,""
+"","","","","","","",14FED2700,6270,Commissions Paid,5.75,Commissions Paid for 01/2026,""
+"","","","","","","",14HAR2801,6270,Commissions Paid,110.00,Commissions Paid for 01/2026,""
+"","","","","","","",14HAR2801,4127,Late Fee,68.75,Late Fee for 01/2026,""
+"","","","","","","",14LOG1120,6270,Commissions Paid,217.20,Commissions Paid for 01/2026,""
+"","","","","","","",14LOG1120,4127,Late Fee,45.00,Late Fee for 01/2026,""
+"","","","","","","",14PER1320,4135,Application Fee Income,45.00,Application Fee Income for 01/2026,""
+"","","","","","","",14SEV5575-202,6270,Commissions Paid,114.52,Commissions Paid for 01/2026,""
+"","","","","","","",14TUM622,6270,Commissions Paid,130.00,Commissions Paid for 01/2026,""
+"","","","","","","",16BEL4861,6270,Commissions Paid,63.00,Commissions Paid for 01/2026,""
+"","","","","","","",18Villa Verde,6270,Commissions Paid,38.40,Commissions Paid for 01/2026,""
+"","","","","","","",12ANT7817,6270,Commissions Paid,181.90,Commissions Paid for 01/2026,""
+"","","","","","","",12MON1563	,6270,Commissions Paid,24.00,Commissions Paid for 01/2026,""
+"","","","","","","",13KNO3679,6270,Commissions Paid,72.45,Commissions Paid for 01/2026,""
+"","","","","","","",13KNO3679,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13KNO3679,4127,Late Fee,51.75,Late Fee for 01/2026,""
+"","","","","","","",14CLA1408,6270,Commissions Paid,95.97,Commissions Paid for 01/2026,""
+"","","","","","","",14COR5261,6270,Commissions Paid,164.00,Commissions Paid for 01/2026,""
+"","","","","","","",14COR5261,4127,Late Fee,102.50,Late Fee for 01/2026,""
+"","","","","","","",14FED2700,6270,Commissions Paid,80.50,Commissions Paid for 01/2026,""
+"","","","","","","",14LOG600,6270,Commissions Paid,88.00,Commissions Paid for 01/2026,""
+"","","","","","","",14LOG600,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",14LOG600,4127,Late Fee,55.00,Late Fee for 01/2026,""
+"","","","","","","",16BEL4861,6270,Commissions Paid,78.98,Commissions Paid for 01/2026,""
+"","","","","","","",16BEL4861,4130,Lease Processing Fee,200.00,Lease Processing Fee for 01/2026,""
+"","","","","","","",16BEL4861,4127,Late Fee,73.90,Late Fee for 01/2026,""
+"","","","","","","",11SAN10065,6270,Commissions Paid,179.11,Commissions Paid for 01/2026,""
+"","","","","","","",13FOU10444,6270,Commissions Paid,74.27,Commissions Paid for 01/2026,""
+"","","","","","","",13FOU10444,4580,Liability to Landlord Insurance,10.15,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13JAC2870,6270,Commissions Paid,80.00,Commissions Paid for 01/2026,""
+"","","","","","","",13SAB1311,6270,Commissions Paid,160.00,Commissions Paid for 01/2026,""
+"","","","","","","",14FED2700,6270,Commissions Paid,10.00,Commissions Paid for 01/2026,""
+"","","","","","","",14LOG1120,4135,Application Fee Income,45.00,Application Fee Income for 01/2026,""
+"","","","","","","",14TUM622,6270,Commissions Paid,40.00,Commissions Paid for 01/2026,""
+"","","","","","","",14LOG1120,6270,Commissions Paid,66.80,Commissions Paid for 01/2026,""
+"","","","","","","",14LOG1120,4127,Late Fee,66.25,Late Fee for 01/2026,""
+"","","","","","","",13FRA711,6270,Commissions Paid,99.00,Commissions Paid for 01/2026,""
+"","","","","","","",13FRA711,4127,Late Fee,82.50,Late Fee for 01/2026,""
+"","","","","","","",13KNO3839,6270,Commissions Paid,210.00,Commissions Paid for 01/2026,""
+"","","","","","","",13MOL1380,4127,Late Fee,149.00,Late Fee for 01/2026,""
+"","","","","","","",14FED2700,6270,Commissions Paid,126.25,Commissions Paid for 01/2026,""
+"","","","","","","",14FED2700,4127,Late Fee,100.00,Late Fee for 01/2026,""
+"","","","","","","",14GRA1185,6270,Commissions Paid,184.80,Commissions Paid for 01/2026,""
+"","","","","","","",14LEY12723-F,4127,Late Fee,127.50,Late Fee for 01/2026,""
+"","","","","","","",14LOG1120,4135,Application Fee Income,45.00,Application Fee Income for 01/2026,""
+"","","","","","","",14MIL3408,6270,Commissions Paid,91.12,Commissions Paid for 01/2026,""
+"","","","","","","",14OGD1642,6270,Commissions Paid,35.00,Commissions Paid for 01/2026,""
+"","","","","","","",14OGD2231,4135,Application Fee Income,55.00,Application Fee Income for 01/2026,""
+"","","","","","","",16BEL4861,6270,Commissions Paid,6.75,Commissions Paid for 01/2026,""
+"","","","","","","",13RAR1129,6295,Lease Renewal,200.00,Lease renewal - 1129 Raritan. Unit A,""
+"","","","","","","",16BEL4861,6295,Lease Renewal,200.00,Lease Renewal - Bell Isle Unit 117,""
+"","","","","","","",13DAL1100,6270,Commissions Paid,2.40,Commissions Paid for 01/2026,""
+"","","","","","","",13DAL1100,4580,Liability to Landlord Insurance,30.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13DAL1100,4127,Late Fee,71.50,Late Fee for 01/2026,""
+"","","","","","","",13MOL1380,6270,Commissions Paid,78.06,Commissions Paid for 01/2026,""
+"","","","","","","",13MOL1380,4127,Late Fee,65.05,Late Fee for 01/2026,""
+"","","","","","","",14GRA1185,6270,Commissions Paid,15.20,Commissions Paid for 01/2026,""
+"","","","","","","",14GRA1185,4130,Lease Processing Fee,60.00,Lease Processing Fee for 01/2026,""
+Denver Operating - CPB,Makhan Singh,ACH Batch # 1064,No,"",01/26/2026,"1,921.50","","","","","",""
+"","","","","","","",14ONE5023,3250,Owner Distribution,"1,921.50",Owner payment for 01/2026,""
+Denver Operating - CPB,"Tschetter Sulzer, P.C.",ACH Batch # 1065,No,"",01/26/2026,315.26,"","","","","",""
+"","","","","","","",13KNO3839,7610,Legal Expenses,38.18,"",EC - 508638
+"","","","","","","",13MOL1380,7610,Legal Expenses,38.18,"",EC - 508638
+"","","","","","","",13JOL1601,7610,Legal Expenses,62.00,"",EC - 508638
+"","","","","","","",13PAR1933,7610,Legal Expenses,128.00,"",EC - 508638
+"","","","","","","",13MOL1380,7610,Legal Expenses,48.90,"",EC - 508638
+Denver Operating - CPB,Waste Connections of Colorado,14859,No,5684094V315,01/26/2026,19.70,"","","","","",""
+"","","","","","","",12MOR914,6450,Garbage and Recycling,19.70,"",5684094V315
+Denver Operating - CPB,William Worrell,ACH Batch # 1064,No,"",01/26/2026,"1,780.20","","","","","",""
+"","","","","","","",14NIN5731,3250,Owner Distribution,"1,780.20",Owner payment for 01/2026,""
+Denver Operating - CPB,"Zillow, Inc.",14864,No,INV34071573 - 1571 Beeler Street,01/26/2026,230.32,"","","","","",""
+"","","","","","","",18Greenleaf,7460,Marketing,230.32,- 1571 Beeler Street,INV34071573
+Denver Operating - CPB,"Zillow, Inc.",14865,No,INV34071568 - 1642 Alton,01/26/2026,115.16,"","","","","",""
+"","","","","","","",18Villa Verde,7460,Marketing,115.16,- 1642 Alton. Acct: ZRN-6670725,INV34071568
+Denver Operating - CPB,"ClassicPlan Premium Financing, Inc.",296065306,No,Quote ID=535857,01/26/2026,"2,069.00","","","","","",""
+"","","","","","","",13EMP2328,6320,Insurance - Property,"2,069.00",Quote ID=535857,Quote ID=535857
+Denver Operating - CPB,Denver Water,0234577466,No,0234577466 - Paid Online via ACH,01/28/2026,129.70,"","","","","",""
+"","","","","","","",11SAN10065,6461,Water/Sewer,129.70,0234577466 -,""
+Denver Operating - CPB,Stratmoor Hills Water District,4756299096,No,- 361-363 Fairway South,01/28/2026,430.48,"","","","","",""
+"","","","","","","",12FAI361,6461,Water/Sewer,430.48,- 361-363 Fairway South,""
+Denver Operating - CPB,Xcel Energy,3476a,No,53-9701188-0 - 2870-2876  N Jackson Street,01/28/2026,237.71,"","","","","",""
+"","","","","","","",13JAC2870,6462,Electric/Gas,237.71,53-9701188-0 - 2870-2876  N Jackson Street- 01/01/2026 to 12/01/2025,""
+Denver Operating - CPB,Xcel Energy,d2e2d,No,53-0798226-1 - 3408-3412 Milwaukee Street,01/28/2026,93.90,"","","","","",""
+"","","","","","","",14MIL3408,6462,Electric/Gas,93.90,53-0798226-1 - 3408-3412 Milwaukee Street- 01/02/2026 to 12/03/2025,959380135
+Denver Operating - CPB,Waste Connections of Colorado,2915865669,No,"",01/28/2026,450.72,"","","","","",""
+"","","","","","","",11FED8020,6450,Garbage and Recycling,450.72,Garbage and Recycling,""
+Denver Operating - CPB,Waste Connections of Colorado,2969445533,No,8949773V311 - 14155 E. Montview Boulevard,01/28/2026,"2,581.60","","","","","",""
+"","","","","","","",17FITZ,6450,Garbage and Recycling,"2,581.60",- 14155 E. Montview Boulevard,8949773V311
+Denver Operating - CPB,Republic Services,541456059052,No,3-0060-0107172 - 4861 N Blackwelder Ave,01/28/2026,"2,400.70","","","","","",""
+"","","","","","","",16BEL4861,6450,Garbage and Recycling,"2,400.70",Garbage and recycling,0060-003021933
+Denver Operating - CPB,Republic Services,0653-000825184,No,3-0653-7100740 - 629 Yuma Street,01/28/2026,174.20,"","","","","",""
+"","","","","","","",12YUM629,6450,Garbage and Recycling,174.20,3-0653-7100740 - 629 Yuma Street-  to,0653-000825184
+Denver Operating - CPB,Republic Services,0653-000815538,No,3-0653-1002217 - 518 S. Nevada Avenue,01/28/2026,214.80,"","","","","",""
+"","","","","","","",11NEV518,6450,Garbage and Recycling,214.80,3-0653-1002217 - 518 S. Nevada Avenue-  to,0653-000815538
+Denver Operating - CPB,City and County of Denver,P-01537562,No,- 600 S. Logan Street,01/28/2026,62.70,"","","","","",""
+"","","","","","","",14LOG600,6450,Garbage and Recycling,62.70,0004494315,""
+Denver Operating - CPB,City of Lakewood,PAYMENT PROCESSED 324165,No,- 8395 W. 17th Avenue,01/28/2026,152.91,"","","","","",""
+"","","","","","","",13SEV8395,6461,Water/Sewer,152.91,2006816-00,""
+Denver Operating - CPB,Denver Water,20878811,No,6265310000 - 2700 N. Federal Blvd,01/28/2026,346.34,"","","","","",""
+"","","","","","","",14FED2700,6461,Water/Sewer,346.34,6265310000 - 2700 N. Federal Blvd- 12/09/2025 to 11/11/2025,""
+Denver Operating - CPB,Denver Water,20878813,No,1969179255 - 1120 S. Logan Street,01/28/2026,334.28,"","","","","",""
+"","","","","","","",14LOG1120,6461,Water/Sewer,334.28,1969179255 - 1120 S. Logan Street- 12/17/2025 to 11/20/2025,""
+Denver Operating - CPB,Denver Water,20878820,No,5769135320 - 2149 S. Holly Street,01/28/2026,290.97,"","","","","",""
+"","","","","","","",11HOL2149,6461,Water/Sewer,290.97,5769135320 - 2149 S. Holly Street- 12/19/2025 to 11/22/2025,""
+Denver Operating - CPB,City of Aurora Water Dep.,4755370070,No,A091039,01/28/2026,"6,218.71","","","","","",""
+"","","","","","","",17FITZ,6461,Water/Sewer,"6,218.71",A091039,A091039
+Denver Operating - CPB,City of Aurora Water Dep.,4755372898,No,A132783,01/28/2026,474.51,"","","","","",""
+"","","","","","","",13EMP2328,6461,Water/Sewer,474.51,A132783,A132783
+Denver Operating - CPB,City of Aurora Water Dep.,4755756816,No,A132786 - 1601-1645 Joliet Street,01/28/2026,621.26,"","","","","",""
+"","","","","","","",13JOL1601,6461,Water/Sewer,621.26,A132786 - 1601-1645 Joliet Street- 12/18/2025 to 11/17/2025,A132786
+Denver Operating - CPB,City of Aurora Water Dep.,4755756126,No,a129999 - 2081-2802 Fulton Street,01/28/2026,75.92,"","","","","",""
+"","","","","","","",13FUL2081,6461,Water/Sewer,75.92,a129999 - 2081-2802 Fulton Street- 12/18/2025 to 11/17/2025,a129999
+Denver Operating - CPB,City of Aurora Water Dep.,4755759030,No,"",01/28/2026,"1,707.33","","","","","",""
+"","","","","","","",13MOL1380,6461,Water/Sewer,"1,707.33",water /sewer,""
+Denver Operating - CPB,Comcast,22461941383,No,Paid Online - ACH,01/29/2026,204.09,"","","","","",""
+"","","","","","","",17FITZ,6475,Internet,204.09,Internet,""
+Denver Operating - CPB,Comcast,22461942873,No,- 1642 Alton,01/29/2026,"1,021.63","","","","","",""
+"","","","","","","",18Villa Verde,6475,Internet,"1,021.63",- 1642 Alton,""
+Denver Operating - CPB,Century Link,010503374255,No,333165546,01/29/2026,214.16,"","","","","",""
+"","","","","","","",11SAN10065,6475,Internet,214.16,333165546 - 10065-10125 W. San Juan Way,333165546
+Denver Operating - CPB,Property Alliance LLC,Bill paid with PA Credit Card,No,0016110067611501 - Bill paid with PA Credit Card,01/29/2026,356.42,"","","","","",""
+"","","","","","","",16BEL4861,6475,Internet,356.42,0016110067611501 -0016110067611501 - Bill paid with PA Credit Card,0016110067611501 - Bill paid with PA Credit Card
+Denver Operating - CPB,"10444 Partners, LLC",ACH Batch # 1067,No,"",01/29/2026,"1,001.53","","","","","",""
+"","","","","","","",13FOU10444,3250,Owner Distribution,"1,001.53",Owner payment for 01/2026,""
+Denver Operating - CPB,94th at Wads LLC,ACH Batch # 1067,No,"",01/29/2026,200.32,"","","","","",""
+"","","","","","","",11NIN8129,3250,Owner Distribution,200.32,Owner payment for 01/2026,""
+Denver Operating - CPB,A Cut Above Landscape LLC,14866,No,INV-5906,01/29/2026,269.93,"","","","","",""
+"","","","","","","",11NEV518,6250,Landscaping,269.93,- 518 S. Nevada Avenue,INV-5906
+Denver Operating - CPB,"BSD Holdings, LLC",ACH Batch # 1067,No,"",01/29/2026,"5,141.04","","","","","",""
+"","","","","","","",14COR5261,3250,Owner Distribution,"1,886.00",Owner payment for 01/2026,""
+"","","","","","","",13PAR1933,3250,Owner Distribution,961.06,Owner payment for 01/2026,""
+"","","","","","","",14HAR2801,3250,Owner Distribution,"1,340.00",Owner payment for 01/2026,""
+"","","","","","","",14MIL3408,3250,Owner Distribution,953.98,Owner payment for 01/2026,""
+Denver Operating - CPB,"Corona Joliet Holdings, LLC",ACH Batch # 1067,No,"",01/29/2026,"6,937.06","","","","","",""
+"","","","","","","",13JOL1601,3250,Owner Distribution,"6,937.06",Owner payment for 01/2026,""
+Denver Operating - CPB,Sarah Easton,ACH Batch # 1066,No,"",01/29/2026,490.63,"","","","","",""
+"","","","","","","",12YUM629,3250,Owner Distribution,490.63,Owner payment for 01/2026,""
+Denver Operating - CPB,David Feeny,ACH Batch # 1066,No,"",01/29/2026,170.20,"","","","","",""
+"","","","","","","",14MAR2338,3250,Owner Distribution,170.20,Owner payment for 01/2026,""
+Denver Operating - CPB,"First Noels Properties, LLC",ACH Batch # 1067,No,"",01/29/2026,"1,760.08","","","","","",""
+"","","","","","","",13FRA711,3250,Owner Distribution,"1,760.08",Owner payment for 01/2026,""
+Denver Operating - CPB,Xiao Fu,ACH Batch # 1066,No,"",01/29/2026,"2,346.00","","","","","",""
+"","","","","","","",14LEY12723-F,3250,Owner Distribution,"2,346.00",Owner payment for 01/2026,""
+Denver Operating - CPB,"Gallagher Hall Residential, LLC",ACH Batch # 1067,No,"",01/29/2026,254.02,"","","","","",""
+"","","","","","","",14LOG600,3250,Owner Distribution,254.02,Owner payment for 01/2026,""
+Denver Operating - CPB,"HQ 1, LLC",ACH Batch # 1067,No,"",01/29/2026,846.10,"","","","","",""
+"","","","","","","",11HOL2149,3250,Owner Distribution,846.10,Owner payment for 01/2026,""
+Denver Operating - CPB,Timothy M. Jones,ACH Batch # 1066,No,"",01/29/2026,"1,521.48","","","","","",""
+"","","","","","","",14SEV5575-202,3250,Owner Distribution,"1,521.48",Owner payment for 01/2026,""
+Denver Operating - CPB,"MJ Residential, LLC",ACH Batch # 1067,No,"",01/29/2026,"3,019.22","","","","","",""
+"","","","","","","",14LOG1120,3250,Owner Distribution,"3,019.22",Owner payment for 01/2026,""
+Denver Operating - CPB,Mamas Kastle LLC,ACH Batch # 1067,No,"",01/29/2026,200.00,"","","","","",""
+"","","","","","","",14VIL12360,3250,Owner Distribution,200.00,Owner payment for 01/2026,""
+Denver Operating - CPB,Medina Family Trust,ACH Batch # 1067,No,"",01/29/2026,570.78,"","","","","",""
+"","","","","","","",14INC725,3250,Owner Distribution,249.99,Owner payment for 01/2026,""
+"","","","","","","",11SAN734,3250,Owner Distribution,112.94,Owner payment for 01/2026,""
+"","","","","","","",13SEV807,3250,Owner Distribution,207.85,Owner payment for 01/2026,""
+Denver Operating - CPB,Larry Mouri,ACH Batch # 1066,No,"",01/29/2026,"1,279.36","","","","","",""
+"","","","","","","",14GRA1185,3250,Owner Distribution,"1,279.36",Owner payment for 01/2026,""
+Denver Operating - CPB,Elizabeth A. Pippin,ACH Batch # 1066,No,"",01/29/2026,131.85,"","","","","",""
+"","","","","","","",14THI5045,3250,Owner Distribution,37.69,Owner payment for 01/2026,""
+"","","","","","","",14ZEN3904,3250,Owner Distribution,94.16,Owner payment for 01/2026,""
+Denver Operating - CPB,Premier Properties M & R,ACH Batch # 1067,No,"THHVZMJ, TYQVME6, TNF3Y9Y, TIW4MKT, TGMMR2P, TCH6NJFB, TB7MIRV, TB1FUB, TG531C7, T7DKCUG, TZZ01H6TBHTBDBB, THY4V9LB, TDFH958, TFV49KLB - 1601-1645 Joliet Street, TWTCOI - 1601-1645 Joliet Street, T1G9NEC - 1601-1645 Joliet Street",01/29/2026,"1,825.15","","","","","",""
+"","","","","","","",13LAF2139,6790,Pest Control,77.50,Pest Control - 12/15/2025,TNF3Y9Y
+"","","","","","","",14OGD2231,6250,Landscaping,130.00,Landscaping - 12/20/2025,THHVZMJ
+"","","","","","","",13JOL1601,6610,Maintenance Labor,65.00,Maintenance labor - 1/20/2026,T1G9NEC
+"","","","","","","",13EMP2328,6790,Pest Control,17.75,Pest Control - 12/17/2025,T7DKCUG
+"","","","","","","",13JOL1601,6790,Pest Control,65.00,Pest Control - 12/31/2025,TB1FUB
+"","","","","","","",13JOL1601,6450,Garbage and Recycling,162.50,Garbage and Recycling - 12/31/2025,TB7MIRV
+"","","","","","","",13JOL1601,6790,Pest Control,77.50,Pest Control - 12/15/2025,TCH6NJFB
+"","","","","","","",13EMP2328,6610,Maintenance Labor,201.47,Maintenance Labor - 12/16/2025,TDFH958
+"","","","","","","",13JOL1601,6610,Maintenance Labor,65.00,Maintenance labor - 1/14/26,TFV49KLB
+"","","","","","","",13JOL1601,6610,Maintenance Labor,65.00,Maintenance Labor - 12/23/2025,TG531C7
+"","","","","","","",13JOL1601,6670,Appliance Repair & Replacement,77.50,Appliances - 12/17/2025,TGMMR2P
+"","","","","","","",13JOL1601,6515,Electrical Repair,235.30,Electrical repair - 12/16/2025,THY4V9LB
+"","","","","","","",13JOL1601,6240,"HVAC (Heat, Vent, Air)",135.63,HVAC - 12/15/2025,TIW4MKT
+"","","","","","","",13JOL1601,6254,Cleaning,65.00,Cleaning - 01/19/2025,TWTCOI
+"","","","","","","",13LAF2139,6510,Plumbing,38.75,Plumbing - 12/23/2025,TYQVME6
+"","","","","","","",13JOL1601,6670,Appliance Repair & Replacement,346.25,Appliances - 01/09/2026,TZZ01H6TBHTBDBB
+Denver Operating - CPB,Property Alliance LLC,14870,No,"",01/29/2026,"1,203.65","","","","","",""
+"","","","","","","",13EMP2328,6270,Commissions Paid,120.12,Commissions Paid for 01/2026,""
+"","","","","","","",13EMP2328,4580,Liability to Landlord Insurance,30.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13EMP2328,4127,Late Fee,61.80,Late Fee for 01/2026,""
+"","","","","","","",13JOL1601,6270,Commissions Paid,14.00,Commissions Paid for 01/2026,""
+"","","","","","","",13EMP2328,6270,Commissions Paid,37.31,Commissions Paid for 01/2026,""
+"","","","","","","",13EMP2328,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13EMP2328,4127,Late Fee,34.05,Late Fee for 01/2026,""
+"","","","","","","",13EMP2328,6270,Commissions Paid,54.06,Commissions Paid for 01/2026,""
+"","","","","","","",13EMP2328,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",13EMP2328,4127,Late Fee,32.85,Late Fee for 01/2026,""
+"","","","","","","",13JOL1601,6270,Commissions Paid,248.50,Commissions Paid for 01/2026,""
+"","","","","","","",13JOL1601,4127,Late Fee,42.50,Late Fee for 01/2026,""
+"","","","","","","",13JOL1601,4580,Liability to Landlord Insurance,15.00,Liability to Landlord Insurance for 01/2026,""
+"","","","","","","",14LEY12723-F,6270,Commissions Paid,204.00,Commissions Paid for 01/2026,""
+"","","","","","","",14PER1320,4135,Application Fee Income,45.00,Application Fee Income for 01/2026,""
+"","","","","","","",11KIP1901,6270,Commissions Paid,36.75,Commissions Paid for 01/2026,""
+"","","","","","","",13JAC2870,6270,Commissions Paid,16.00,Commissions Paid for 01/2026,""
+"","","","","","","",14CLA1408,6270,Commissions Paid,84.28,Commissions Paid for 01/2026,""
+"","","","","","","",14FED2700,6270,Commissions Paid,3.50,Commissions Paid for 01/2026,""
+"","","","","","","",14MAR2338,6270,Commissions Paid,14.80,Commissions Paid for 01/2026,""
+"","","","","","","",14TUM622,6270,Commissions Paid,20.00,Commissions Paid for 01/2026,""
+"","","","","","","",16BEL4861,6270,Commissions Paid,59.13,Commissions Paid for 01/2026,""
+Denver Operating - CPB,"Ramirez Hospitality Group, LLC",ACH Batch # 1067,No,"",01/29/2026,"5,757.03","","","","","",""
+"","","","","","","",11SAN10065,3250,Owner Distribution,"5,757.03",Owner payment for 01/2026,""
+Denver Operating - CPB,"Rivermond, LLC",ACH Batch # 1067,No,"",01/29/2026,665.00,"","","","","",""
+"","","","","","","",14OGD1642,3250,Owner Distribution,665.00,Owner payment for 01/2026,""
+Denver Operating - CPB,Michael Robideau,ACH Batch # 1066,No,"",01/29/2026,"4,372.03","","","","","",""
+"","","","","","","",11KIP1901,3250,Owner Distribution,"4,372.03",Owner payment for 01/2026,""
+Denver Operating - CPB,Rajendra Singh,ACH Batch # 1066,No,"",01/29/2026,276.00,"","","","","",""
+"","","","","","","",12MON1563	,3250,Owner Distribution,276.00,Owner payment for 01/2026,""
+Denver Operating - CPB,Skylar LLC,ACH Batch # 1067,No,"",01/29/2026,"1,798.37","","","","","",""
+"","","","","","","",14FED2700,3250,Owner Distribution,"1,798.37",Owner payment for 01/2026,""
+Denver Operating - CPB,Michael Sowa,ACH Batch # 1066,No,"",01/29/2026,"2,208.00","","","","","",""
+"","","","","","","",12MAP6042,3250,Owner Distribution,"2,208.00",Owner payment for 01/2026,""
+Denver Operating - CPB,The Living Trust of Georges & Afaf Meleka,ACH Batch # 1067,No,"",01/29/2026,"1,379.98","","","","","",""
+"","","","","","","",11FED8020,3250,Owner Distribution,"1,379.98",Owner payment for 01/2026,""
+Denver Operating - CPB,"WAYM Investment Group, LLC",ACH Batch # 1067,No,"",01/29/2026,"4,465.75","","","","","",""
+"","","","","","","",13KNO3839,3250,Owner Distribution,"2,508.10",Owner payment for 01/2026,""
+"","","","","","","",13KNO3679,3250,Owner Distribution,962.55,Owner payment for 01/2026,""
+"","","","","","","",13KEN3453,3250,Owner Distribution,995.10,Owner payment for 01/2026,""
+Denver Operating - CPB,Siarah S. Durham,14873,No,Security Deposit - 600 S. Logan Street #12,01/29/2026,600.00,"","","","","",""
+"","","","","","","",14LOG1000,2115,Security Deposits Clearing,600.00,"Siarah S. Durham, 14LOG1000 - 10: Move Out Refund",""
+Denver Operating - CPB,City of Aurora Water Dep.,4722514832,No,Paid Online - ACH,01/29/2026,453.64,"","","","","",""
+"","","","","","","",13JOL1601,6461,Water/Sewer,453.64,Water/Sewer,""
+Denver Operating - CPB,Denver Water,20894031,No,0782749362 - 5302 S. Federal Circle (Centennial Plaza),01/30/2026,"1,068.56","","","","","",""
+"","","","","","","",11FED5302,6461,Water/Sewer,"1,068.56",Water/Sewer,9171032148
+Denver Operating - CPB,Denver Water,20894076,No,9798200000 - 3408-3412 Milwaukee Street,01/30/2026,317.00,"","","","","",""
+"","","","","","","",14MIL3408,6461,Water/Sewer,317.00,Water/Sewer,9469738451
+Denver Operating - CPB,Denver Water,20894096,No,5601379099 - 2231 Ogden Street,01/30/2026,103.13,"","","","","",""
+"","","","","","","",14OGD2231,6461,Water/Sewer,103.13,Water/Sewer,""
+Denver Operating - CPB,Denver Water,20894115,No,5601379099 - 2231 Ogden Street,01/30/2026,98.78,"","","","","",""
+"","","","","","","",14OGD2231,6461,Water/Sewer,98.78,Water/Sewer,""
+Denver Operating - CPB,Denver Water,Customer ID - 5931652838,No,3187310000 - 213-215 Hooker Street,01/30/2026,124.08,"","","","","",""
+"","","","","","","",14HOO213,6461,Water/Sewer,124.08,Water/Sewer,5931652838
+Denver Operating - CPB,CHFA General Operating Account,Paid,No,Paid Online - ACH,02/01/2026,"2,500.00","","","","","",""
+"","","","","","","",17FITZ,7610,Legal Expenses,"2,500.00",2026 LIHTC PY15 compliance monitoring fee,INV009767
+Denver Operating - CPB,Clearwater Plumbing Services,PAID USING BELL ISLE CC,No,2281 - 4861 N Blackwelder Ave - PAID USING BELL ISLE CC,02/01/2026,200.00,"","","","","",""
+"","","","","","","",16BEL4861,6510,Plumbing,200.00,PAID USING BELL ISLE CC,2281
+Denver Operating - CPB,kidest Burukie,ACH Batch # 1068,No,"",02/02/2026,"2,291.67","","","","","",""
+"","","","","","","",17FITZ,7500,Payroll Expenses,"1,604.17",Payroll,""
+"","","","","","","",18Villa Verde,7500,Payroll Expenses,229.17,Payroll,""
+"","","","","","","",18Greenleaf,7500,Payroll Expenses,458.33,Payroll,""
+Denver Operating - CPB,Lawanda Dudley,ACH Batch # 1069,No,"",02/02/2026,"2,083.33","","","","","",""
+"","","","","","","",18Greenleaf,7500,Payroll Expenses,"1,041.66",Payroll,""
+"","","","","","","",18Villa Verde,7500,Payroll Expenses,"1,041.67",Payroll,""
+Denver Operating - CPB,South Adams County Water & Sanitation,303660941,No,- 6480-6482 Newport Street,02/02/2026,266.56,"","","","","",""
+"","","","","","","",14NEW6480,6461,Water/Sewer,266.56,- 6480-6482 Newport Street,""
+Denver Operating - CPB,Property Alliance LLC,EC-487560,No,EC-487560,02/02/2026,119.00,"","","","","",""
+"","","","","","","",13TWE19053,7610,Legal Expenses,119.00,LEGAL,EC-487560
+Denver Operating - CPB,Waste Connections of Colorado,3353469271,No,5684088V315,02/02/2026,35.56,"","","","","",""
+"","","","","","","",12FAI361,6450,Garbage and Recycling,35.56,"",5684088V315
+Denver Operating - CPB,Waste Connections of Colorado,3353655290,No,5684087V315,02/02/2026,163.30,"","","","","",""
+"","","","","","","",12AST2562,6450,Garbage and Recycling,163.30,"",5684087V315
+Denver Operating - CPB,Xcel Energy,92924,No,53-0015426843-9 - 2139-2153 N. Lafayette Street,02/02/2026,35.65,"","","","","",""
+"","","","","","","",13LAF2139,6462,Electric/Gas,35.65,Electric/Gas,957153249
+Denver Operating - CPB,Xcel Energy,acad4,No,53-0014778449-5 - 10444 E. 14th Avenue,02/02/2026,5.50,"","","","","",""
+"","","","","","","",13FOU10444,6462,Electric/Gas,5.50,53-0014778449-5 - 10444 E. 14th Avenue-  to,955473296
+Denver Operating - CPB,Colorado Springs Utilities,3354891135,No,9658777120,02/02/2026,671.02,"","","","","",""
+"","","","","","","",12YUM629,6460,Utilities,671.02,- 629 Yuma Street,""
+Denver Operating - CPB,Colorado Springs Utilities,3355258510,No,9521378749,02/02/2026,204.21,"","","","","",""
+"","","","","","","",12MOR914,6460,Utilities,204.21,- 914-916 E. Moreno Avenue,""
+Denver Operating - CPB,Xcel Energy,122db,No,53-3411396-1 - 8113-8161 W. 94th Avenue (Boulevard Shops),02/02/2026,231.42,"","","","","",""
+"","","","","","","",11NIN8129,6462,Electric/Gas,231.42,53-3411396-1 - 8113-8161 W. 94th Avenue (Boulevard Shops)- 12/29/2025 to 11/30/2025,959950744
+
+Total,,,,,,"890,846.69",,,,,,

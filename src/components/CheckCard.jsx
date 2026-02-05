@@ -1,10 +1,10 @@
 import React from 'react';
-import { Mail, CreditCard, XCircle, Ban, DollarSign, HelpCircle, ChevronDown, ChevronUp } from 'lucide-react';
+import { Mail, CreditCard, XCircle, Ban, DollarSign, HelpCircle, Send, ChevronDown, ChevronUp } from 'lucide-react';
 import { STATUS_OPTIONS } from '../utils/constants'; // Standard relative path
 import styles from './CheckCard.module.css';
 
 const IconMap = {
-    Mail, CreditCard, XCircle, Ban, DollarSign, HelpCircle
+    Mail, CreditCard, XCircle, Ban, DollarSign, HelpCircle, Send
 };
 
 const CheckCard = ({ check, onStatusChange, expanded, onToggleExpand }) => {
@@ -16,6 +16,19 @@ const CheckCard = ({ check, onStatusChange, expanded, onToggleExpand }) => {
                 <div className={styles.mainInfo}>
                     <div className={styles.checkNumBadge}>#{check.checkNumber}</div>
                     <div className={styles.payee}>{check.payee}</div>
+                    {check.isPreviouslyReviewed && (
+                        <div style={{
+                            fontSize: '0.7rem',
+                            padding: '2px 8px',
+                            borderRadius: '4px',
+                            background: 'rgba(148, 163, 184, 0.2)',
+                            color: '#94A3B8',
+                            border: '1px solid rgba(148, 163, 184, 0.3)',
+                            fontWeight: 500
+                        }}>
+                            Previously Reviewed
+                        </div>
+                    )}
                     <div className={styles.statusBadge} style={{ borderColor: currentStatus.color, color: currentStatus.color }}>
                         {/* Render Icon */}
                         {(() => {

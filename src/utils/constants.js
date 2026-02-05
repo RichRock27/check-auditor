@@ -1,5 +1,6 @@
 export const STATUS_OPTIONS = [
     { id: 'mail', label: 'MAIL Physical Check', color: '#10B981', icon: 'Mail' }, // Green
+    { id: 'check_sent', label: 'Check Sent', color: '#06B6D4', icon: 'Send' }, // Cyan
     { id: 'pay_ach', label: 'NEEDS ACH Payment', color: '#38BDF8', icon: 'CreditCard' }, // Blue
     { id: 'void_paid', label: 'PAID via ACH', color: '#F59E0B', icon: 'XCircle' }, // Orange
     { id: 'duplicate', label: 'DUPLICATE - Void & Reverse', color: '#EF4444', icon: 'Ban' }, // Red
