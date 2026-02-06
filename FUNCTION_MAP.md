@@ -1,0 +1,1110 @@
+# Function Map - Check_Auditor
+
+Generated: 2026-02-06
+
+- `node_modules/zod/v4/locales/pt.js`: getSizing
+- `node_modules/zod/v4/locales/vi.js`: getSizing
+- `node_modules/zod/v4/locales/pl.js`: getSizing
+- `node_modules/zod/v4/locales/is.js`: getSizing
+- `node_modules/zod/v4/locales/sl.js`: getSizing
+- `node_modules/zod/v4/locales/ko.js`: getSizing
+- `node_modules/zod/v4/locales/ms.js`: getSizing
+- `node_modules/zod/v4/locales/fi.js`: getSizing
+- `node_modules/zod/v4/locales/th.js`: getSizing
+- `node_modules/zod/v4/locales/ru.js`: getRussianPlural, getSizing
+- `node_modules/zod/v4/locales/mk.js`: getSizing
+- `node_modules/zod/v4/locales/no.js`: getSizing
+- `node_modules/zod/v4/locales/yo.js`: getSizing
+- `node_modules/zod/v4/locales/ja.js`: getSizing
+- `node_modules/zod/v4/locales/ka.js`: getSizing
+- `node_modules/zod/v4/locales/bg.js`: getSizing
+- `node_modules/zod/v4/locales/hy.js`: getArmenianPlural, withDefiniteArticle, getSizing
+- `node_modules/zod/v4/locales/uz.js`: getSizing
+- `node_modules/zod/v4/locales/id.js`: getSizing
+- `node_modules/zod/v4/locales/az.js`: getSizing
+- `node_modules/zod/v4/locales/ca.js`: getSizing
+- `node_modules/zod/v4/locales/ta.js`: getSizing
+- `node_modules/zod/v4/locales/be.js`: getBelarusianPlural, getSizing
+- `node_modules/zod/v4/locales/zh-CN.js`: getSizing
+- `node_modules/zod/v4/locales/zh-TW.js`: getSizing
+- `node_modules/zod/v4/locales/ota.js`: getSizing
+- `node_modules/zod/v4/locales/da.js`: getSizing
+- `node_modules/zod/v4/locales/fa.js`: getSizing
+- `node_modules/zod/v4/locales/de.js`: getSizing
+- `node_modules/zod/v4/locales/en.js`: getSizing
+- `node_modules/zod/v4/locales/sv.js`: getSizing
+- `node_modules/zod/v4/locales/uk.js`: getSizing
+- `node_modules/zod/v4/locales/cs.js`: getSizing
+- `node_modules/zod/v4/locales/km.js`: getSizing
+- `node_modules/zod/v4/locales/fr.js`: getSizing
+- `node_modules/zod/v4/locales/nl.js`: getSizing
+- `node_modules/zod/v4/locales/fr-CA.js`: getSizing
+- `node_modules/zod/v4/locales/hu.js`: getSizing
+- `node_modules/zod/v4/locales/lt.js`: getUnitTypeFromNumber, getSizing
+- `node_modules/zod/v4/locales/ar.js`: getSizing
+- `node_modules/zod/v4/locales/it.js`: getSizing
+- `node_modules/zod/v4/locales/es.js`: getSizing
+- `node_modules/zod/v4/locales/eo.js`: getSizing
+- `node_modules/zod/v4/locales/ur.js`: getSizing
+- `node_modules/zod/v4/locales/ps.js`: getSizing
+- `node_modules/zod/v4/locales/tr.js`: getSizing
+- `node_modules/zod/v4/core/checks.js`: handleCheckPropertyResult
+- `node_modules/zod/v4/core/json-schema-processors.js`: toJSONSchema
+- `node_modules/zod/v4/core/util.js`: assertEqual, assertNotEqual, assertIs, assertNever, assert, getEnumValues, joinValues, jsonStringifyReplacer, cached, nullish, cleanRegex, floatSafeRemainder, defineLazy, objectClone, assignProp, mergeDefs, cloneDef, getElementAtPath, promiseAllObject, randomString ...
+- `node_modules/zod/v4/core/to-json-schema.js`: initializeContext, process, extractDefs, finalize, isTransforming
+- `node_modules/zod/v4/core/core.js`: init, _, config
+- `node_modules/zod/v4/core/errors.js`: flattenError, formatError, treeifyError, toDotPath, prettifyError
+- `node_modules/zod/v4/core/registries.js`: registry
+- `node_modules/zod/v4/core/schemas.js`: isValidBase64, isValidBase64URL, isValidJWT
+- `node_modules/zod/v4/core/api.js`: _string, _coercedString, _email, _guid, _uuid, _uuidv4, _uuidv6, _uuidv7, _url, _emoji, _nanoid, _cuid, _cuid2, _ulid, _xid, _ksuid, _ipv4, _ipv6, _mac, _cidrv4 ...
+- `node_modules/zod/v4/core/regexes.js`: emoji, timeSource, time, datetime, fixedBase64, fixedBase64url
+- `node_modules/zod/v4/mini/iso.js`: datetime, date, time, duration
+- `node_modules/zod/v4/mini/schemas.js`: string, email, guid, uuid, uuidv4, uuidv6, uuidv7, url, httpUrl, emoji, nanoid, cuid, cuid2, ulid, xid, ksuid, ipv4, ipv6, cidrv4, cidrv6 ...
+- `node_modules/zod/v4/mini/coerce.js`: string, number, boolean, bigint, date
+- `node_modules/zod/v4/classic/compat.js`: setErrorMap, getErrorMap
+- `node_modules/zod/v4/classic/iso.js`: datetime, date, time, duration
+- `node_modules/zod/v4/classic/from-json-schema.js`: detectVersion, resolveRef, convertBaseSchema, convertSchema
+- `node_modules/zod/v4/classic/schemas.js`: string, email, guid, uuid, uuidv4, uuidv6, uuidv7, url, httpUrl, emoji, nanoid, cuid, cuid2, ulid, xid, ksuid, ipv4, mac, ipv6, cidrv4 ...
+- `node_modules/zod/v4/classic/coerce.js`: string, number, boolean, bigint, date
+- `node_modules/zod/v3/types.js`: processCreateParams, timeRegexSource, timeRegex, datetimeRegex, isValidIP, isValidJWT
+- `node_modules/zod/v3/errors.js`: setErrorMap, getErrorMap
+- `node_modules/zod/v3/helpers/util.js`: assertIs, assertNever, joinValues
+- `node_modules/zod/v3/helpers/parseUtil.js`: addIssueToContext
+- `node_modules/reusify/test.js`: MyObject, MyObject
+- `node_modules/reusify/reusify.js`: reusify, get, release
+- `node_modules/reusify/benchmarks/reuseNoCodeFunction.js`: reuseNoCodeFunction, MyObject
+- `node_modules/reusify/benchmarks/fib.js`: fib
+- `node_modules/reusify/benchmarks/createNoCodeFunction.js`: createNoCodeFunction
+- `node_modules/browserslist/index.js`: isVersionsMatch, isEolReleased, normalize, normalizeElectron, nameMapper, mapName, getMajor, getMajorVersions, uniq, fillUsage, generateFilter, parseLatestFloat, generateSemverFilter, parseSimpleInt, compare, compareSemver, semverFilterLoose, compareSemverLoose, resolveVersion, normalizeVersion ...
+- `node_modules/browserslist/error.js`: BrowserslistError
+- `node_modules/browserslist/node.js`: checkExtend, getPathType, isFile, isDirectory, eachParent, pathInRoot, check, pickEnv, parsePackage, parsePackageOrReadConfig, latestReleaseTime, getMonthsPassed, normalizeStats, normalizeUsageData, loadQueries, loadStat, getStat, loadConfig, loadCountry, loadFeature ...
+- `node_modules/browserslist/parse.js`: flatten, find, matchQuery, matchBlock, parse
+- `node_modules/browserslist/cli.js`: isArg, error
+- `node_modules/browserslist/browser.js`: noop, loadQueries, getStat, loadConfig, loadCountry, loadFeature, currentNode
+- `node_modules/path-type/index.js`: isType, isTypeSync
+- `node_modules/@rolldown/pluginutils/dist/simple-filters.js`: exactRegex, prefixRegex, escapeRegex, makeIdFiltersToMatchWithQuery, makeIdFilterToMatchWithQuery, makeRegexIdFilterToMatchWithQuery
+- `node_modules/@rolldown/pluginutils/dist/composable-filters.js`: and, or, not, id, moduleType, code, query, include, exclude, queries, interpreter, interpreterImpl, exprInterpreter
+- `node_modules/@rolldown/pluginutils/dist/filter-vite-plugins.js`: filterVitePlugins
+- `node_modules/@rolldown/pluginutils/dist/utils.js`: cleanUrl, extractQueryWithoutFragment
+- `node_modules/pkg-dir/node_modules/locate-path/index.js`: checkType
+- `node_modules/flatted/esm.js`: y
+- `node_modules/flatted/index.js`: _typeof, noop, primitives, Primitives, revive, set, parse, stringify, replace, toJSON, fromJSON
+- `node_modules/flatted/min.js`: t, S
+- `node_modules/flatted/es.js`: g
+- `node_modules/flatted/python/flatted.py`: _array_keys, _object_keys, _is_array, _is_object, _is_string, _index, _loop, _ref, _relate, _transform, _wrap, parse, stringify
+- `node_modules/flatted/esm/index.js`: replace
+- `node_modules/flatted/cjs/index.js`: replace
+- `node_modules/ms/index.js`: parse, fmtShort, fmtLong, plural
+- `node_modules/imurmurhash/imurmurhash.js`: MurmurHash3
+- `node_modules/imurmurhash/imurmurhash.min.js`: t
+- `node_modules/eslint-scope/lib/assert.js`: assert
+- `node_modules/eslint-scope/lib/referencer.js`: traverseIdentifierInPattern, visitPatternCallback
+- `node_modules/eslint-scope/lib/index.js`: defaultOptions, updateDeeply, isHashObject, analyze
+- `node_modules/eslint-scope/lib/scope-manager.js`: predicate
+- `node_modules/eslint-scope/lib/scope.js`: isStrictScope, registerScope, shouldBeStatically, t, arguments
+- `node_modules/eslint-scope/lib/pattern-visitor.js`: getLast
+- `node_modules/commander/lib/argument.js`: humanReadableArgName
+- `node_modules/commander/lib/option.js`: camelcase, splitOptionFlags
+- `node_modules/commander/lib/help.js`: callFormatItem, stripColor
+- `node_modules/commander/lib/suggestSimilar.js`: editDistance, suggestSimilar
+- `node_modules/punycode/punycode.es6.js`: error, map, mapDomain, ucs2decode
+- `node_modules/punycode/punycode.js`: error, map, mapDomain, ucs2decode
+- `node_modules/papaparse/papaparse.min.js`: r, u, f, l, c, p, i, y, g, t, i, _, k, P, E, k, v, E, b, w ...
+- `node_modules/papaparse/papaparse.js`: moduleFactory, getWorkerBlob, parseNextFile, error, fileComplete, CsvToJson, stripBom, JsonToCsv, unpackConfig, serialize, safe, hasAny, ChunkStreamer, replaceConfig, NetworkStreamer, getFileSize, FileStreamer
+- `node_modules/papaparse/tests/test-cases.js`: generateTest
+- `node_modules/papaparse/tests/node-tests.js`: assertLongSampleParsedCorrectly
+- `node_modules/papaparse/player/player.js`: buildConfig, getLineEnding, stepFn, chunkFn, errorFn, completeFn
+- `node_modules/fast-json-stable-stringify/index.js`: stringify
+- `node_modules/balanced-match/index.js`: balanced, maybeMatch, range
+- `node_modules/@eslint/config-array/dist/esm/index.js`: assertIsArray, assertIsArrayOfStringsAndFunctions, assertIsNonEmptyArray, getConfigName, rethrowConfigError, isString, assertValidBaseConfig, doMatch, normalizePattern, needsPatternNormalization, normalizeConfigPatterns, normalize, normalizeSync, toRelativePath, shouldIgnorePath
+- `node_modules/@eslint/config-array/dist/esm/std__path/posix.js`: assertPath, stripSuffix, lastPathSegment, fromFileUrl, stripTrailingSeparators, isPosixPathSeparator, basename, dirname, extname, _format, format, isAbsolute, assertArg, normalizeString, normalize, join, parse
+- `node_modules/@eslint/config-array/dist/esm/std__path/windows.js`: assertPath, stripSuffix, lastPathSegment, stripTrailingSeparators, isPosixPathSeparator, isPathSeparator, isWindowsDeviceRoot, fromFileUrl, basename, dirname, extname, _format, format, isAbsolute, assertArg, normalizeString, normalize
+- `node_modules/@eslint/config-helpers/dist/esm/index.js`: getConfigName, getExtensionName, isLegacyConfig, isGlobalIgnores, getPluginMember, normalizePluginConfig, deepNormalizePluginConfig, findPluginConfig, extendConfigFiles, extendConfig, processExtends, processConfigList, defineConfig, globalIgnores
+- `node_modules/@eslint/object-schema/dist/esm/index.js`: validateDefinition
+- `node_modules/@eslint/plugin-kit/dist/esm/index.js`: isSeverityValid, isEverySeverityValid, hasESTreeStyleLoc, hasPosStyleLoc, hasESTreeStyleRange, hasPosStyleRange, findLineNumberBinarySearch
+- `node_modules/@eslint/eslintrc/lib/flat-compat.js`: translateESLintRC
+- `node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js`: createBaseConfigArray, createCLIConfigArray
+- `node_modules/@eslint/eslintrc/lib/config-array-factory.js`: isFilePath, readFile, loadYAMLConfigFile, loadJSONConfigFile, loadLegacyConfigFile, loadJSConfigFile, loadPackageJSONConfigFile, loadESLintIgnoreFile, configInvalidError, loadConfigFile, writeDebugLogForLoading, createContext, normalizePlugin
+- `node_modules/@eslint/eslintrc/lib/config-array/extracted-config.js`: startsWith
+- `node_modules/@eslint/eslintrc/lib/config-array/override-tester.js`: normalizePatterns, toMatcher, patternToJson
+- `node_modules/@eslint/eslintrc/lib/config-array/config-array.js`: getMatchedIndices, isNonNullObject, mergeWithoutOverwrite, mergePlugins, mergeRuleConfigs, createConfig, collect, deleteMutationMethods, initPluginMemberMaps, ensurePluginMemberMaps, getUsedExtractedConfigs
+- `node_modules/@eslint/eslintrc/lib/config-array/ignore-pattern.js`: getCommonAncestorPath, relative, dirSuffix
+- `node_modules/@eslint/eslintrc/lib/shared/naming.js`: normalizePackageName, getShorthandName, getNamespaceFromTerm
+- `node_modules/@eslint/eslintrc/lib/shared/deep-merge-arrays.js`: isObjectNotArray, deepMergeObjects, deepMergeArrays
+- `node_modules/@eslint/eslintrc/lib/shared/relative-module-resolver.js`: resolve
+- `node_modules/@eslint/eslintrc/lib/shared/deprecation-warnings.js`: emitDeprecationWarning
+- `node_modules/@eslint/eslintrc/lib/shared/config-ops.js`: getRuleSeverity, normalizeToStrings, isErrorSeverity, isValidSeverity, isEverySeverityValid, normalizeConfigGlobal
+- `node_modules/@eslint/eslintrc/conf/environments.js`: getDiff
+- `node_modules/acorn/dist/bin.js`: _interopNamespaceDefault, help, run
+- `node_modules/file-entry-cache/cache.js`: removeNotFoundFiles, remover
+- `node_modules/@nodelib/fs.walk/out/index.js`: walk, walkSync, walkStream, getSettings
+- `node_modules/@nodelib/fs.walk/out/providers/async.js`: callFailureCallback, callSuccessCallback
+- `node_modules/@nodelib/fs.walk/out/readers/common.js`: isFatalError, isAppliedFilter, replacePathSegmentSeparator, joinPathSegments
+- `node_modules/@nodelib/fs.stat/out/index.js`: stat, statSync, getSettings
+- `node_modules/@nodelib/fs.stat/out/providers/sync.js`: read
+- `node_modules/@nodelib/fs.stat/out/providers/async.js`: read, callFailureCallback, callSuccessCallback
+- `node_modules/@nodelib/fs.stat/out/adapters/fs.js`: createFileSystemAdapter
+- `node_modules/@nodelib/fs.scandir/out/index.js`: scandir, scandirSync, getSettings
+- `node_modules/@nodelib/fs.scandir/out/providers/sync.js`: read, readdirWithFileTypes, readdir
+- `node_modules/@nodelib/fs.scandir/out/providers/async.js`: read, readdirWithFileTypes, makeRplTaskEntry, readdir, callFailureCallback, callSuccessCallback
+- `node_modules/@nodelib/fs.scandir/out/providers/common.js`: joinPathSegments
+- `node_modules/@nodelib/fs.scandir/out/utils/fs.js`: createDirentFromStats
+- `node_modules/@nodelib/fs.scandir/out/adapters/fs.js`: createFileSystemAdapter
+- `node_modules/hermes-parser/dist/HermesParserDecodeUTF8String.js`: HermesParserDecodeUTF8String
+- `node_modules/hermes-parser/dist/HermesToESTreeAdapter.js`: _interopRequireDefault
+- `node_modules/hermes-parser/dist/index.js`: _interopRequireDefault, _getRequireWildcardCache, _interopRequireWildcard, getOptions, parse
+- `node_modules/hermes-parser/dist/getModuleDocblock.js`: parseDocblockString, getModuleDocblock
+- `node_modules/hermes-parser/dist/HermesParserNodeDeserializers.js`: deserializeEmpty, deserializeMetadata, deserializeFunctionLikeFirst, deserializeProgram, deserializeFunctionExpression, deserializeArrowFunctionExpression, deserializeFunctionDeclaration, deserializeComponentDeclaration, deserializeHookDeclaration, deserializeFunctionLikeLast, deserializeStatementFirst, deserializeLoopStatementFirst, deserializeWhileStatement, deserializeDoWhileStatement, deserializeForInStatement, deserializeForOfStatement, deserializeForStatement, deserializeLoopStatementLast, deserializeDebuggerStatement, deserializeEmptyStatement ...
+- `node_modules/hermes-parser/dist/HermesParserDeserializer.js`: _interopRequireDefault
+- `node_modules/hermes-parser/dist/HermesParser.js`: _interopRequireDefault, initHermesParserWASM, copyToHeap, parse
+- `node_modules/hermes-parser/dist/utils/mutateESTreeASTForPrettier.js`: transformChainExpression, mutate
+- `node_modules/hermes-parser/dist/utils/createSyntaxError.js`: createSyntaxError
+- `node_modules/hermes-parser/dist/babel/TransformESTreeToBabel.js`: _interopRequireDefault, nodeWith, fixSourceLocation, mapNodeWithDirectives, mapProgram, mapTemplateElement, mapProperty, mapMethodDefinition, mapExportAllDeclaration, mapRestElement, mapImportExpression, mapPrivateIdentifier, mapPropertyDefinition, mapTypeofTypeAnnotation, mapDeclareVariable, mapJSXElement, mapChainExpressionInnerNode, mapChainExpression, mapLiteral, transformNode
+- `node_modules/hermes-parser/dist/traverse/getVisitorKeys.js`: _interopRequireDefault, isNode, getVisitorKeys
+- `node_modules/hermes-parser/dist/estree/StripComponentSyntax.js`: createDefaultPosition, mapDeclareComponent, getComponentParameterName, createPropsTypeAnnotation, mapComponentParameters, Foo, mapComponentParameterType, mapComponentParameterRestElementType, mapComponentParameter, createForwardRefWrapper, mapComponentDeclaration, mapDeclareHook, mapHookDeclaration, scanForFirstComponentReference, mapComponentDeclarationIntoList, mapStatementList
+- `node_modules/hermes-parser/dist/estree/StripFlowTypesForBabel.js`: createSimpleGenericTypeAnnotation, createAnyTypeAnnotation, mapDeclareEnum, mapDeclareNamespace, mapFunction, mapQualifiedTypeofIdentifier, transformProgram
+- `node_modules/hermes-parser/dist/estree/StripFlowTypes.js`: transformProgram
+- `node_modules/hermes-parser/dist/transform/astArrayMutationHelpers.js`: assertArrayBounds, arrayIsEqual, insertInArray, removeFromArray, replaceInArray
+- `node_modules/hermes-parser/dist/transform/astNodeMutationHelpers.js`: getParentKey, replaceNodeOnParent, removeNodeOnParent, setParentPointersInDirectChildren, updateAllParentPointers, nodeWith, shallowCloneNode, deepCloneNode
+- `node_modules/hermes-parser/dist/transform/SimpleTransform.js`: setParentPointer
+- `node_modules/gensync/index.js`: gensync, makeFunctionAPI, assertTypeof, makeError, newGenerator, wrapGenerator, buildOperation, evaluateSync, evaluateAsync, step, assertStart, assertSuspend, throwError, isIterable, setFunctionMetadata
+- `node_modules/gensync/test/index.test.js`: throwTestError, expectResult, readFileSync, readFile, readFileAsync, readFileSync, readFile, readFileAsync, readFileSync, readFile, readFileAsync
+- `node_modules/ignore/index.js`: makeArray, startingReplacer
+- `node_modules/ignore/legacy.js`: _typeof, _defineProperties, _createClass, _toPropertyKey, _toPrimitive, _classCallCheck, _slicedToArray, _nonIterableRest, _unsupportedIterableToArray, _arrayLikeToArray, _iterableToArrayLimit, _arrayWithHoles, makeArray, define, RETURN_FALSE, sanitizeRange, cleanRangeBackSlash, startingReplacer, makeRegex, isString ...
+- `node_modules/esrecurse/esrecurse.js`: isNode, isProperty, Visitor
+- `node_modules/argparse/argparse.js`: get_argv, get_terminal_size, hasattr, getattr, setattr, setdefault, delattr, range, splitlines, _string_lstrip, _string_split, _array_equal, _array_remove, _choices_to_array, _callable, _alias, _camelcase_alias, _to_legacy_name, _to_new_name, _parse_opts ...
+- `node_modules/argparse/lib/textwrap.js`: wrap, fill, dedent
+- `node_modules/argparse/lib/sub.js`: sub
+- `node_modules/picomatch/index.js`: picomatch
+- `node_modules/is-glob/index.js`: isGlob
+- `node_modules/flat-cache/src/del.js`: del
+- `node_modules/flat-cache/src/utils.js`: tryParse, readJSON, writeJSON
+- `node_modules/jsonfile/index.js`: _readFile, readFileSync, _writeFile, writeFileSync
+- `node_modules/jsonfile/utils.js`: stringify, stripBom
+- `node_modules/async/eachOfLimit.js`: _interopRequireDefault, eachOfLimit
+- `node_modules/async/timesSeries.js`: _interopRequireDefault, timesSeries
+- `node_modules/async/cargo.js`: _interopRequireDefault, cargo
+- `node_modules/async/eachOfSeries.js`: _interopRequireDefault, eachOfSeries
+- `node_modules/async/someLimit.js`: _interopRequireDefault, someLimit
+- `node_modules/async/asyncify.js`: _interopRequireDefault, asyncify, handlePromise, invokeCallback
+- `node_modules/async/flatMapLimit.js`: _interopRequireDefault, concatLimit
+- `node_modules/async/race.js`: _interopRequireDefault, race
+- `node_modules/async/allLimit.js`: _interopRequireDefault, everyLimit
+- `node_modules/async/forEachSeries.js`: _interopRequireDefault, eachSeries
+- `node_modules/async/rejectSeries.js`: _interopRequireDefault, rejectSeries
+- `node_modules/async/everySeries.js`: _interopRequireDefault, everySeries
+- `node_modules/async/unmemoize.js`: unmemoize
+- `node_modules/async/times.js`: _interopRequireDefault, times
+- `node_modules/async/priorityQueue.js`: createDataItems, _interopRequireDefault
+- `node_modules/async/mapLimit.js`: _interopRequireDefault, mapLimit
+- `node_modules/async/every.js`: _interopRequireDefault, fileExists, every
+- `node_modules/async/mapValues.js`: _interopRequireDefault, getFileSizeInBytes, mapValues
+- `node_modules/async/all.js`: _interopRequireDefault, fileExists, every
+- `node_modules/async/whilst.js`: _interopRequireDefault, test, iter, whilst, next, check
+- `node_modules/async/ensureAsync.js`: _interopRequireDefault, sometimesAsync, ensureAsync
+- `node_modules/async/timeout.js`: _interopRequireDefault, myFunction, timeout, timeoutCallback
+- `node_modules/async/doDuring.js`: _interopRequireDefault, doWhilst, next, check
+- `node_modules/async/series.js`: _interopRequireDefault, series
+- `node_modules/async/autoInject.js`: _interopRequireDefault, stripComments, parseParams, autoInject, newTask
+- `node_modules/async/allSeries.js`: _interopRequireDefault, everySeries
+- `node_modules/async/setImmediate.js`: _interopRequireDefault
+- `node_modules/async/memoize.js`: _interopRequireDefault, memoize
+- `node_modules/async/foldr.js`: _interopRequireDefault, reduceRight
+- `node_modules/async/mapValuesLimit.js`: _interopRequireDefault, mapValuesLimit
+- `node_modules/async/each.js`: _interopRequireDefault, eachLimit
+- `node_modules/async/queue.js`: _interopRequireDefault
+- `node_modules/async/reflectAll.js`: _interopRequireDefault, reflectAll
+- `node_modules/async/doWhilst.js`: _interopRequireDefault, doWhilst, next, check
+- `node_modules/async/compose.js`: _interopRequireDefault, add1, mul3, compose
+- `node_modules/async/concat.js`: _interopRequireDefault, concat
+- `node_modules/async/log.js`: _interopRequireDefault
+- `node_modules/async/reduce.js`: _interopRequireDefault, getFileSizeInBytes, reduce
+- `node_modules/async/findLimit.js`: _interopRequireDefault, detectLimit
+- `node_modules/async/during.js`: _interopRequireDefault, test, iter, whilst, next, check
+- `node_modules/async/mapSeries.js`: _interopRequireDefault, mapSeries
+- `node_modules/async/index.js`: _interopRequireDefault
+- `node_modules/async/tryEach.js`: _interopRequireDefault, getDataFromFirstWebsite, getDataFromSecondWebsite, tryEach
+- `node_modules/async/dir.js`: _interopRequireDefault
+- `node_modules/async/wrapSync.js`: _interopRequireDefault, asyncify, handlePromise, invokeCallback
+- `node_modules/async/some.js`: _interopRequireDefault, fileExists, some
+- `node_modules/async/forEachOf.js`: _interopRequireDefault, eachOfArrayLike, iteratorCallback, eachOfGeneric, parseFile, eachOf
+- `node_modules/async/rejectLimit.js`: _interopRequireDefault, rejectLimit
+- `node_modules/async/reject.js`: _interopRequireDefault, fileExists, reject
+- `node_modules/async/mapValuesSeries.js`: _interopRequireDefault, mapValuesSeries
+- `node_modules/async/detectSeries.js`: _interopRequireDefault, detectSeries
+- `node_modules/async/eachOf.js`: _interopRequireDefault, eachOfArrayLike, iteratorCallback, eachOfGeneric, parseFile, eachOf
+- `node_modules/async/any.js`: _interopRequireDefault, fileExists, some
+- `node_modules/async/parallel.js`: _interopRequireDefault, parallel
+- `node_modules/async/someSeries.js`: _interopRequireDefault, someSeries
+- `node_modules/async/sortBy.js`: _interopRequireDefault, getFileSizeInBytes, sortBy, comparator
+- `node_modules/async/selectLimit.js`: _interopRequireDefault, filterLimit
+- `node_modules/async/select.js`: _interopRequireDefault, fileExists, filter
+- `node_modules/async/forEachLimit.js`: _interopRequireDefault, eachLimit
+- `node_modules/async/flatMap.js`: _interopRequireDefault, concat
+- `node_modules/async/foldl.js`: _interopRequireDefault, getFileSizeInBytes, reduce
+- `node_modules/async/anyLimit.js`: _interopRequireDefault, someLimit
+- `node_modules/async/auto.js`: _interopRequireDefault, auto, enqueueTask, processQueue, addListener, taskComplete, runTask, checkForDeadlocks, getDependents
+- `node_modules/async/filterLimit.js`: _interopRequireDefault, filterLimit
+- `node_modules/async/everyLimit.js`: _interopRequireDefault, everyLimit
+- `node_modules/async/seq.js`: _interopRequireDefault, seq
+- `node_modules/async/concatSeries.js`: _interopRequireDefault, concatSeries
+- `node_modules/async/reflect.js`: _interopRequireDefault, reflect, reflectOn
+- `node_modules/async/parallelLimit.js`: _interopRequireDefault, parallelLimit
+- `node_modules/async/forEachOfSeries.js`: _interopRequireDefault, eachOfSeries
+- `node_modules/async/selectSeries.js`: _interopRequireDefault, filterSeries
+- `node_modules/async/groupBy.js`: _interopRequireDefault, detectFile, groupBy
+- `node_modules/async/concatLimit.js`: _interopRequireDefault, concatLimit
+- `node_modules/async/reduceRight.js`: _interopRequireDefault, reduceRight
+- `node_modules/async/detect.js`: _interopRequireDefault, fileExists, detect
+- `node_modules/async/retryable.js`: _interopRequireDefault, retryable, taskFn
+- `node_modules/async/applyEachSeries.js`: _interopRequireDefault
+- `node_modules/async/eachSeries.js`: _interopRequireDefault, eachSeries
+- `node_modules/async/inject.js`: _interopRequireDefault, getFileSizeInBytes, reduce
+- `node_modules/async/timesLimit.js`: _interopRequireDefault, timesLimit
+- `node_modules/async/detectLimit.js`: _interopRequireDefault, detectLimit
+- `node_modules/async/forEachOfLimit.js`: _interopRequireDefault, eachOfLimit
+- `node_modules/async/waterfall.js`: _interopRequireDefault, myFirstFunction, mySecondFunction, myLastFunction, waterfall, nextTask, next
+- `node_modules/async/groupBySeries.js`: _interopRequireDefault, groupBySeries
+- `node_modules/async/retry.js`: _interopRequireDefault, constant, retry, retryAttempt, parseTimes
+- `node_modules/async/forEach.js`: _interopRequireDefault, eachLimit
+- `node_modules/async/groupByLimit.js`: _interopRequireDefault, groupByLimit
+- `node_modules/async/map.js`: _interopRequireDefault, getFileSizeInBytes, map
+- `node_modules/async/until.js`: _interopRequireDefault, test, iter, done, until
+- `node_modules/async/eachLimit.js`: _interopRequireDefault, eachLimit
+- `node_modules/async/filter.js`: _interopRequireDefault, fileExists, filter
+- `node_modules/async/flatMapSeries.js`: _interopRequireDefault, concatSeries
+- `node_modules/async/find.js`: _interopRequireDefault, fileExists, detect
+- `node_modules/async/anySeries.js`: _interopRequireDefault, someSeries
+- `node_modules/async/forever.js`: _interopRequireDefault, forever, next
+- `node_modules/async/applyEach.js`: _interopRequireDefault
+- `node_modules/async/filterSeries.js`: _interopRequireDefault, filterSeries
+- `node_modules/async/doUntil.js`: _interopRequireDefault, doUntil
+- `node_modules/async/cargoQueue.js`: _interopRequireDefault, cargo
+- `node_modules/async/transform.js`: _interopRequireDefault, formatBytes, transformFileSize, formatBytes, transformFileSize, transform
+- `node_modules/async/findSeries.js`: _interopRequireDefault, detectSeries
+- `node_modules/async/dist/async.min.js`: t, n, a, i, r, s, l, d, u, p, c, o, n, h, a, f, y, m, t, g ...
+- `node_modules/async/internal/eachOfLimit.js`: _interopRequireDefault, iterateeCallback, replenish
+- `node_modules/async/internal/range.js`: range
+- `node_modules/async/internal/promiseCallback.js`: promiseCallback, callback
+- `node_modules/async/internal/awaitify.js`: awaitify, awaitable
+- `node_modules/async/internal/onlyOnce.js`: onlyOnce
+- `node_modules/async/internal/createTester.js`: _interopRequireDefault, _createTester
+- `node_modules/async/internal/setImmediate.js`: fallback, wrap
+- `node_modules/async/internal/queue.js`: _interopRequireDefault, queue, on, once, off, trigger, _insert, promiseCallback, _createCB, _maybeDrain
+- `node_modules/async/internal/consoleFunc.js`: _interopRequireDefault, consoleFunc
+- `node_modules/async/internal/Heap.js`: leftChi, parent, smaller
+- `node_modules/async/internal/reject.js`: _interopRequireDefault, reject
+- `node_modules/async/internal/parallel.js`: _interopRequireDefault
+- `node_modules/async/internal/wrapAsync.js`: _interopRequireDefault, isAsync, isAsyncGenerator, isAsyncIterable, wrapAsync
+- `node_modules/async/internal/DoublyLinkedList.js`: setInitial
+- `node_modules/async/internal/iterator.js`: _interopRequireDefault, createArrayIterator, next, createES2015Iterator, next, createObjectIterator, next, createIterator
+- `node_modules/async/internal/once.js`: once, wrapper
+- `node_modules/async/internal/isArrayLike.js`: isArrayLike
+- `node_modules/async/internal/map.js`: _interopRequireDefault, _asyncMap
+- `node_modules/async/internal/filter.js`: _interopRequireDefault, filterArray, filterGeneric, _filter
+- `node_modules/async/internal/applyEach.js`: applyEach, _interopRequireDefault
+- `node_modules/async/internal/withoutIndex.js`: _withoutIndex
+- `node_modules/async/internal/asyncEachOfLimit.js`: _interopRequireDefault, asyncEachOfLimit, replenish, iterateeCallback, handleError
+- `node_modules/postcss/lib/postcss.js`: postcss, plugin, creator
+- `node_modules/postcss/lib/stringifier.js`: capitalize
+- `node_modules/postcss/lib/stringify.js`: stringify
+- `node_modules/postcss/lib/previous-map.js`: fromBase64
+- `node_modules/postcss/lib/fromJSON.js`: fromJSON
+- `node_modules/postcss/lib/warn-once.js`: warnOnce
+- `node_modules/postcss/lib/lazy-result.js`: isPromise, getEvents, toStack, cleanMarks
+- `node_modules/postcss/lib/node.js`: cloneNode, sourceOffset
+- `node_modules/postcss/lib/parse.js`: parse
+- `node_modules/postcss/lib/tokenize.js`: tokenizer, position, unclosed, endOfFile, nextToken, back
+- `node_modules/postcss/lib/terminal-highlight.js`: registerInput, getTokenType, terminalHighlight
+- `node_modules/postcss/lib/container.js`: cleanSource, markTreeDirty
+- `node_modules/postcss/lib/parser.js`: findLastWithPosition
+- `node_modules/postcss/lib/input.js`: getLineToIndex
+- `node_modules/email-addresses/test/email-addresses.js`: check, check
+- `node_modules/email-addresses/test/is_email.js`: isEmailTest, shouldParse, convertAddress, getChildValue, getAttr, getNodes, startsWith
+- `node_modules/email-addresses/lib/email-addresses.js`: parse5322, inStr, curTok, getPos, setPos, nextTok, initialize, o, wrap, add, compareToken, noop, literal, literalFunc, and, andFunc, or, orFunc, opt, optFunc ...
+- `node_modules/email-addresses/lib/email-addresses.min.js`: parse5322, inStr, curTok, getPos, setPos, nextTok, initialize, o, wrap, add, compareToken, noop, literal, literalFunc, and, andFunc, or, orFunc, opt, optFunc ...
+- `node_modules/lucide-react/dist/esm/DynamicIcon.js`: getIconNode
+- `node_modules/js-yaml/index.js`: renamed
+- `node_modules/js-yaml/bin/js-yaml.js`: readFile
+- `node_modules/js-yaml/dist/js-yaml.min.js`: t, i, r, a, l, f, d, i, w, k, C, J, Q, z, X, ee, te, ne, ie, re ...
+- `node_modules/js-yaml/dist/js-yaml.js`: isNothing, isObject, toArray, extend, repeat, isNegativeZero, formatError, toString, getLine, padStart, makeSnippet, compileStyleAliases, compileList, compileMap, collectType, extend, resolveYamlNull, constructYamlNull, isNull, resolveYamlBoolean ...
+- `node_modules/js-yaml/lib/dumper.js`: compileStyleMap, encodeHex, State, indentString, generateNextLine, testImplicitResolving, isWhitespace, isPrintable, isNsCharOrWhitespace, isPlainSafe, isPlainSafeFirst, isPlainSafeLast, codePointAt, needIndentIndicator, chooseScalarStyle, writeScalar, testAmbiguity, blockHeader, dropEndingNewline, foldString ...
+- `node_modules/js-yaml/lib/snippet.js`: getLine, padStart, makeSnippet
+- `node_modules/js-yaml/lib/type.js`: compileStyleAliases, Type
+- `node_modules/js-yaml/lib/exception.js`: formatError, YAMLException, toString
+- `node_modules/js-yaml/lib/schema.js`: compileList, compileMap, collectType, Schema, extend
+- `node_modules/js-yaml/lib/common.js`: isNothing, isObject, toArray, extend, repeat, isNegativeZero
+- `node_modules/js-yaml/lib/loader.js`: _class, is_EOL, is_WHITE_SPACE, is_WS_OR_EOL, is_FLOW_INDICATOR, fromHexCode, escapedHexLen, fromDecimalCode, simpleEscapeSequence, charFromCodepoint, setProperty, State, generateError, throwError, throwWarning, handleYamlDirective, handleTagDirective, captureSegment, mergeMappings, storeMappingPair ...
+- `node_modules/js-yaml/lib/type/pairs.js`: resolveYamlPairs, constructYamlPairs
+- `node_modules/js-yaml/lib/type/bool.js`: resolveYamlBoolean, constructYamlBoolean, isBoolean
+- `node_modules/js-yaml/lib/type/null.js`: resolveYamlNull, constructYamlNull, isNull
+- `node_modules/js-yaml/lib/type/float.js`: resolveYamlFloat, constructYamlFloat, representYamlFloat, isFloat
+- `node_modules/js-yaml/lib/type/merge.js`: resolveYamlMerge
+- `node_modules/js-yaml/lib/type/binary.js`: resolveYamlBinary, constructYamlBinary, representYamlBinary, isBinary
+- `node_modules/js-yaml/lib/type/omap.js`: resolveYamlOmap, constructYamlOmap
+- `node_modules/js-yaml/lib/type/set.js`: resolveYamlSet, constructYamlSet
+- `node_modules/js-yaml/lib/type/timestamp.js`: resolveYamlTimestamp, constructYamlTimestamp, representYamlTimestamp
+- `node_modules/js-yaml/lib/type/int.js`: isHexCode, isOctCode, isDecCode, resolveYamlInteger, constructYamlInteger, isInteger
+- `node_modules/eslint-visitor-keys/lib/index.js`: filterKey, getKeys, unionWith
+- `node_modules/scheduler/cjs/scheduler.development.js`: performWorkUntilDeadline, push, peek, pop, compare, advanceTimers, handleTimeout, shouldYieldToHost, requestHostTimeout
+- `node_modules/scheduler/cjs/scheduler-unstable_post_task.production.js`: runTask, handleAbortError
+- `node_modules/scheduler/cjs/scheduler.native.development.js`: performWorkUntilDeadline, push, peek, pop, compare, advanceTimers, handleTimeout, shouldYieldToHost, requestPaint, requestHostTimeout, throwNotImplemented
+- `node_modules/scheduler/cjs/scheduler.native.production.js`: push, peek, pop, compare, advanceTimers, handleTimeout, shouldYieldToHost, requestPaint, performWorkUntilDeadline, requestHostTimeout, throwNotImplemented
+- `node_modules/scheduler/cjs/scheduler-unstable_post_task.development.js`: runTask, handleAbortError
+- `node_modules/scheduler/cjs/scheduler-unstable_mock.development.js`: push, peek, pop, compare, advanceTimers, handleTimeout, flushWork, shouldYieldToHost, unstable_flushAllWithoutAsserting
+- `node_modules/scheduler/cjs/scheduler.production.js`: push, peek, pop, compare, advanceTimers, handleTimeout, shouldYieldToHost, performWorkUntilDeadline, requestHostTimeout
+- `node_modules/scheduler/cjs/scheduler-unstable_mock.production.js`: push, peek, pop, compare, advanceTimers, handleTimeout, flushWork, shouldYieldToHost, unstable_flushAllWithoutAsserting
+- `node_modules/gh-pages/bin/gh-pages-clean.js`: main
+- `node_modules/gh-pages/bin/gh-pages.js`: publish, main
+- `node_modules/gh-pages/lib/util.js`: uniqueDirs, byShortPath, dirsToCreate, copyFile, done, makeDir
+- `node_modules/gh-pages/lib/git.js`: Object, ProcessError, spawn, Object, Git, clone
+- `node_modules/gh-pages/lib/index.js`: getCacheDir, clean, getRepo, publish, done
+- `node_modules/@humanwhocodes/retry/dist/retrier.js`: debug, isTimeToRetry, isTimeToBail, createPromise
+- `node_modules/@humanwhocodes/retry/dist/retrier.min.js`: e
+- `node_modules/run-parallel/index.js`: runParallel, done, end, each
+- `node_modules/json-schema-traverse/index.js`: _traverse, escapeJsonPtr
+- `node_modules/json-schema-traverse/spec/index.spec.js`: callback, pre, post
+- `node_modules/json-schema-traverse/spec/fixtures/schema.js`: subschema, expectedCalls, expectedCallsChild
+- `node_modules/natural-compare/index.js`: getCode
+- `node_modules/react-refresh/cjs/react-refresh-babel.production.js`: createRegistration, isComponentishName, findInnerComponents, getHookCallsSignature, hasForceResetComment, createArgumentsForSignature, findHOCCallPathsAbove
+- `node_modules/react-refresh/cjs/react-refresh-runtime.development.js`: computeFullKey, resolveFamily, cloneMap, cloneSet, getProperty, register, setSignature, collectCustomHooksForSignature
+- `node_modules/react-refresh/cjs/react-refresh-babel.development.js`: createRegistration, isComponentishName, findInnerComponents, getHookCallsSignature, hasForceResetComment, createArgumentsForSignature, findHOCCallPathsAbove
+- `node_modules/esutils/lib/keyword.js`: isStrictModeReservedWordES6, isKeywordES5, isKeywordES6, isReservedWordES5, isReservedWordES6, isRestrictedWord, isIdentifierNameES5, decodeUtf16, isIdentifierNameES6, isIdentifierES5, isIdentifierES6
+- `node_modules/esutils/lib/ast.js`: isExpression, isIterationStatement, isStatement, isSourceElement, trailingStatement, isProblematicIfStatement
+- `node_modules/chalk/source/index.js`: Chalk
+- `node_modules/chalk/source/templates.js`: unescape, parseArguments, parseStyle, buildStyle
+- `node_modules/@vitejs/plugin-react/dist/refresh-runtime.js`: computeFullKey, haveEqualSignatures, isReactClass, canPreserveStateBetween, resolveFamily, getProperty, performReactRefresh, register, setSignature, collectCustomHooksForSignature, injectIntoGlobalHook, Hello, createSignatureFunctionForTransform, isLikelyComponentType, isCompoundComponent, isPlainObject, registerExportsForReactRefresh, debounce, validateRefreshBoundaryAndEnqueueUpdate
+- `node_modules/@vitejs/plugin-react/dist/index.js`: addRefreshWrapper, virtualPreamblePlugin, loadBabel, viteReact, viteReactForCjs, canSkipBabel, loadPlugin, createBabelOptions, defined, getReactCompilerPlugin, getReactCompilerRuntimeModule
+- `node_modules/supports-color/index.js`: translateLevel, supportsColor, getSupportLevel
+- `node_modules/fs-extra/lib/move/move-sync.js`: moveSync, isParentRoot, doRename, rename, moveAcrossDevice
+- `node_modules/fs-extra/lib/move/move.js`: move, doRename, moveAcrossDevice
+- `node_modules/fs-extra/lib/ensure/link.js`: createLink, createLinkSync
+- `node_modules/fs-extra/lib/ensure/symlink.js`: createSymlink, createSymlinkSync
+- `node_modules/fs-extra/lib/ensure/file.js`: createFile, createFileSync
+- `node_modules/fs-extra/lib/ensure/symlink-paths.js`: symlinkPaths, symlinkPathsSync
+- `node_modules/fs-extra/lib/ensure/symlink-type.js`: symlinkType, symlinkTypeSync
+- `node_modules/fs-extra/lib/remove/index.js`: remove, removeSync
+- `node_modules/fs-extra/lib/empty/index.js`: emptyDir, emptyDirSync
+- `node_modules/fs-extra/lib/path-exists/index.js`: pathExists
+- `node_modules/fs-extra/lib/util/async.js`: asyncIteratorConcurrentProcess
+- `node_modules/fs-extra/lib/util/utimes.js`: utimesMillis, utimesMillisSync
+- `node_modules/fs-extra/lib/util/stat.js`: getStats, getStatsSync, checkPaths, checkPathsSync, checkParentPaths, checkParentPathsSync, areIdentical, isSrcSubdir, errMsg
+- `node_modules/fs-extra/lib/mkdirs/utils.js`: checkPath
+- `node_modules/fs-extra/lib/json/output-json.js`: outputJson
+- `node_modules/fs-extra/lib/json/output-json-sync.js`: outputJsonSync
+- `node_modules/fs-extra/lib/copy/copy.js`: copy, runFilter, getStatsAndPerformCopy, onFile, copyFile, fileIsNotWritable, makeFileWritable, onDir, if, onLink
+- `node_modules/fs-extra/lib/copy/copy-sync.js`: copySync, getStats, onFile, mayCopyFile, copyFile, handleTimestamps, fileIsNotWritable, makeFileWritable, setDestMode, setDestTimestamps, onDir, mkDirAndCopy, copyDir, copyDirItem, onLink, copyLink
+- `node_modules/fs-extra/lib/output-file/index.js`: outputFile, outputFileSync
+- `node_modules/color-convert/route.js`: buildGraph, deriveBFS, link, wrapConversion
+- `node_modules/color-convert/conversions.js`: comparativeDistance
+- `node_modules/color-convert/index.js`: wrapRaw, wrapRounded
+- `node_modules/brace-expansion/index.js`: numeric, escapeBraces, unescapeBraces, parseCommaParts, expandTop, identity, embrace, isPadded, lte, gte, expand
+- `node_modules/json-stable-stringify-without-jsonify/index.js`: stringify
+- `node_modules/react-dom/client.js`: checkDCE
+- `node_modules/react-dom/index.js`: checkDCE
+- `node_modules/react-dom/profiling.js`: checkDCE
+- `node_modules/react-dom/cjs/react-dom.production.js`: formatProdErrorMessage, noop, getCrossOriginStringAs
+- `node_modules/react-dom/cjs/react-dom.react-server.production.js`: noop, getCrossOriginStringAs
+- `node_modules/react-dom/cjs/react-dom.development.js`: noop, testStringCoercion, getCrossOriginStringAs, getValueDescriptorExpectingObjectForWarning, getValueDescriptorExpectingEnumForWarning, resolveDispatcher
+- `node_modules/react-dom/cjs/react-dom.react-server.development.js`: noop, getCrossOriginStringAs, getValueDescriptorExpectingObjectForWarning, getValueDescriptorExpectingEnumForWarning
+- `node_modules/word-wrap/index.js`: trimEnd, trimTabAndSpaces, identity
+- `node_modules/json-buffer/index.js`: stringify
+- `node_modules/json-buffer/test/index.js`: clone
+- `node_modules/semver/semver.js`: tok, makeSafeRe, parse, valid, clean, SemVer, inc, diff, compareIdentifiers, rcompareIdentifiers, major, minor, patch, compare, compareLoose, compareBuild
+- `node_modules/semver/bin/semver.js`: main, failInc, fail, success, help
+- `node_modules/vite/bin/openChrome.js`: run, lookupTabWithUrl
+- `node_modules/vite/bin/vite.js`: start
+- `node_modules/vite/dist/node/module-runner.js`: unwrapId, slash, cleanUrl, isPrimitive, getAsyncFunctionDeclarationPaddingLineCount, promiseWithResolvers, normalizeWindowsPath, cwd, normalizeString, encodePathChars, posixPathToFileHref, toWindowsPath, decodeInteger, hasMoreVlq, decode, sort, sortComparator, binarySearch, upperBound, lowerBound ...
+- `node_modules/vite/dist/node/index.js`: createFetchableDevEnvironment, isFetchableDevEnvironment
+- `node_modules/vite/dist/node/cli.js`: toArr, toVal, mri2, checkNodeVersion, cleanGlobalCLIOptions, cleanBuilderCLIOptions
+- `node_modules/vite/dist/node/chunks/logger.js`: clearScreen, getTimeFormatter, createLogger, format, output, printServerUrls
+- `node_modules/vite/dist/node/chunks/postcss-import.js`: isValid, contents, parseCharset, parseImport, parseLayer, runPostcss, handleCharset, resolveImportId, loadImportContent, isProcessableURL, AtImport
+- `node_modules/vite/dist/node/chunks/lib.js`: stringifyNode, likeNumber, ValueParser
+- `node_modules/hermes-estree/dist/predicates.js`: isClass, isPropertyDefinitionWithNonComputedName, isClassMember, isClassMemberWithNonComputedName, isComment, isFunction, isMethodDefinitionWithNonComputedName, isMemberExpressionWithNonComputedProperty, isOptionalMemberExpressionWithNonComputedProperty, isObjectPropertyWithShorthand, isObjectPropertyWithNonComputedName, isBigIntLiteral, isBooleanLiteral, isNullLiteral, isNumericLiteral, isRegExpLiteral, isStringLiteral, isExpression, isStatement
+- `node_modules/hermes-estree/dist/generated/predicates.js`: isIdentifier, isJSXIdentifier, isJSXText, isAnyTypeAnnotation, isArrayExpression, isArrayPattern, isArrayTypeAnnotation, isArrowFunctionExpression, isAsConstExpression, isAsExpression
+- `node_modules/minimatch/minimatch.js`: charSet, filter, ext, minimatch, Minimatch, defaults, filter, defaults, makeRe, braceExpand, minimatch, Minimatch, make, debug, parseNegate, braceExpand, parse, clearStateChar, makeRe, match
+- `node_modules/estraverse/estraverse.js`: clone, deepCopy, upperBound, Reference, replace, remove, Element, Controller, path, addToPath, parents, current, __execute, notify, isNode, isProperty, candidateExistsInLeaveList, traverse, replace, removeElem
+- `node_modules/estraverse/gulpfile.js`: inc
+- `node_modules/ansi-styles/index.js`: assembleStyles
+- `node_modules/find-cache-dir/index.js`: useDirectory, getNodeModuleDirectory
+- `node_modules/zod-validation-error/v4/index.js`: isZodErrorLike, getIssuesFromErrorOptions, isValidationError, isValidationErrorLike, parseCustomIssue, parseInvalidElementIssue, parseInvalidKeyIssue, parseInvalidStringFormatIssue, isZodIssueStringStartsWith, parseStringStartsWith, isZodIssueStringEndsWith, parseStringEndsWith, isZodIssueStringIncludes, parseStringIncludes, isZodIssueStringInvalidRegex, parseStringInvalidRegex, isZodIssueStringInvalidJWT, parseStringInvalidJWT, parseInvalidTypeIssue, getTypeName ...
+- `node_modules/zod-validation-error/v3/index.js`: isZodErrorLike, getIssuesFromErrorOptions, isValidationError, isValidationErrorLike, isNonEmptyArray, stringifySymbol, joinPath, escapeQuotes, createMessageBuilder, getMessageFromZodIssue, prefixMessage, fromZodIssue, createMessageBuilderFromOptions, fromZodError, fromZodErrorWithoutRuntimeCheck, createMessageBuilderFromOptions2, fromError
+- `node_modules/acorn-jsx/index.js`: getJsxTokens, getQualifiedJSXName, get_tokTypes, plugin
+- `node_modules/@babel/plugin-transform-react-jsx-source/lib/index.js`: makeTrace
+- `node_modules/@babel/helper-string-parser/lib/index.js`: isDigit, readStringContents, isStringEnd, readEscapedChar, readHexChar, readInt, readCodePoint
+- `node_modules/@babel/helper-validator-option/lib/find-suggestion.js`: levenshtein, findSuggestion
+- `node_modules/@babel/types/lib/comments/inheritInnerComments.js`: inheritInnerComments
+- `node_modules/@babel/types/lib/comments/inheritTrailingComments.js`: inheritTrailingComments
+- `node_modules/@babel/types/lib/comments/inheritLeadingComments.js`: inheritLeadingComments
+- `node_modules/@babel/types/lib/comments/removeComments.js`: removeComments
+- `node_modules/@babel/types/lib/comments/inheritsComments.js`: inheritsComments
+- `node_modules/@babel/types/lib/comments/addComment.js`: addComment
+- `node_modules/@babel/types/lib/comments/addComments.js`: addComments
+- `node_modules/@babel/types/lib/retrievers/getAssignmentIdentifiers.js`: getAssignmentIdentifiers
+- `node_modules/@babel/types/lib/retrievers/getFunctionName.js`: getNameFromLiteralId, getObjectMemberKey, getFunctionName
+- `node_modules/@babel/types/lib/retrievers/getOuterBindingIdentifiers.js`: getOuterBindingIdentifiers
+- `node_modules/@babel/types/lib/retrievers/getBindingIdentifiers.js`: getBindingIdentifiers
+- `node_modules/@babel/types/lib/builders/validateNode.js`: validateNode
+- `node_modules/@babel/types/lib/builders/productions.js`: buildUndefinedNode
+- `node_modules/@babel/types/lib/builders/generated/lowercase.js`: bigIntLiteral, arrayExpression, assignmentExpression, binaryExpression, interpreterDirective, directive, directiveLiteral, blockStatement, breakStatement, callExpression, catchClause, conditionalExpression, continueStatement, debuggerStatement, doWhileStatement, emptyStatement, expressionStatement, file, forInStatement, forStatement ...
+- `node_modules/@babel/types/lib/builders/generated/uppercase.js`: alias
+- `node_modules/@babel/types/lib/builders/typescript/createTSUnionType.js`: createTSUnionType
+- `node_modules/@babel/types/lib/builders/react/buildChildren.js`: buildChildren
+- `node_modules/@babel/types/lib/builders/flow/createFlowUnionType.js`: createFlowUnionType
+- `node_modules/@babel/types/lib/builders/flow/createTypeAnnotationBasedOnTypeof.js`: createTypeAnnotationBasedOnTypeof
+- `node_modules/@babel/types/lib/converters/toKeyAlias.js`: toKeyAlias
+- `node_modules/@babel/types/lib/converters/valueToNode.js`: isRegExp, isPlainObject, valueToNode
+- `node_modules/@babel/types/lib/converters/ensureBlock.js`: ensureBlock
+- `node_modules/@babel/types/lib/converters/toStatement.js`: toStatement
+- `node_modules/@babel/types/lib/converters/toBlock.js`: toBlock
+- `node_modules/@babel/types/lib/converters/toExpression.js`: toExpression
+- `node_modules/@babel/types/lib/converters/toComputedKey.js`: toComputedKey
+- `node_modules/@babel/types/lib/converters/toIdentifier.js`: toIdentifier
+- `node_modules/@babel/types/lib/converters/gatherSequenceExpressions.js`: gatherSequenceExpressions
+- `node_modules/@babel/types/lib/converters/toBindingIdentifierName.js`: toBindingIdentifierName
+- `node_modules/@babel/types/lib/converters/toSequenceExpression.js`: toSequenceExpression
+- `node_modules/@babel/types/lib/utils/shallowEqual.js`: shallowEqual
+- `node_modules/@babel/types/lib/utils/deprecationWarning.js`: deprecationWarning, captureShortStackTrace
+- `node_modules/@babel/types/lib/utils/inherit.js`: inherit
+- `node_modules/@babel/types/lib/utils/react/cleanJSXElementLiteralChild.js`: cleanJSXElementLiteralChild
+- `node_modules/@babel/types/lib/modifications/prependToMemberExpression.js`: prependToMemberExpression
+- `node_modules/@babel/types/lib/modifications/removeProperties.js`: removeProperties
+- `node_modules/@babel/types/lib/modifications/appendToMemberExpression.js`: appendToMemberExpression
+- `node_modules/@babel/types/lib/modifications/inherits.js`: inherits
+- `node_modules/@babel/types/lib/modifications/removePropertiesDeep.js`: removePropertiesDeep
+- `node_modules/@babel/types/lib/modifications/typescript/removeTypeDuplicates.js`: getQualifiedName, removeTypeDuplicates
+- `node_modules/@babel/types/lib/modifications/flow/removeTypeDuplicates.js`: getQualifiedName, removeTypeDuplicates
+- `node_modules/@babel/types/lib/asserts/assertNode.js`: assertNode
+- `node_modules/@babel/types/lib/asserts/generated/index.js`: assert, assertArrayExpression, assertAssignmentExpression, assertBinaryExpression, assertInterpreterDirective, assertDirective, assertDirectiveLiteral, assertBlockStatement, assertBreakStatement, assertCallExpression, assertCatchClause, assertConditionalExpression, assertContinueStatement, assertDebuggerStatement, assertDoWhileStatement, assertEmptyStatement, assertExpressionStatement, assertFile, assertForInStatement, assertForStatement ...
+- `node_modules/@babel/types/lib/clone/cloneDeepWithoutLoc.js`: cloneDeepWithoutLoc
+- `node_modules/@babel/types/lib/clone/cloneWithoutLoc.js`: cloneWithoutLoc
+- `node_modules/@babel/types/lib/clone/clone.js`: clone
+- `node_modules/@babel/types/lib/clone/cloneDeep.js`: cloneDeep
+- `node_modules/@babel/types/lib/clone/cloneNode.js`: cloneIfNode, cloneIfNodeOrArray, cloneNode, cloneNodeInternal, maybeCloneComments
+- `node_modules/@babel/types/lib/traverse/traverseFast.js`: traverseFast
+- `node_modules/@babel/types/lib/traverse/traverse.js`: traverse, traverseSimpleImpl
+- `node_modules/@babel/types/lib/validators/isValidIdentifier.js`: isValidIdentifier
+- `node_modules/@babel/types/lib/validators/is.js`: is
+- `node_modules/@babel/types/lib/validators/isNodesEquivalent.js`: isNodesEquivalent
+- `node_modules/@babel/types/lib/validators/isLet.js`: isLet
+- `node_modules/@babel/types/lib/validators/buildMatchMemberExpression.js`: buildMatchMemberExpression
+- `node_modules/@babel/types/lib/validators/isVar.js`: isVar
+- `node_modules/@babel/types/lib/validators/isBinding.js`: isBinding
+- `node_modules/@babel/types/lib/validators/isReferenced.js`: isReferenced
+- `node_modules/@babel/types/lib/validators/isType.js`: isType
+- `node_modules/@babel/types/lib/validators/isBlockScoped.js`: isBlockScoped
+- `node_modules/@babel/types/lib/validators/matchesPattern.js`: isMemberExpressionLike, matchesPattern
+- `node_modules/@babel/types/lib/validators/isPlaceholderType.js`: isPlaceholderType
+- `node_modules/@babel/types/lib/validators/isValidES3Identifier.js`: isValidES3Identifier
+- `node_modules/@babel/types/lib/validators/isNode.js`: isNode
+- `node_modules/@babel/types/lib/validators/validate.js`: validate, validateInternal, validateField, validateChild
+- `node_modules/@babel/types/lib/validators/isImmutable.js`: isImmutable
+- `node_modules/@babel/types/lib/validators/isScope.js`: isScope
+- `node_modules/@babel/types/lib/validators/isSpecifierDefault.js`: isSpecifierDefault
+- `node_modules/@babel/types/lib/validators/generated/index.js`: isArrayExpression, isAssignmentExpression, isBinaryExpression, isInterpreterDirective, isDirective, isDirectiveLiteral, isBlockStatement, isBreakStatement, isCallExpression, isCatchClause, isConditionalExpression, isContinueStatement, isDebuggerStatement, isDoWhileStatement, isEmptyStatement, isExpressionStatement, isFile, isForInStatement, isForStatement, isFunctionDeclaration ...
+- `node_modules/@babel/types/lib/validators/react/isCompatTag.js`: isCompatTag
+- `node_modules/@babel/types/lib/definitions/typescript.js`: validator
+- `node_modules/@babel/types/lib/definitions/utils.js`: getType, validate, validateType, validateOptional, validateOptionalType, arrayOf, arrayOfType, validateArrayOfType, assertEach, validator, assertOneOf, validate, assertNodeType, validate, assertNodeOrValueType, validate, assertValueType, validate, assertShape, validate ...
+- `node_modules/@babel/helper-plugin-utils/lib/index.js`: declare, copyApiObject, throwVersionError
+- `node_modules/@babel/core/lib/index.js`: _types, _parser, _traverse, _template, Plugin
+- `node_modules/@babel/core/lib/parse.js`: _gensync, parse, parseSync, parseAsync
+- `node_modules/@babel/core/lib/transform-file-browser.js`: transformFile, transformFileSync, transformFileAsync
+- `node_modules/@babel/core/lib/transform-file.js`: _gensync, transformFile, transformFileSync, transformFileAsync
+- `node_modules/@babel/core/lib/transform.js`: _gensync, transform, transformSync, transformAsync
+- `node_modules/@babel/core/lib/transform-ast.js`: _gensync, transformFromAst, transformFromAstSync, transformFromAstAsync
+- `node_modules/@babel/core/lib/tools/build-external-helpers.js`: helpers, _generator, _template, _t, buildGlobal, buildModule, buildUmd, buildVar, buildHelpers, _default
+- `node_modules/@babel/core/lib/config/util.js`: mergeOptions, mergeDefaultFields, isIterableIterator
+- `node_modules/@babel/core/lib/config/index.js`: _gensync, loadPartialConfigAsync, loadPartialConfigSync, loadPartialConfig, loadOptionsAsync, loadOptionsSync, loadOptions, createConfigItemAsync, createConfigItemSync, createConfigItem
+- `node_modules/@babel/core/lib/config/resolve-targets.js`: _path, _helperCompilationTargets, resolveBrowserslistConfigFile, resolveTargets
+- `node_modules/@babel/core/lib/config/pattern-to-regex.js`: _path, escapeRegExp, pathToPattern
+- `node_modules/@babel/core/lib/config/partial.js`: _path, _objectWithoutPropertiesLoose, resolveRootMode
+- `node_modules/@babel/core/lib/config/config-descriptors.js`: _gensync, isEqualDescriptor, optionsWithResolvedBrowserslistConfigFile, createCachedDescriptors, createUncachedDescriptors, loadCachedDescriptor, assertNoDuplicates
+- `node_modules/@babel/core/lib/config/item.js`: _path, createItemFromDescriptor, getItemDescriptor
+- `node_modules/@babel/core/lib/config/printer.js`: _gensync, descriptorToConfig
+- `node_modules/@babel/core/lib/config/caching.js`: _gensync, makeWeakCache, makeWeakCacheSync, makeStrongCache, makeStrongCacheSync, makeCachedFunction, setupAsyncLocks, updateFunctionCache, makeSimpleConfigurator, cacheFn, assertSimpleType
+- `node_modules/@babel/core/lib/config/full.js`: _gensync, _traverse, enhanceError, chainMaybeAsync
+- `node_modules/@babel/core/lib/config/resolve-targets-browser.js`: _helperCompilationTargets, resolveBrowserslistConfigFile, resolveTargets
+- `node_modules/@babel/core/lib/config/config-chain.js`: _path, _debug, babelrcLoadEnabled, buildFileLogger, buildRootDescriptors, buildProgrammaticLogger, buildEnvDescriptors, buildOverrideDescriptors, buildOverrideEnvDescriptors, makeChainWalker, mergeChain, emptyChain, createConfigChainOptions, dedupDescriptors, configIsApplicable, configFieldIsApplicable, ignoreListReplacer, shouldIgnore, matchesPatterns, matchPattern
+- `node_modules/@babel/core/lib/config/files/plugins.js`: _debug, _path, _url, _fs, standardizeName, tryRequireResolve, tryImportMetaResolve, resolveStandardizedNameForRequire, resolveStandardizedNameForImport, resolveStandardizedName
+- `node_modules/@babel/core/lib/config/files/configuration.js`: _debug, _fs, _path, _json, _gensync, buildConfigFileObject, findConfigUpwards, findRootConfig, readConfig, throwConfigError
+- `node_modules/@babel/core/lib/config/files/package.js`: _path
+- `node_modules/@babel/core/lib/config/files/index-browser.js`: findConfigUpwards, resolvePlugin, resolvePreset, loadPlugin, loadPreset
+- `node_modules/@babel/core/lib/config/files/module-types.js`: _path, _url, _semver, _debug, asyncGeneratorStep, _asyncToGenerator, _next, _throw, loadCjsDefault, loadMjsFromPath, ensureTsSupport, getTSPreset
+- `node_modules/@babel/core/lib/config/files/utils.js`: _fs2, makeStaticFileCache, fileMtime
+- `node_modules/@babel/core/lib/config/helpers/config-api.js`: _semver, makeConfigAPI, makePresetAPI, makePluginAPI, assertVersion
+- `node_modules/@babel/core/lib/config/helpers/deep-array.js`: finalize, flattenToSet
+- `node_modules/@babel/core/lib/config/helpers/environment.js`: getEnv
+- `node_modules/@babel/core/lib/config/validation/option-assertions.js`: _helperCompilationTargets, msg, access, assertRootMode, assertSourceMaps, assertCompact, assertSourceType, assertCallerMetadata, assertInputSourceMap, assertString, assertFunction, assertBoolean, assertObject, assertArray, assertIgnoreList, assertIgnoreItem, assertConfigApplicableTest, checkValidTest, assertConfigFileSearch, assertBabelrcSearch ...
+- `node_modules/@babel/core/lib/config/validation/plugins.js`: assertVisitorMap, assertVisitorHandler, validatePluginObject
+- `node_modules/@babel/core/lib/config/validation/options.js`: getSource, validate, validateNested, throwUnknownError, assertNoDuplicateSourcemap, assertEnvSet, assertOverridesList, checkNoUnwrappedItemOptionPairs
+- `node_modules/@babel/core/lib/transformation/normalize-opts.js`: _path, normalizeOptions
+- `node_modules/@babel/core/lib/transformation/normalize-file.js`: _fs, _path, _debug, _t, _convertSourceMap, extractCommentsFromList, extractComments
+- `node_modules/@babel/core/lib/transformation/index.js`: _traverse
+- `node_modules/@babel/core/lib/transformation/block-hoist-plugin.js`: _traverse, performHoisting, loadBlockHoistPlugin, priority, stableSort
+- `node_modules/@babel/core/lib/transformation/plugin-pass.js`: getModuleName, addImport
+- `node_modules/@babel/core/lib/transformation/util/clone-deep.js`: deepClone, _default
+- `node_modules/@babel/core/lib/transformation/file/merge-map.js`: _remapping, mergeSourceMap, rootless
+- `node_modules/@babel/core/lib/transformation/file/generate.js`: _convertSourceMap, _generator, generateCode
+- `node_modules/@babel/core/lib/transformation/file/file.js`: helpers, _traverse, _codeFrame, _t, _semver, addImport, addTemplateObject, getModuleName
+- `node_modules/@babel/core/lib/parser/index.js`: _parser, _codeFrame
+- `node_modules/@babel/core/lib/parser/util/missing-plugin-helper.js`: generateMissingPluginMessage
+- `node_modules/@babel/core/lib/errors/rewrite-stack-trace.js`: CallSite, injectVirtualStackFrame, expectedError, beginHiddenCallStack, endHiddenCallStack, setupPrepareStackTrace, stackTraceRewriter, defaultPrepareStackTrace
+- `node_modules/@babel/core/lib/vendor/import-meta-resolve.js`: _assert, _fs, _process, _url, _path, _module, _v, _util, _interopRequireWildcard, formatList, createError, makeNodeErrorWithCode, NodeError, isErrorStackTraceLimitWritable, hideStackFrames, getMessage, determineSpecificType, read, getPackageScopeConfig, getPackageType ...
+- `node_modules/@babel/core/lib/gensync-utils/async.js`: _gensync, asyncGeneratorStep, _asyncToGenerator, _next, _throw, maybeAsync, async, forwardAsync, async, isThenable
+- `node_modules/@babel/core/lib/gensync-utils/functional.js`: once
+- `node_modules/@babel/core/lib/gensync-utils/fs.js`: _fs, _gensync
+- `node_modules/@babel/plugin-transform-react-jsx-self/lib/index.js`: getThisFunctionParent, isDerivedClass, isThisAllowed
+- `node_modules/@babel/template/lib/options.js`: _objectWithoutPropertiesLoose, merge, validate, normalizeReplacements
+- `node_modules/@babel/template/lib/literal.js`: literalTemplate, buildLiteralData, buildTemplateCode
+- `node_modules/@babel/template/lib/formatters.js`: makeStatementFormatter
+- `node_modules/@babel/template/lib/populate.js`: populatePlaceholders, applyReplacement, set
+- `node_modules/@babel/template/lib/string.js`: stringTemplate
+- `node_modules/@babel/template/lib/parse.js`: parseAndBuildMetadata, placeholderVisitorHandler, resolveAncestors, parseWithCodeFrame
+- `node_modules/@babel/template/lib/builder.js`: createTemplateBuilder, extendedTrace
+- `node_modules/@babel/helper-module-transforms/lib/lazy-modules.js`: toGetWrapperPayload, wrapReference
+- `node_modules/@babel/helper-module-transforms/lib/index.js`: rewriteModuleStatementsAndPrepareHeader, ensureStatementsHoisted, wrapInterop, buildNamespaceInitStatements, buildReexportsFromMeta, buildESModuleHeader, buildNamespaceReexport, buildExportNameListDeclaration, buildExportInitializationStatements, buildInitStatement
+- `node_modules/@babel/helper-module-transforms/lib/get-module-name.js`: getModuleName, getModuleName
+- `node_modules/@babel/helper-module-transforms/lib/rewrite-this.js`: rewriteThis
+- `node_modules/@babel/helper-module-transforms/lib/normalize-and-load-metadata.js`: hasExports, isSideEffectImport, validateImportInteropOption, resolveImportInterop, normalizeModuleAndLoadMetadata, getExportSpecifierName, assertExportSpecifier, getModuleMetadata, getLocalExportMetadata, nameAnonymousExports, removeImportExportDeclarations
+- `node_modules/@babel/helper-module-transforms/lib/dynamic-import.js`: getDynamicImportSource, buildDynamicImport
+- `node_modules/@babel/helper-module-transforms/lib/rewrite-live-references.js`: isInType, rewriteLiveReferences
+- `node_modules/@babel/generator/lib/index.js`: normalizeOptions, generate
+- `node_modules/@babel/generator/lib/printer.js`: commentIsNewline, isNonDecimalLiteral
+- `node_modules/@babel/generator/lib/generators/deprecated.js`: addDeprecatedGenerators
+- `node_modules/@babel/generator/lib/generators/expressions.js`: UnaryExpression, DoExpression, ParenthesizedExpression, UpdateExpression, ConditionalExpression, NewExpression, SequenceExpression, ThisExpression, Super, _shouldPrintDecoratorsBeforeExport, Decorator, OptionalMemberExpression, OptionalCallExpression, CallExpression, Import, AwaitExpression, YieldExpression, EmptyStatement, ExpressionStatement, AssignmentPattern ...
+- `node_modules/@babel/generator/lib/generators/jsx.js`: JSXAttribute, JSXIdentifier, JSXNamespacedName, JSXMemberExpression, JSXSpreadAttribute, JSXExpressionContainer, JSXSpreadChild, JSXText, JSXElement, spaceSeparator, JSXOpeningElement, JSXClosingElement, JSXEmptyExpression, JSXFragment, JSXOpeningFragment, JSXClosingFragment
+- `node_modules/@babel/generator/lib/generators/typescript.js`: TSTypeAnnotation, TSTypeParameterInstantiation, TSTypeParameter, TSParameterProperty, TSDeclareFunction, TSDeclareMethod, TSQualifiedName, TSCallSignatureDeclaration, maybePrintTrailingCommaOrSemicolon, TSConstructSignatureDeclaration, TSPropertySignature, tsPrintPropertyOrMethodName, TSMethodSignature, TSIndexSignature, TSAnyKeyword, TSBigIntKeyword, TSUnknownKeyword, TSNumberKeyword, TSObjectKeyword, TSBooleanKeyword ...
+- `node_modules/@babel/generator/lib/generators/types.js`: _getRawIdentifier, Identifier, ArgumentPlaceholder, RestElement, ObjectExpression, ObjectMethod, ObjectProperty, ArrayExpression, RegExpLiteral, BooleanLiteral, NullLiteral, NumericLiteral, StringLiteral, BigIntLiteral, TopicReference, PipelineTopicExpression, PipelineBareFunction, PipelinePrimaryTopicReference, VoidPattern
+- `node_modules/@babel/generator/lib/generators/flow.js`: AnyTypeAnnotation, ArrayTypeAnnotation, BooleanTypeAnnotation, BooleanLiteralTypeAnnotation, NullLiteralTypeAnnotation, DeclareClass, DeclareFunction, InferredPredicate, DeclaredPredicate, DeclareInterface, DeclareModule, DeclareModuleExports, DeclareTypeAlias, DeclareOpaqueType, DeclareVariable, DeclareExportDeclaration, DeclareExportAllDeclaration, EnumDeclaration, enumExplicitType, enumBody ...
+- `node_modules/@babel/generator/lib/generators/methods.js`: _params, _parameters, _param, _methodHead, _predicate, _functionHead, FunctionExpression, ArrowFunctionExpression, _shouldPrintArrowParamsParens, _getFuncIdName
+- `node_modules/@babel/generator/lib/generators/template-literals.js`: TaggedTemplateExpression, TemplateElement, _printTemplate, TemplateLiteral
+- `node_modules/@babel/generator/lib/generators/classes.js`: ClassDeclaration, ClassBody, classBodyEmptySemicolonsPrinter, ClassProperty, ClassAccessorProperty, ClassPrivateProperty, ClassMethod, ClassPrivateMethod, _classMethodHead, StaticBlock
+- `node_modules/@babel/generator/lib/generators/statements.js`: WithStatement, IfStatement, getLastStatement, ForStatement, WhileStatement, ForXStatement, DoWhileStatement, printStatementAfterKeyword, BreakStatement, ContinueStatement, ReturnStatement, ThrowStatement, LabeledStatement, TryStatement, CatchClause, SwitchStatement, SwitchCase, DebuggerStatement, VariableDeclaration, VariableDeclarator
+- `node_modules/@babel/generator/lib/generators/modules.js`: ImportSpecifier, ImportDefaultSpecifier, ExportDefaultSpecifier, ExportSpecifier, ExportNamespaceSpecifier, _printAttributes, ExportAllDeclaration, maybePrintDecoratorsBeforeExport, ExportNamedDeclaration, ExportDefaultDeclaration, ImportDeclaration, ImportAttribute, ImportNamespaceSpecifier, ImportExpression
+- `node_modules/@babel/generator/lib/generators/base.js`: File, Program, BlockStatement, Directive, DirectiveLiteral, InterpreterDirective, Placeholder
+- `node_modules/@babel/generator/lib/node/parentheses.js`: getBinaryPrecedence, isTSTypeExpression, NullableTypeAnnotation, FunctionTypeAnnotation, UpdateExpression, needsParenBeforeExpressionBrace, ObjectExpression, DoExpression, Binary, UnionTypeAnnotation, OptionalIndexedAccessType, TSAsExpression, TSConditionalType, TSUnionType, TSIntersectionType, TSInferType, TSTypeOperator, TSInstantiationExpression, TSFunctionType, BinaryExpression ...
+- `node_modules/@babel/generator/lib/node/index.js`: expandAliases, add, isOrHasCallExpression, needsWhitespace, needsWhitespaceBefore, needsWhitespaceAfter, needsParens, isDecoratorMemberExpression, isLastChild
+- `node_modules/@babel/generator/lib/node/whitespace.js`: crawlInternal, crawl, isHelper, isType
+- `node_modules/@babel/helper-validator-identifier/lib/identifier.js`: isInAstralSet, isIdentifierStart, isIdentifierChar, isIdentifierName
+- `node_modules/@babel/helper-validator-identifier/lib/keyword.js`: isReservedWord, isStrictReservedWord, isStrictBindOnlyReservedWord, isStrictBindReservedWord, isKeyword
+- `node_modules/@babel/helper-compilation-targets/lib/index.js`: validateTargetNames, isBrowsersQueryValid, validateBrowsers, getLowestVersions, outputDecimalWarning, semverifyTarget, nodeTargetParser, defaultTargetParser, generateTargets, resolveTargets, resolveTargetsCached, getTargets
+- `node_modules/@babel/helper-compilation-targets/lib/filter-items.js`: targetsSupported, isRequired, filterItems
+- `node_modules/@babel/helper-compilation-targets/lib/utils.js`: semverMin, semverify, isUnreleasedVersion, getLowestUnreleased, getHighestUnreleased, getLowestImplementedVersion
+- `node_modules/@babel/helper-compilation-targets/lib/pretty.js`: prettifyVersion, prettifyTargets
+- `node_modules/@babel/helper-compilation-targets/lib/debug.js`: getInclusionReasons
+- `node_modules/@babel/code-frame/lib/index.js`: isColorSupported, buildDefs, getDefs, highlight, getMarkerLines, codeFrameColumns, index
+- `node_modules/@babel/traverse/lib/visitors.js`: isVirtualType, isExplodedVisitor, validateVisitorMethods, merge, wrapWithStateOrWrapper, ensureEntranceObjects, ensureCallbackArrays, wrapCheck, shouldIgnoreKey, mergePair, environmentVisitor
+- `node_modules/@babel/traverse/lib/cache.js`: clear, clearPath, clearScope, getCachedPaths, getOrCreateCachedPaths
+- `node_modules/@babel/traverse/lib/index.js`: traverse
+- `node_modules/@babel/traverse/lib/traverse-node.js`: _visitPaths, _visit, _traverse, traverseNode
+- `node_modules/@babel/traverse/lib/path/conversion.js`: toComputedKey, ensureBlock, unwrapFunctionEnvironment, setType, arrowFunctionToExpression, hoistFunctionEnvironment, isLogicalOp, standardizeSuperProperty, rightExpression, hasSuperClass, getThisBinding, getSuperBinding, getSuperPropBinding, getBinding, getScopeInformation, splitExportDeclaration, ensureFunctionName
+- `node_modules/@babel/traverse/lib/path/evaluation.js`: isValidObjectCallee, isValidIdentifierCallee, isInvalidMethod, evaluateTruthy, deopt, evaluateCached, _evaluate, evaluateQuasis, evaluate
+- `node_modules/@babel/traverse/lib/path/removal.js`: remove, _removeFromScope, _callRemovalHooks, _remove, _markRemoved, _assertUnremoved
+- `node_modules/@babel/traverse/lib/path/modification.js`: insertBefore, _containerInsert, _containerInsertBefore, _containerInsertAfter, isHiddenInSequenceExpression, isAlmostConstantAssignment, insertAfter, updateSiblingKeys, _verifyNodeList, unshiftContainer, pushContainer, hoist
+- `node_modules/@babel/traverse/lib/path/comments.js`: shareCommentsWithSiblings, removeIfExisting, addComment, addComments
+- `node_modules/@babel/traverse/lib/path/context.js`: call, _call, isDenylisted, restoreContext, visit, skip, skipKey, stop, _forceSetScope, setScope, setContext, resync, _resyncParent, _resyncKey, _resyncList, _resyncRemoved, popContext, pushContext, setup, setKey ...
+- `node_modules/@babel/traverse/lib/path/ancestry.js`: findParent, find, getFunctionParent, getStatementParent, getEarliestCommonAncestorFrom, getDeepestCommonAncestorFrom, getAncestry, isAncestor, isDescendant, inType
+- `node_modules/@babel/traverse/lib/path/replacement.js`: replaceWithMultiple, replaceWithSourceString, replaceWith, _replaceWith, replaceExpressionWithStatements, gatherSequenceExpressions, replaceInline
+- `node_modules/@babel/traverse/lib/path/family.js`: NormalCompletion, BreakCompletion, getOpposite, addCompletionRecords, completionRecordForSwitch, normalCompletionToBreak, replaceBreakStatementInBreakCompletion, getStatementListCompletion, _getCompletionRecords, getCompletionRecords, getSibling, getPrevSibling, getNextSibling, getAllNextSiblings, getAllPrevSiblings, get, _getKey, _getPattern, getAssignmentIdentifiers, getBindingIdentifiers ...
+- `node_modules/@babel/traverse/lib/path/introspection.js`: matchesPattern, has, isStatic, isnt, equals, isNodeType, canHaveVariableDeclarationOrExpression, canSwapBetweenExpressionAndStatement, isCompletionRecord, isStatementOrBlock, referencesImport, getSource, willIMaybeExecuteBefore, getOuterFunction, isExecutionUncertain, isExecutionUncertainInList, _guessExecutionStatusRelativeTo, _guessExecutionStatusRelativeToCached, _guessExecutionStatusRelativeToDifferentFunctionsInternal, _guessExecutionStatusRelativeToDifferentFunctionsCached ...
+- `node_modules/@babel/traverse/lib/path/lib/virtual-types-validator.js`: isReferencedIdentifier, isReferencedMemberExpression, isBindingIdentifier, isStatement, isExpression, isScope, isReferenced, isBlockScoped, isVar, isUser, isGenerated, isPure, isFlow, isRestProperty, isSpreadProperty, isForAwaitStatement, isExistentialTypeParam, isNumericLiteralTypeAnnotation
+- `node_modules/@babel/traverse/lib/path/inference/util.js`: createUnionType
+- `node_modules/@babel/traverse/lib/path/inference/index.js`: getTypeAnnotation, _getTypeAnnotation, isBaseType, _isBaseType, couldBeBaseType, baseTypeStrictlyMatches, isGenericType
+- `node_modules/@babel/traverse/lib/path/inference/inferers.js`: VariableDeclarator, TypeCastExpression, TSAsExpression, TSNonNullExpression, NewExpression, TemplateLiteral, UnaryExpression, BinaryExpression, LogicalExpression, ConditionalExpression, SequenceExpression, ParenthesizedExpression, AssignmentExpression, UpdateExpression, StringLiteral, NumericLiteral, BooleanLiteral, NullLiteral, RegExpLiteral, ObjectExpression ...
+- `node_modules/@babel/traverse/lib/path/inference/inferer-reference.js`: _default, getTypeAnnotationBindingConstantViolations, getConstantViolationsBefore, inferAnnotationFromBinaryExpression, getParentConditionalPath, getConditionalAnnotation
+- `node_modules/@babel/traverse/lib/scope/traverseForScope.js`: traverseForScope, _traverse
+- `node_modules/@babel/traverse/lib/scope/index.js`: gatherNodeParts, resetScope, isAnonymousFunctionExpression
+- `node_modules/@babel/traverse/lib/scope/binding.js`: isInitInLoop
+- `node_modules/@babel/helper-module-imports/lib/import-injector.js`: isValueImport, hasNamespaceImport, hasDefaultImport, maybeAppendImportSpecifiers
+- `node_modules/@babel/helper-module-imports/lib/index.js`: addDefault, addNamed, addNamespace, addSideEffect
+- `node_modules/@babel/helper-module-imports/lib/is-module.js`: isModule
+- `node_modules/@babel/helpers/lib/helpers-generated.js`: helper, _OverloadYield, _applyDecoratedDescriptor, applyDecs2311, g, b, applyDec, d, I, w, _arrayLikeToArray, _arrayWithHoles, _arrayWithoutHoles, _assertClassBrand, _assertThisInitialized, _asyncGeneratorDelegate, pump, _asyncIterator, AsyncFromSyncIterator, AsyncFromSyncIteratorContinuation ...
+- `node_modules/@babel/helpers/lib/index.js`: deep, permuteHelperAST, loadHelper, get, minVersion, getDependencies, isInternal
+- `node_modules/@babel/helpers/lib/helpers/interopRequireDefault.js`: _interopRequireDefault
+- `node_modules/@babel/helpers/lib/helpers/objectDestructuringEmpty.js`: _objectDestructuringEmpty
+- `node_modules/@babel/helpers/lib/helpers/createClass.js`: _defineProperties, _createClass
+- `node_modules/@babel/helpers/lib/helpers/asyncToGenerator.js`: asyncGeneratorStep, _asyncToGenerator, _next, _throw
+- `node_modules/@babel/helpers/lib/helpers/toSetter.js`: _toSetter
+- `node_modules/@babel/helpers/lib/helpers/jsx.js`: _createRawReactElement
+- `node_modules/@babel/helpers/lib/helpers/arrayWithoutHoles.js`: _arrayWithoutHoles
+- `node_modules/@babel/helpers/lib/helpers/interopRequireWildcard.js`: _interopRequireWildcard
+- `node_modules/@babel/helpers/lib/helpers/regeneratorRuntime.js`: _regeneratorRuntime, isGeneratorFunction, wrapInnerFn
+- `node_modules/@babel/helpers/lib/helpers/taggedTemplateLiteralLoose.js`: _taggedTemplateLiteralLoose
+- `node_modules/@babel/helpers/lib/helpers/using.js`: _using
+- `node_modules/@babel/helpers/lib/helpers/applyDecs2305.js`: applyDecs2305, _bindPropCall, runInitializers, assertCallable, applyDec, assertInstanceIfPrivate, applyMemberDecs, pushInitializers, defineMetadata
+- `node_modules/@babel/helpers/lib/helpers/regeneratorKeys.js`: _regeneratorKeys, next
+- `node_modules/@babel/helpers/lib/helpers/readOnlyError.js`: _readOnlyError
+- `node_modules/@babel/helpers/lib/helpers/inheritsLoose.js`: _inheritsLoose
+- `node_modules/@babel/helpers/lib/helpers/instanceof.js`: _instanceof
+- `node_modules/@babel/helpers/lib/helpers/classCheckPrivateStaticFieldDescriptor.js`: _classCheckPrivateStaticFieldDescriptor
+- `node_modules/@babel/helpers/lib/helpers/arrayWithHoles.js`: _arrayWithHoles
+- `node_modules/@babel/helpers/lib/helpers/decorate.js`: _decorate, initialize, _getDecoratorsApi, _createElementDescriptor, _coalesceGetterSetter, _coalesceClassElements, _hasDecorators, _isDataDescriptor, _optionalCallableProperty
+- `node_modules/@babel/helpers/lib/helpers/newArrowCheck.js`: _newArrowCheck
+- `node_modules/@babel/helpers/lib/helpers/applyDecs2301.js`: applyDecs2301Factory, createAddInitializerMethod, addInitializer, assertInstanceIfPrivate, memberDec, assertNotFinished, assertCallable, assertValidReturnValue, curryThis1, curryThis2, applyMemberDec, applyMemberDecs, pushInitializers, applyClassDecs, applyDecs2301, applyDecs2301
+- `node_modules/@babel/helpers/lib/helpers/nonIterableRest.js`: _nonIterableRest
+- `node_modules/@babel/helpers/lib/helpers/asyncIterator.js`: _asyncIterator, AsyncFromSyncIterator, AsyncFromSyncIteratorContinuation
+- `node_modules/@babel/helpers/lib/helpers/objectWithoutProperties.js`: _objectWithoutProperties
+- `node_modules/@babel/helpers/lib/helpers/classPrivateFieldSet2.js`: _classPrivateFieldSet2
+- `node_modules/@babel/helpers/lib/helpers/assertThisInitialized.js`: _assertThisInitialized
+- `node_modules/@babel/helpers/lib/helpers/callSuper.js`: _callSuper
+- `node_modules/@babel/helpers/lib/helpers/applyDecs2311.js`: applyDecs2311, createRunInitializers, assertCallable, applyDec, assertInstanceIfPrivate, _bindPropCall, applyMemberDecs, defineMetadata
+- `node_modules/@babel/helpers/lib/helpers/classApplyDescriptorSet.js`: _classApplyDescriptorSet
+- `node_modules/@babel/helpers/lib/helpers/possibleConstructorReturn.js`: _possibleConstructorReturn
+- `node_modules/@babel/helpers/lib/helpers/classPrivateFieldLooseBase.js`: _classPrivateFieldBase
+- `node_modules/@babel/helpers/lib/helpers/toArray.js`: _toArray
+- `node_modules/@babel/helpers/lib/helpers/regeneratorDefine.js`: regeneratorDefine, defineIteratorMethod
+- `node_modules/@babel/helpers/lib/helpers/classPrivateFieldSet.js`: _classPrivateFieldSet
+- `node_modules/@babel/helpers/lib/helpers/defineAccessor.js`: _defineAccessor
+- `node_modules/@babel/helpers/lib/helpers/createForOfIteratorHelper.js`: _createForOfIteratorHelper
+- `node_modules/@babel/helpers/lib/helpers/iterableToArray.js`: _iterableToArray
+- `node_modules/@babel/helpers/lib/helpers/classStaticPrivateFieldSpecSet.js`: _classStaticPrivateFieldSpecSet
+- `node_modules/@babel/helpers/lib/helpers/superPropSet.js`: _superPropSet
+- `node_modules/@babel/helpers/lib/helpers/classPrivateMethodInitSpec.js`: _classPrivateMethodInitSpec
+- `node_modules/@babel/helpers/lib/helpers/classPrivateFieldLooseKey.js`: _classPrivateFieldKey
+- `node_modules/@babel/helpers/lib/helpers/regeneratorValues.js`: _regeneratorValues
+- `node_modules/@babel/helpers/lib/helpers/toConsumableArray.js`: _toConsumableArray
+- `node_modules/@babel/helpers/lib/helpers/superPropGet.js`: _superPropGet
+- `node_modules/@babel/helpers/lib/helpers/classStaticPrivateFieldSpecGet.js`: _classStaticPrivateFieldSpecGet
+- `node_modules/@babel/helpers/lib/helpers/classCheckPrivateStaticAccess.js`: _classCheckPrivateStaticAccess
+- `node_modules/@babel/helpers/lib/helpers/wrapRegExp.js`: _wrapRegExp, BabelRegExp, buildGroups
+- `node_modules/@babel/helpers/lib/helpers/extends.js`: _extends
+- `node_modules/@babel/helpers/lib/helpers/classPrivateFieldInitSpec.js`: _classPrivateFieldInitSpec
+- `node_modules/@babel/helpers/lib/helpers/classApplyDescriptorGet.js`: _classApplyDescriptorGet
+- `node_modules/@babel/helpers/lib/helpers/initializerWarningHelper.js`: _initializerWarningHelper
+- `node_modules/@babel/helpers/lib/helpers/objectSpread.js`: _objectSpread
+- `node_modules/@babel/helpers/lib/helpers/regeneratorAsync.js`: _regeneratorAsync
+- `node_modules/@babel/helpers/lib/helpers/defineProperty.js`: _defineProperty
+- `node_modules/@babel/helpers/lib/helpers/classPrivateFieldGet.js`: _classPrivateFieldGet
+- `node_modules/@babel/helpers/lib/helpers/maybeArrayLike.js`: _maybeArrayLike
+- `node_modules/@babel/helpers/lib/helpers/set.js`: set, set, _set
+- `node_modules/@babel/helpers/lib/helpers/asyncGeneratorDelegate.js`: _asyncGeneratorDelegate, pump
+- `node_modules/@babel/helpers/lib/helpers/skipFirstGeneratorNext.js`: _skipFirstGeneratorNext
+- `node_modules/@babel/helpers/lib/helpers/objectSpread2.js`: ownKeys, _objectSpread2
+- `node_modules/@babel/helpers/lib/helpers/classPrivateFieldGet2.js`: _classPrivateFieldGet2
+- `node_modules/@babel/helpers/lib/helpers/classCallCheck.js`: _classCallCheck
+- `node_modules/@babel/helpers/lib/helpers/unsupportedIterableToArray.js`: _unsupportedIterableToArray
+- `node_modules/@babel/helpers/lib/helpers/classApplyDescriptorDestructureSet.js`: _classApplyDescriptorDestructureSet
+- `node_modules/@babel/helpers/lib/helpers/applyDecs2203R.js`: applyDecs2203RFactory, createAddInitializerMethod, addInitializer, memberDec, assertNotFinished, assertCallable, assertValidReturnValue, applyMemberDec, applyMemberDecs, pushInitializers, applyClassDecs, applyDecs2203R, applyDecs2203R
+- `node_modules/@babel/helpers/lib/helpers/classNameTDZError.js`: _classNameTDZError
+- `node_modules/@babel/helpers/lib/helpers/wrapAsyncGenerator.js`: _wrapAsyncGenerator, AsyncGenerator, send, resume, settle
+- `node_modules/@babel/helpers/lib/helpers/temporalUndefined.js`: _temporalUndefined
+- `node_modules/@babel/helpers/lib/helpers/importDeferProxy.js`: _importDeferProxy
+- `node_modules/@babel/helpers/lib/helpers/classStaticPrivateMethodSet.js`: _classStaticPrivateMethodSet
+- `node_modules/@babel/helpers/lib/helpers/typeof.js`: _typeof
+- `node_modules/@babel/helpers/lib/helpers/getPrototypeOf.js`: _getPrototypeOf, _getPrototypeOf
+- `node_modules/@babel/helpers/lib/helpers/tsRewriteRelativeImportExtensions.js`: tsRewriteRelativeImportExtensions
+- `node_modules/@babel/helpers/lib/helpers/AwaitValue.js`: _AwaitValue
+- `node_modules/@babel/helpers/lib/helpers/checkPrivateRedeclaration.js`: _checkPrivateRedeclaration
+- `node_modules/@babel/helpers/lib/helpers/classStaticPrivateMethodGet.js`: _classStaticPrivateMethodGet
+- `node_modules/@babel/helpers/lib/helpers/iterableToArrayLimit.js`: _iterableToArrayLimit
+- `node_modules/@babel/helpers/lib/helpers/regeneratorAsyncGen.js`: _regeneratorAsyncGen
+- `node_modules/@babel/helpers/lib/helpers/get.js`: _get, _get
+- `node_modules/@babel/helpers/lib/helpers/taggedTemplateLiteral.js`: _taggedTemplateLiteral
+- `node_modules/@babel/helpers/lib/helpers/classStaticPrivateFieldDestructureSet.js`: _classStaticPrivateFieldDestructureSet
+- `node_modules/@babel/helpers/lib/helpers/checkInRHS.js`: _checkInRHS
+- `node_modules/@babel/helpers/lib/helpers/superPropBase.js`: _superPropBase
+- `node_modules/@babel/helpers/lib/helpers/tdz.js`: _tdzError
+- `node_modules/@babel/helpers/lib/helpers/identity.js`: _identity
+- `node_modules/@babel/helpers/lib/helpers/classExtractFieldDescriptor.js`: _classExtractFieldDescriptor
+- `node_modules/@babel/helpers/lib/helpers/regenerator.js`: _regenerator, wrap, Generator, GeneratorFunction, GeneratorFunctionPrototype, mark, makeInvokeMethod, invoke, Context_dispatchExceptionOrFinishOrAbrupt
+- `node_modules/@babel/helpers/lib/helpers/setFunctionName.js`: setFunctionName
+- `node_modules/@babel/helpers/lib/helpers/nonIterableSpread.js`: _nonIterableSpread
+- `node_modules/@babel/helpers/lib/helpers/usingCtx.js`: _usingCtx, using, next, err
+- `node_modules/@babel/helpers/lib/helpers/setPrototypeOf.js`: _setPrototypeOf, _setPrototypeOf
+- `node_modules/@babel/helpers/lib/helpers/applyDecs.js`: old_createMetadataMethodsForProperty, old_convertMetadataMapToFinal, old_createAddInitializerMethod, addInitializer, old_memberDec, old_assertNotFinished, old_assertMetadataKey, old_assertCallable, old_assertValidReturnValue, old_getInit, old_applyMemberDec, old_applyMemberDecs, old_pushInitializers, old_applyClassDecs, applyDecs
+- `node_modules/@babel/helpers/lib/helpers/slicedToArray.js`: _slicedToArray
+- `node_modules/@babel/helpers/lib/helpers/arrayLikeToArray.js`: _arrayLikeToArray
+- `node_modules/@babel/helpers/lib/helpers/classPrivateMethodSet.js`: _classPrivateMethodSet
+- `node_modules/@babel/helpers/lib/helpers/classPrivateGetter.js`: _classPrivateGetter
+- `node_modules/@babel/helpers/lib/helpers/inherits.js`: _inherits
+- `node_modules/@babel/helpers/lib/helpers/regeneratorAsyncIterator.js`: AsyncIterator, invoke, enqueue, callInvokeWithMethodAndArg
+- `node_modules/@babel/helpers/lib/helpers/createForOfIteratorHelperLoose.js`: _createForOfIteratorHelperLoose
+- `node_modules/@babel/helpers/lib/helpers/nullishReceiverError.js`: _nullishReceiverError
+- `node_modules/@babel/helpers/lib/helpers/assertClassBrand.js`: _assertClassBrand
+- `node_modules/@babel/helpers/lib/helpers/createSuper.js`: _createSuper, _createSuperInternal
+- `node_modules/@babel/helpers/lib/helpers/objectWithoutPropertiesLoose.js`: _objectWithoutPropertiesLoose
+- `node_modules/@babel/helpers/lib/helpers/applyDecs2203.js`: applyDecs2203Factory, createAddInitializerMethod, addInitializer, memberDec, assertNotFinished, assertCallable, assertValidReturnValue, applyMemberDec, applyMemberDecs, pushInitializers, applyClassDecs, applyDecs2203Impl, applyDecs2203
+- `node_modules/@babel/helpers/lib/helpers/wrapNativeSuper.js`: _wrapNativeSuper, _wrapNativeSuper, Wrapper
+- `node_modules/@babel/helpers/lib/helpers/defineEnumerableProperties.js`: _defineEnumerableProperties
+- `node_modules/@babel/helpers/lib/helpers/toPropertyKey.js`: toPropertyKey
+- `node_modules/@babel/helpers/lib/helpers/classPrivateSetter.js`: _classPrivateSetter
+- `node_modules/@babel/helpers/lib/helpers/construct.js`: _construct
+- `node_modules/@babel/helpers/lib/helpers/defaults.js`: _defaults
+- `node_modules/@babel/helpers/lib/helpers/classPrivateMethodGet.js`: _classPrivateMethodGet
+- `node_modules/@babel/helpers/lib/helpers/isNativeFunction.js`: _isNativeFunction
+- `node_modules/@babel/helpers/lib/helpers/awaitAsyncGenerator.js`: _awaitAsyncGenerator
+- `node_modules/@babel/helpers/lib/helpers/OverloadYield.js`: _OverloadYield
+- `node_modules/@babel/helpers/lib/helpers/toPrimitive.js`: toPrimitive
+- `node_modules/@babel/helpers/lib/helpers/applyDecoratedDescriptor.js`: _applyDecoratedDescriptor
+- `node_modules/@babel/helpers/lib/helpers/dispose.js`: dispose_SuppressedError, SuppressedError, _dispose, next, err
+- `node_modules/@babel/helpers/lib/helpers/initializerDefineProperty.js`: _initializerDefineProperty
+- `node_modules/@babel/helpers/lib/helpers/temporalRef.js`: _temporalRef
+- `node_modules/@babel/helpers/lib/helpers/classPrivateFieldDestructureSet.js`: _classPrivateFieldDestructureSet
+- `node_modules/@babel/helpers/lib/helpers/isNativeReflectConstruct.js`: _isNativeReflectConstruct
+- `node_modules/@babel/helpers/lib/helpers/writeOnlyError.js`: _writeOnlyError
+- `node_modules/@humanfs/core/src/hfs.js`: assertValidFileOrDirPath, assertValidFileContents, toUint8Array
+- `node_modules/@humanfs/core/src/path.js`: normalizePath, assertValidName
+- `node_modules/levn/lib/parse-string.js`: consumeOp, maybeConsumeOp, consumeList, consumeArray, consumeTuple, consumeFields, consumeValue, consumeElement, consumeTopLevel
+- `node_modules/levn/lib/cast.js`: castArray, castTuple, castFields, typeCast, typesCast
+- `node_modules/lodash.merge/index.js`: apply, baseTimes, baseUnary, getValue, overArg, object, Hash, hashClear, hashDelete, hashGet, hashHas, hashSet, ListCache, listCacheClear, listCacheDelete, listCacheGet, listCacheHas, listCacheSet, MapCache, mapCacheClear ...
+- `node_modules/rollup/dist/native.js`: getPackageBase, throwUnsupportedError
+- `node_modules/rollup/dist/rollup.js`: watch, ensureTrailingSlash, checkWatchConfig, watchInternal
+- `node_modules/rollup/dist/shared/watch-cli.js`: timeZone, dateTime, getResetScreen, extractWatchHooks, createWatchHooks, watch, loadConfigFromFileAndTrack, reloadConfigFile, start, close, closeWithError
+- `node_modules/rollup/dist/shared/parseAst.js`: rangeContains, getLocator, locator, locate, spaces, tabsToSpaces, getCodeFrame, isAbsolute, isRelative, normalize, printQuotedStringList, relative, getAliasName, relativeId, isPathFragment, getImportPath, isValidUrl, getRollupUrl, addTrailingSlashIfMissed, error ...
+- `node_modules/rollup/dist/shared/fsevents-importer.js`: loadFsEvents, getFsEvents
+- `node_modules/rollup/dist/shared/loadConfigFile.js`: batchWarnings, defaultBody, title, info, nest, showTruncatedWarnings, generateLogFilter, formatLocation, stdinPlugin, readStdin, waitForInputPlugin, addCommandPluginsToInputOptions, addPluginsFromCommandOption, loadAndRegisterPlugin, getCamelizedPluginBaseName, requireOrImport, getConfigFileExport, getDefaultFromCjs, getConfigImportAttributesKey, loadTranspiledConfigFile
+- `node_modules/rollup/dist/es/shared/parseAst.js`: rangeContains, getLocator, locator, locate, spaces, tabsToSpaces, getCodeFrame, isAbsolute, isRelative, normalize, printQuotedStringList, relative, getAliasName, relativeId, isPathFragment, getImportPath, isValidUrl, getRollupUrl, addTrailingSlashIfMissed, error ...
+- `node_modules/json5/dist/index.js`: createCommonjsModule, defineProperty, toString, codePointAt, fromCodePoint
+- `node_modules/json5/dist/index.min.js`: u
+- `node_modules/json5/lib/stringify.js`: stringify, serializeProperty, quoteString, serializeObject, serializeKey, serializeArray
+- `node_modules/json5/lib/parse.js`: parse, internalize, lex, peek, read, newToken, literal, escape, hexEscape, unicodeEscape, push
+- `node_modules/json5/lib/cli.js`: parseArgs, version, usage
+- `node_modules/update-browserslist-db/index.js`: BrowserslistUpdateError, defaultPrint, detectLockfile, getLatestInfo, getBrowsers, diffBrowsers, updateNpmLockfile, deletePackage, updateYarnLockfile, updateLockfile, updatePackageManually, updateWith, updateDB
+- `node_modules/update-browserslist-db/cli.js`: getPackage, isArg, error
+- `node_modules/optionator/lib/help.js`: pad, sentencize, interp
+- `node_modules/convert-source-map/index.js`: getCommentRegex, getMapFileCommentRegex, decodeBase64WithBufferFrom, decodeBase64WithNewBuffer, decodeBase64WithAtob, stripComment, readFromFileMap, throwError, Converter, encodeBase64WithBufferFrom, encodeBase64WithNewBuffer, encodeBase64WithBtoa, makeConverter
+- `node_modules/uri-js/dist/es5/uri.all.min.js`: r, n, t, o, a, i, u, s, f, c, p, h, d, l, n, m, g, v, E, C ...
+- `node_modules/uri-js/dist/es5/uri.all.js`: merge, subexp, typeOf, toUpperCase, toArray, assign, buildExps, sliceIterator, map, mapDomain, ucs2decode, ucs2encode, basicToDigit, digitToBasic, adapt, decode, encode
+- `node_modules/uri-js/dist/esnext/util.js`: merge, subexp, typeOf, toUpperCase, toArray, assign
+- `node_modules/uri-js/dist/esnext/regexps-uri.js`: buildExps
+- `node_modules/uri-js/dist/esnext/uri.js`: pctEncChar, pctDecChars, _normalizeComponentEncoding, decodeUnreserved, _stripLeadingZeros, _normalizeIPv4, _normalizeIPv6, parse, _recomposeAuthority, removeDotSegments, serialize, resolveComponents, resolve, normalize, equal, escapeComponent, unescapeComponent
+- `node_modules/uri-js/dist/esnext/schemes/mailto.js`: decodeUnreserved
+- `node_modules/uri-js/dist/esnext/schemes/ws.js`: isSecure
+- `node_modules/cross-spawn/index.js`: spawn, spawnSync
+- `node_modules/cross-spawn/lib/parse.js`: detectShebang, parseNonShell, parse
+- `node_modules/cross-spawn/lib/enoent.js`: notFoundError, hookChildProcess, verifyENOENT, verifyENOENTSync
+- `node_modules/cross-spawn/lib/util/readShebang.js`: readShebang
+- `node_modules/cross-spawn/lib/util/escape.js`: escapeCommand, escapeArgument
+- `node_modules/cross-spawn/lib/util/resolveCommand.js`: resolveCommandAttempt, resolveCommand
+- `node_modules/espree/espree.js`: tokenize, parse
+- `node_modules/espree/lib/options.js`: getLatestEcmaVersion, getSupportedEcmaVersions, normalizeEcmaVersion, normalizeSourceType, normalizeOptions
+- `node_modules/espree/lib/token-translator.js`: convertTemplatePart, TokenTranslator
+- `node_modules/espree/lib/espree.js`: convertAcornCommentToEsprimaComment
+- `node_modules/eslint/messages/shared.js`: stringifyValueForError
+- `node_modules/eslint/bin/eslint.js`: readStdin, getErrorMessage, onFatalError, main
+- `node_modules/eslint/lib/cli.js`: countErrors, createOptionsModule, isDirectory, printResults, validateConcurrency
+- `node_modules/eslint/lib/api.js`: loadESLint
+- `node_modules/eslint/lib/rule-tester/rule-tester.js`: cloneDeeplyExcludesParent, freezeDeeply, sanitize, defineStartEndAsError, defineStartEndAsErrorInTree, wrapParser, throwForbiddenMethodError, getMessagePlaceholders, getUnsubstitutedMessagePlaceholders, itDefaultHandler, describeDefaultHandler, runHook
+- `node_modules/eslint/lib/cli-engine/lint-result-cache.js`: isValidCacheStrategy, hashOfConfigFor
+- `node_modules/eslint/lib/cli-engine/file-enumerator.js`: isGlobPattern, statSafeSync, readdirSafeSync, createExtensionRegExp
+- `node_modules/eslint/lib/cli-engine/hash.js`: hash
+- `node_modules/eslint/lib/cli-engine/cli-engine.js`: validateFixTypes, calculateStatsPerFile, calculateStatsPerRun, verifyText, createIgnoreResult, getRule, shouldMessageBeFixed, isErrorMessage, getCacheFile, getCacheFileForDirectory, toBooleanMap, createConfigDataFromOptions, directoryExists
+- `node_modules/eslint/lib/cli-engine/formatters/html.js`: pageTemplate, pluralize, renderSummary, renderColor, messageTemplate, renderMessages, resultTemplate, renderResults
+- `node_modules/eslint/lib/cli-engine/formatters/stylish.js`: pluralize
+- `node_modules/eslint/lib/config/flat-config-schema.js`: isNonNullObject, isNonArrayObject, isUndefined, deepMerge, normalizeRuleOptions, hasMethod, assertIsRuleOptions, assertIsRuleSeverity, assertIsPluginMemberName, assertIsObject, createEslintrcErrorSchema
+- `node_modules/eslint/lib/config/flat-config-array.js`: wrapConfigErrorWithDetails
+- `node_modules/eslint/lib/config/config-loader.js`: assertValidFilePath, assertConfigurationExists, isFileTS, isRunningInBun, isRunningInDeno, isNativeTypeScriptSupportEnabled, loadTypeScriptConfigFileWithJiti, dynamicImportConfig, loadConfigFile
+- `node_modules/eslint/lib/config/config.js`: throwRuleNotFoundError, parseRuleId, getRuleFromConfig, getRuleOptionsSchema, splitPluginIdentifier, getObjectId, assertNotFunction, languageOptionsToJSON, getOrCreateValidator
+- `node_modules/eslint/lib/linter/esquery.js`: union, intersection, analyzeParsedSelector, analyzeSelector, trySimpleParseSelector, tryParseSelector, parse, matches
+- `node_modules/eslint/lib/linter/file-report.js`: updateLocationInformation, createMissingRuleMessage, createLintingProblem, normalizeMultiArgReportCall, assertValidNodeInfo, normalizeReportLoc, cloneFix, assertValidFix, compareFixesByRange, mergeFixes, normalizeFixes, mapSuggestions, createProblem, validateSuggestions, computeMessageFromDescriptor
+- `node_modules/eslint/lib/linter/source-code-fixer.js`: compareMessagesByFixRange, compareMessagesByLocation, SourceCodeFixer, attemptFix
+- `node_modules/eslint/lib/linter/rule-fixer.js`: insertTextAt
+- `node_modules/eslint/lib/linter/apply-disable-directives.js`: compareLocations, groupByParentDirective, createIndividualDirectivesRemoval, createDirectiveRemoval, processUnusedDirectives, collectUsedEnableDirectives, applyDirectives
+- `node_modules/eslint/lib/linter/source-code-traverser.js`: compareSpecificity
+- `node_modules/eslint/lib/linter/vfile.js`: hasUnicodeBOM, stripUnicodeBOM
+- `node_modules/eslint/lib/linter/linter.js`: isEspree, addDeclaredGlobals, asArray, addProblemIfSameSeverityAndOptions, createDisableDirectives, getDirectiveComments
+- `node_modules/eslint/lib/linter/timing.js`: alignLeft, alignRight, getListSize, display, time, getData, mergeData, disableDisplay
+- `node_modules/eslint/lib/linter/interpolate.js`: getPlaceholderMatcher, interpolate
+- `node_modules/eslint/lib/linter/code-path-analysis/code-path-segment.js`: isReachable
+- `node_modules/eslint/lib/linter/code-path-analysis/code-path.js`: isVisited, isSkipped
+- `node_modules/eslint/lib/linter/code-path-analysis/fork-context.js`: isReachable, createSegments, mergeExtraSegments
+- `node_modules/eslint/lib/linter/code-path-analysis/debug-helpers.js`: getId, nodeToString
+- `node_modules/eslint/lib/linter/code-path-analysis/code-path-analyzer.js`: isCaseNode, isPropertyDefinitionValue, isHandledLogicalOperator, isLogicalAssignmentOperator, getLabel, isForkingByTrueOrFalse, getBooleanValueIfSimpleConstant, isIdentifierReference, forwardCurrentToHead, leaveFromCurrentSegment, preprocess, processCodePathToEnter, startCodePath, processCodePathToExit, postprocess, endCodePath
+- `node_modules/eslint/lib/shared/flags.js`: getInactivityReasonMessage
+- `node_modules/eslint/lib/shared/naming.js`: normalizePackageName, getShorthandName, getNamespaceFromTerm
+- `node_modules/eslint/lib/shared/assert.js`: ok
+- `node_modules/eslint/lib/shared/deep-merge-arrays.js`: isObjectNotArray, deepMergeObjects, deepMergeArrays
+- `node_modules/eslint/lib/shared/string-utils.js`: upperCaseFirst, getGraphemeCount
+- `node_modules/eslint/lib/shared/relative-module-resolver.js`: resolve
+- `node_modules/eslint/lib/shared/severity.js`: normalizeSeverityToString, normalizeSeverityToNumber
+- `node_modules/eslint/lib/shared/ast-utils.js`: createGlobalLinebreakMatcher
+- `node_modules/eslint/lib/shared/option-utils.js`: containsDifferentProperty
+- `node_modules/eslint/lib/shared/runtime-info.js`: environment, isChildOfDirectory, execCommand, normalizeVersionStr, getBinVersion, getNpmPackageVersion, version
+- `node_modules/eslint/lib/shared/translate-cli-options.js`: loadPlugins, quietFixPredicate, quietRuleFilter, translateOptions
+- `node_modules/eslint/lib/shared/serialization.js`: isSerializablePrimitiveOrPlainObject, isSerializable
+- `node_modules/eslint/lib/shared/traverser.js`: noop, isNode, getVisitorKeys
+- `node_modules/eslint/lib/shared/stats.js`: startTime, endTime
+- `node_modules/eslint/lib/languages/js/validate-language-options.js`: isNonNullObject, isNonArrayObject, isUndefined, validateEcmaVersion, validateSourceType, validateGlobals, validateParser, validateLanguageOptions
+- `node_modules/eslint/lib/languages/js/index.js`: analyzeScope, isEspree, normalizeEcmaVersionForLanguageOptions
+- `node_modules/eslint/lib/languages/js/source-code/source-code.js`: validate, getGlobalsForEcmaVersion, looksLikeExport, sortedMerge, normalizeConfigGlobal, nodesOrTokensOverlap, isSpaceBetween, findLineNumberBinarySearch, addDeclaredGlobals, markExportedVariables
+- `node_modules/eslint/lib/languages/js/source-code/token-store/index.js`: createIndexMap, createCursorWithSkip, createCursorWithCount, createCursorWithPadding, getAdjacentCommentTokensFromCursor
+- `node_modules/eslint/lib/languages/js/source-code/token-store/utils.js`: search, getFirstIndex, getLastIndex
+- `node_modules/eslint/lib/rules/no-var.js`: isGlobal, getEnclosingFunctionScope, expression, isReferencedInClosure, isLoopAssignee, isDeclarationInitialized, getScopeNode, isRedeclared, isUsedFromOutsideOf, isOutsideOfScope, hasReferenceInTDZ, hasNameDisallowedForLetDeclarations, hasSelfReferenceInTDZ, canFix, report
+- `node_modules/eslint/lib/rules/implicit-arrow-linebreak.js`: validateExpression
+- `node_modules/eslint/lib/rules/no-compare-neg-zero.js`: isNegZero
+- `node_modules/eslint/lib/rules/no-extra-semi.js`: isFixable, report, checkForPartOfClassBody
+- `node_modules/eslint/lib/rules/padding-line-between-statements.js`: newKeywordTester, newSinglelineKeywordTester, newMultilineKeywordTester, newNodeTypeTester, isIIFEStatement, isBlockLikeStatement, getActualLastToken, replacerToRemovePaddingLines, verifyForAny, verifyForNever, verifyForAlways, enterScope, exitScope, match, getPaddingType, getPaddingLineSequences, verify, verifyThenEnterScope
+- `node_modules/eslint/lib/rules/dot-notation.js`: checkComputedProperty
+- `node_modules/eslint/lib/rules/id-match.js`: isReferenceToGlobalVariable, isInvalid, isInsideObjectPattern, shouldReport, report
+- `node_modules/eslint/lib/rules/lines-around-comment.js`: getEmptyLineNums, getCommentLineNums, codeAroundComment, isParentNodeType, getParentNodeOfToken, isCommentAtParentStart, isCommentAtParentEnd, isCommentAtBlockStart, isCommentAtBlockEnd, isCommentAtClassStart, isCommentAtClassEnd, isCommentAtObjectStart, isCommentAtObjectEnd, isCommentAtArrayStart, isCommentAtArrayEnd, checkForEmptyLine
+- `node_modules/eslint/lib/rules/complexity.js`: increaseComplexity
+- `node_modules/eslint/lib/rules/arrow-parens.js`: hasBlockBody, findOpeningParenOfParams, getClosingParenOfParams, hasCommentsInParensOfParams, hasUnexpectedTokensBeforeOpeningParen
+- `node_modules/eslint/lib/rules/class-methods-use-this.js`: pushContext, popContext, enterFunction, isInstanceMethod, hasImplements, isIncludedInstanceMethod, exitFunction, markThisUsed
+- `node_modules/eslint/lib/rules/object-curly-newline.js`: normalizeOptionValue, isObject, isNodeSpecificOption, normalizeOptions, areLineBreaksRequired, check
+- `node_modules/eslint/lib/rules/semi-spacing.js`: hasLeadingSpace, hasTrailingSpace, isLastTokenInCurrentLine, isFirstTokenInCurrentLine, isBeforeClosingParen, checkSemicolonSpacing, checkNode
+- `node_modules/eslint/lib/rules/no-setter-return.js`: isArgumentOfGlobalMethodCall, isPropertyDescriptor, isSetter, enterFunction, exitFunction, report
+- `node_modules/eslint/lib/rules/no-undef.js`: hasTypeOfOperator
+- `node_modules/eslint/lib/rules/no-extra-label.js`: enterBreakableStatement, exitBreakableStatement, enterLabeledStatement, exitLabeledStatement, reportIfUnnecessary
+- `node_modules/eslint/lib/rules/one-var.js`: isInStatementList, startBlock, startFunction, endBlock, endFunction, isRequire, recordTypes, getCurrentScope, countDeclarations, hasOnlyOneStatement, joinDeclarations, splitDeclarations, checkVariableDeclaration
+- `node_modules/eslint/lib/rules/strict.js`: getUseStrictDirectives, isSimpleParameter, isSimpleParameterList, shouldFix, getFixFunction, reportSlice, reportAll, reportAllExceptFirst, enterFunctionInFunctionMode, exitFunctionInFunctionMode, enterFunction
+- `node_modules/eslint/lib/rules/prefer-promise-reject-errors.js`: checkRejectCall, isPromiseRejectCall
+- `node_modules/eslint/lib/rules/space-infix-ops.js`: getFirstNonSpacedToken, report, checkBinary, checkConditional, checkVar
+- `node_modules/eslint/lib/rules/wrap-iife.js`: isCalleeOfNewExpression, isWrappedInAnyParens, isWrappedInGroupingParens, getFunctionNodeFromIIFE
+- `node_modules/eslint/lib/rules/computed-property-spacing.js`: reportNoBeginningSpace, reportNoEndingSpace, reportRequiredBeginningSpace, reportRequiredEndingSpace, checkSpacing
+- `node_modules/eslint/lib/rules/no-useless-escape.js`: union, report, validateString, validateRegExp, check
+- `node_modules/eslint/lib/rules/array-bracket-newline.js`: normalizeOptionValue, normalizeOptions, reportNoBeginningLinebreak, reportNoEndingLinebreak, reportRequiredBeginningLinebreak, reportRequiredEndingLinebreak, check
+- `node_modules/eslint/lib/rules/function-call-argument-newline.js`: checkArguments, check
+- `node_modules/eslint/lib/rules/consistent-this.js`: reportBadAssignment, checkAssignment, checkWasAssigned, ensureWasAssigned
+- `node_modules/eslint/lib/rules/newline-before-return.js`: isPrecededByTokens, isFirstNode, calcCommentLines, getLineNumberOfTokenBefore, hasNewlineBefore, canFix, a
+- `node_modules/eslint/lib/rules/space-unary-ops.js`: isFirstBangInBangBangExpression, overrideExistsForOperator, overrideEnforcesSpaces, verifyWordHasSpaces, verifyWordDoesntHaveSpaces, checkUnaryWordOperatorForSpaces, checkForSpacesAfterYield, checkForSpacesAfterAwait, verifyNonWordsHaveSpaces, verifyNonWordsDontHaveSpaces, checkForSpaces
+- `node_modules/eslint/lib/rules/no-fallthrough.js`: isAnySegmentReachable, isFallThroughComment, getFallthroughComment, hasBlankLinesBetween
+- `node_modules/eslint/lib/rules/function-paren-newline.js`: shouldHaveNewlines, validateParens, validateArguments, getParenTokens
+- `node_modules/eslint/lib/rules/nonblock-statement-body-position.js`: getOption, validateStatement
+- `node_modules/eslint/lib/rules/no-const-assign.js`: checkVariable
+- `node_modules/eslint/lib/rules/no-array-constructor.js`: hasCommentsInArrayConstructor, getArgumentsText, check
+- `node_modules/eslint/lib/rules/no-irregular-whitespace.js`: removeWhitespaceError, removeInvalidNodeErrorsInLiteral, removeInvalidNodeErrorsInTemplateLiteral, removeInvalidNodeErrorsInComment, removeInvalidNodeErrorsInJSXText, checkForIrregularWhitespace, checkForIrregularLineTerminators, noop
+- `node_modules/eslint/lib/rules/array-callback-return.js`: isTargetMethod, isAnySegmentReachable, fullMethodName, getArrayMethodName, foo, callback, isExpressionVoid, voidPrependFixer, curlyWrapFixer, checkLastSegment
+- `node_modules/eslint/lib/rules/indent-legacy.js`: createErrorMessageData, report, getNodeIndent, isNodeFirstInLine, checkNodeIndent, checkNodesIndent, checkLastNodeLineIndent, checkLastReturnStatementLineIndent, checkFirstNodeLineIndent, getParentNodeByType, getVariableDeclaratorNode, isNodeInVarOnTop, isArgBeforeCalleeNodeMultiline, isOuterIIFE, checkIndentInFunctionBlock
+- `node_modules/eslint/lib/rules/no-implied-eval.js`: isEvaluatedString, reportImpliedEvalCallExpression, reportImpliedEvalViaGlobal
+- `node_modules/eslint/lib/rules/lines-between-class-members.js`: getBoundaryTokens, findLastConsecutiveTokenAfter, findFirstConsecutiveTokenBefore, hasTokenOrCommentBetween, match, getPaddingType
+- `node_modules/eslint/lib/rules/max-len.js`: computeLineLength, isTrailingComment, isFullLineComment, isJSXEmptyExpressionInSingleLineContainer, stripTrailingComment, ensureArrayAndPush, getAllStrings, getAllTemplateLiterals, getAllRegExpLiterals, groupArrayByLineNumber, getAllComments, checkProgramForMaxLength
+- `node_modules/eslint/lib/rules/no-useless-rename.js`: reportError, checkDestructured, checkImport, checkExport
+- `node_modules/eslint/lib/rules/for-direction.js`: report, getRightDirection, getUpdateDirection, getAssignmentDirection
+- `node_modules/eslint/lib/rules/no-restricted-properties.js`: isAllowed, checkPropertyAccess
+- `node_modules/eslint/lib/rules/max-params.js`: checkFunction
+- `node_modules/eslint/lib/rules/func-name-matching.js`: isModuleExports, isIdentifier, isPropertyCall, shouldWarn, report, isStringLiteral
+- `node_modules/eslint/lib/rules/no-multi-spaces.js`: formatReportedCommentValue
+- `node_modules/eslint/lib/rules/prefer-object-has-own.js`: hasLeftHandObject
+- `node_modules/eslint/lib/rules/no-useless-concat.js`: isConcatenation, isConcatOperatorToken, getLeft, getRight
+- `node_modules/eslint/lib/rules/multiline-comment-style.js`: isStarredCommentLine, isStarredBlockComment, isJSDocComment, processSeparateLineComments, processStarredBlockComment, processBareBlockComment, getCommentLines, getInitialOffset, convertToStarredBlock, convertToSeparateLines, convertToBlock
+- `node_modules/eslint/lib/rules/no-constant-condition.js`: trackConstantConditionLoop, checkConstantConditionLoopInSet, reportIfConstant, enterFunction, exitFunction, checkLoop
+- `node_modules/eslint/lib/rules/no-eval.js`: isMember, enterThisScope, exitThisScope, report, reportAccessingEvalViaGlobalObject, reportAccessingEval
+- `node_modules/eslint/lib/rules/no-loop-func.js`: isIIFE, getContainingLoopNode, getTopLoopNode, isSafe, isSafeReference, checkForLoops, if
+- `node_modules/eslint/lib/rules/array-element-newline.js`: normalizeOptionValue, normalizeOptions, reportNoLineBreak, reportRequiredLineBreak, check
+- `node_modules/eslint/lib/rules/semi-style.js`: getChildren, isLastChild, check
+- `node_modules/eslint/lib/rules/prefer-named-capture-group.js`: suggestIfPossible, checkRegex
+- `node_modules/eslint/lib/rules/curly.js`: isCollapsedOneLiner, isOneLiner, needsSemicolon, prepareCheck, prepareIfChecks
+- `node_modules/eslint/lib/rules/operator-linebreak.js`: getFixer, validateNode, validateBinaryExpression
+- `node_modules/eslint/lib/rules/yield-star-spacing.js`: checkSpacing, checkExpression
+- `node_modules/eslint/lib/rules/require-unicode-regexp.js`: checkFlags
+- `node_modules/eslint/lib/rules/no-object-constructor.js`: needsParentheses, check
+- `node_modules/eslint/lib/rules/no-label-var.js`: findIdentifier
+- `node_modules/eslint/lib/rules/no-shadow.js`: isGlobalAugmentation, isThisParam, isTypeValueShadow, isFunctionTypeParameterNameValueShadow, isTypeParameterOfStaticMethod, isGenericOfAStaticMethodShadow, isInRange, findSelfOrAncestor, getOuterScope, isInitPatternNode, isAllowed, isDuplicatedClassNameVariable, a, a, isOnInitializer, getNameRange, getDeclaredLocation, isInTdz, isDeclareInDTSFile, isDuplicatedEnumNameVariable ...
+- `node_modules/eslint/lib/rules/no-self-assign.js`: eachSelfAssignment, report
+- `node_modules/eslint/lib/rules/func-call-spacing.js`: checkSpacing
+- `node_modules/eslint/lib/rules/spaced-comment.js`: escape, escapeAndRepeat, parseMarkersOption, createExceptionsPattern, createAlwaysStylePattern, createNeverStylePattern, reportBegin, reportEnd, checkCommentForSpace
+- `node_modules/eslint/lib/rules/padded-blocks.js`: getOpenBrace, isComment, isPaddingBetweenTokens, getFirstBlockToken, getLastBlockToken, requirePaddingFor, checkPadding
+- `node_modules/eslint/lib/rules/no-native-reassign.js`: checkReference, checkVariable
+- `node_modules/eslint/lib/rules/no-implicit-globals.js`: report
+- `node_modules/eslint/lib/rules/space-before-function-paren.js`: isNamedFunction, getConfigForFunction, checkFunction
+- `node_modules/eslint/lib/rules/no-unmodified-loop-condition.js`: isWriteReference, isUnmodified, isUnmodifiedAndNotBelongToGroup, isInRange, getEncloseFunctionDeclaration, updateModifiedFlag, report, registerConditionsToGroup, checkConditionsInGroup, hasDynamicExpressions, toLoopCondition, checkReferences
+- `node_modules/eslint/lib/rules/no-param-reassign.js`: isModifyingProp, isIgnoredPropertyAssignment, checkReference, checkVariable, checkForFunction
+- `node_modules/eslint/lib/rules/no-nonoctal-decimal-escape.js`: getUnicodeEscape, createSuggestion
+- `node_modules/eslint/lib/rules/no-mixed-operators.js`: normalizeOptions, includesBothInAGroup, getChildNode, shouldIgnore, isMixedWithParent, getOperatorToken, reportBothOperators, check
+- `node_modules/eslint/lib/rules/no-magic-numbers.js`: normalizeIgnoreValue, isParentTSEnumDeclaration, isTSNumericLiteralType, isParentTSReadonlyPropertyDefinition, isAncestorTSIndexedAccessType, isIgnoredValue, isDefaultValue, isClassFieldInitialValue, isParseIntRadix, isJSXNumber, isArrayIndex
+- `node_modules/eslint/lib/rules/eol-last.js`: checkBadEOF
+- `node_modules/eslint/lib/rules/arrow-body-style.js`: hasASIProblem, findClosingParen, isInsideForLoopInitializer, validate
+- `node_modules/eslint/lib/rules/no-obj-calls.js`: getReportNodeName
+- `node_modules/eslint/lib/rules/no-dupe-else-if.js`: isSubsetByComparator, splitByLogicalOperator, equal
+- `node_modules/eslint/lib/rules/preserve-caught-error.js`: getErrorCause, findParentCatch, isThrowingNewError, insertCauseIntoOptions
+- `node_modules/eslint/lib/rules/no-useless-assignment.js`: isIdentifierEvaluatedAfterAssignment, isIdentifierUsedBetweenAssignedAndEqualSign, getCodePathStartScope, verify, isIdentifierUsedInSegment, verifyAssignmentIsUsed
+- `node_modules/eslint/lib/rules/no-warning-comments.js`: convertToRegExp, commentContainsWarningTerm, checkComment
+- `node_modules/eslint/lib/rules/no-case-declarations.js`: isLexicalDeclaration
+- `node_modules/eslint/lib/rules/no-unused-labels.js`: enterLabeledScope, isFixable, exitLabeledScope, markAsUsed
+- `node_modules/eslint/lib/rules/vars-on-top.js`: looksLikeDirective, looksLikeImport, isVariableDeclaration, isVarOnTop, globalVarCheck, blockScopeVarCheck
+- `node_modules/eslint/lib/rules/no-extend-native.js`: reportNode, isPrototypePropertyAccessed, isAssigningToPropertyOf, isInDefinePropertyCall, checkAndReportPrototypeExtension
+- `node_modules/eslint/lib/rules/use-isnan.js`: isNaNIdentifier, getBinaryExpressionFixer, checkBinaryExpression, checkSwitchStatement, checkCallExpression
+- `node_modules/eslint/lib/rules/no-ex-assign.js`: checkVariable
+- `node_modules/eslint/lib/rules/handle-callback-err.js`: isPattern, matchesConfiguredErrorName, getParameters, checkForError
+- `node_modules/eslint/lib/rules/template-tag-spacing.js`: checkSpacing
+- `node_modules/eslint/lib/rules/no-cond-assign.js`: isConditionalTestExpression, findConditionalAncestor, isParenthesisedTwice, testForAssign, testForConditionalAncestor
+- `node_modules/eslint/lib/rules/sort-keys.js`: getPropertyName
+- `node_modules/eslint/lib/rules/no-extra-bind.js`: isSideEffectFree, report, isCalleeOfBindMethod, enterFunction, exitFunction, exitArrowFunction, markAsThisFound
+- `node_modules/eslint/lib/rules/comma-dangle.js`: isTrailingCommaAllowed, normalizeOptions, getLastItem, last, getTrailingToken, isMultiline, forbidTrailingComma, forceTrailingComma, forceTrailingCommaIfMultiline, allowTrailingCommaIfMultiline
+- `node_modules/eslint/lib/rules/prefer-exponentiation-operator.js`: doesBaseNeedParens, doesExponentNeedParens, doesExponentiationExpressionNeedParens, parenthesizeIfShould, report
+- `node_modules/eslint/lib/rules/no-unreachable-loop.js`: isAnySegmentReachable, isLoopingTarget, getDifference
+- `node_modules/eslint/lib/rules/eqeqeq.js`: isTypeOf, isTypeOfBinary, areLiteralsAndSameType, isNullCheck, report
+- `node_modules/eslint/lib/rules/id-denylist.js`: isAssignmentTarget, isRenamedImport, isPropertyNameInDestructuring, isRestricted, isReferenceToGlobalVariable, shouldCheck, report
+- `node_modules/eslint/lib/rules/newline-after-var.js`: getLastToken, isVar, isForTypeSpecifier, isExportSpecifier, isLastNode, getLastCommentLineOfBlock, hasBlankLineAfterComment, checkForBlankLine
+- `node_modules/eslint/lib/rules/no-alert.js`: isProhibitedIdentifier, findReference, isShadowed, isGlobalThisReferenceOrGlobalWindow
+- `node_modules/eslint/lib/rules/func-style.js`: isOverloadedFunction
+- `node_modules/eslint/lib/rules/capitalized-comments.js`: getNormalizedOptions, getAllNormalizedOptions, createRegExpForIgnorePatterns, isInlineComment, isConsecutiveComment, isCommentValid, processComment
+- `node_modules/eslint/lib/rules/no-unused-vars.js`: defToVariableType, getVariableDescription, getDefinedMessageData, getAssignedMessageData, getUsedIgnoredMessageData, isExported, usesExplicitResourceManagement, hasRestSibling, hasRestSpreadSibling, isReadRef, isSelfReference, getFunctionDefinitions, isInside, isUnusedExpression, getRhsNode, isStorableFunction, isInsideOfStorableFunction, isReadForItself, isForInOfRef, isUsedVariable
+- `node_modules/eslint/lib/rules/linebreak-style.js`: createFix, checkForLinebreakStyle
+- `node_modules/eslint/lib/rules/prefer-numeric-literals.js`: isParseInt
+- `node_modules/eslint/lib/rules/no-restricted-modules.js`: isStringLiteral, isRequireCall, getFirstArgumentString, reportPath, isRestrictedPath
+- `node_modules/eslint/lib/rules/no-sequences.js`: requiresExtraParens, isParenthesised, isParenthesisedTwice
+- `node_modules/eslint/lib/rules/no-whitespace-before-property.js`: reportError
+- `node_modules/eslint/lib/rules/no-duplicate-case.js`: equal
+- `node_modules/eslint/lib/rules/object-shorthand.js`: isConstructor, canHaveShorthand, isStringLiteral, isShorthand, isRedundant, checkConsistency, makeFunctionShorthand, makeFunctionLongform, enterFunction, exitFunction, reportLexicalIdentifier
+- `node_modules/eslint/lib/rules/yoda.js`: isComparisonOperator, isEqualityOperator, isRangeTestOperator, isNegativeNumericLiteral, looksLikeLiteral, getNormalizedLiteral, isRangeTest, isBetweenTest, isOutsideTest, isParenWrapped, getFlippedString
+- `node_modules/eslint/lib/rules/prefer-regex-literals.js`: isStringLiteral, isRegexLiteral, isStringRawTaggedStaticTemplateLiteral, getStringValue, isStaticString, hasOnlyStaticStringArguments, isUnnecessarilyWrappedRegexLiteral, getRegexppEcmaVersion, resolveEscapes, isValidRegexForEcmaVersion, areFlagsEqual, mergeRegexFlags, canFixTo, getSafeOutput
+- `node_modules/eslint/lib/rules/no-plusplus.js`: isForStatementUpdate, isForLoopAfterthought
+- `node_modules/eslint/lib/rules/no-unsafe-finally.js`: isFinallyBlock, isInFinallyBlock, check
+- `node_modules/eslint/lib/rules/no-labels.js`: getBodyKind, isAllowed, getKind
+- `node_modules/eslint/lib/rules/prefer-reflect.js`: report
+- `node_modules/eslint/lib/rules/prefer-template.js`: isConcatenation, getTopConcatBinaryExpression, hasOctalOrNonOctalDecimalEscapeSequence, hasStringLiteral, hasNonStringLiteral, startsWithTemplateCurly, endsWithTemplateCurly, getTextBetween, getTemplateLiteral, fixNonStringBinaryExpression, checkForStringConcat
+- `node_modules/eslint/lib/rules/no-loss-of-precision.js`: isNumber, getRaw, isBaseTen, notBaseTenLosesPrecision, removeLeadingZeros, removeTrailingZeros, normalizeInteger, normalizeFloat, convertNumberToScientificNotation, baseTenLosesPrecision, losesPrecision
+- `node_modules/eslint/lib/rules/brace-style.js`: removeNewlineBetween, validateCurlyPair, validateCurlyBeforeKeyword
+- `node_modules/eslint/lib/rules/no-control-regex.js`: getRegExp
+- `node_modules/eslint/lib/rules/logical-assignment-operators.js`: isUndefined, isReference, isImplicitNullishComparison, isDoubleComparison, isExplicitNullishComparison, isBooleanCast, getExistence, isInsideWithBlock, getLeftmostOperand, cannotBeGetter, accessesSingleProperty, createConditionalFixer, getOperatorToken
+- `node_modules/eslint/lib/rules/no-useless-backreference.js`: getPathToRoot, isLookaround, isNegativeLookaround, checkRegex
+- `node_modules/eslint/lib/rules/max-lines-per-function.js`: getCommentLineNumbers, isFullLineComment, isIIFE, isEmbedded, processFunction
+- `node_modules/eslint/lib/rules/radix.js`: isShadowed, isParseIntMethod, isValidRadix, isDefaultRadix, checkArguments
+- `node_modules/eslint/lib/rules/no-constant-binary-expression.js`: isNullOrUndefined, hasConstantNullishness, isStaticBoolean, hasConstantLooseBooleanComparison, hasConstantStrictBooleanComparison, isAlwaysNew, findBinaryExpressionConstantOperand
+- `node_modules/eslint/lib/rules/no-global-assign.js`: checkReference, checkVariable
+- `node_modules/eslint/lib/rules/accessor-pairs.js`: areEqualTokenLists, areEqualKeys, isAccessorKind, isArgumentOfMethodCall, isPropertyDescriptor, report, reportList, checkList, checkObjectLiteral, checkPropertyDescriptor, checkObjectExpression, checkClassBody, checkType
+- `node_modules/eslint/lib/rules/require-atomic-updates.js`: createReferenceMap, getWriteExpr, isLocalVariableWithoutEscape
+- `node_modules/eslint/lib/rules/block-spacing.js`: getOpenBrace, isValid, checkSpacingInsideBraces
+- `node_modules/eslint/lib/rules/no-prototype-builtins.js`: isAfterOptional, disallowBuiltIns
+- `node_modules/eslint/lib/rules/no-catch-shadow.js`: paramIsShadowing
+- `node_modules/eslint/lib/rules/no-useless-call.js`: isCallOrNonVariadicApply, isValidThisArg
+- `node_modules/eslint/lib/rules/id-length.js`: matchesExceptionPattern
+- `node_modules/eslint/lib/rules/no-unsafe-optional-chaining.js`: isDestructuringPattern, reportUnsafeUsage, reportUnsafeArithmetic, checkUndefinedShortCircuit, checkUnsafeUsage, checkUnsafeArithmetic
+- `node_modules/eslint/lib/rules/consistent-return.js`: areAllSegmentsUnreachable, isClassConstructor, checkLastSegment
+- `node_modules/eslint/lib/rules/switch-colon-spacing.js`: isValidSpacing, commentsExistBetween, fix
+- `node_modules/eslint/lib/rules/no-duplicate-imports.js`: isImportExportSpecifier, getImportExportType, isImportExportCanBeMerged, shouldReportImportExport, getNodesByDeclarationType, getModule, checkAndReport, handleImportsExports
+- `node_modules/eslint/lib/rules/no-inner-declarations.js`: getAllowedBodyDescription, check
+- `node_modules/eslint/lib/rules/operator-assignment.js`: isCommutativeOperatorWithShorthand, isNonCommutativeOperatorWithShorthand, canBeFixed, getOperatorToken, verify, prohibit
+- `node_modules/eslint/lib/rules/quotes.js`: isJSXLiteral, isDirective, isExpressionInOrJustAfterDirectivePrologue, isAllowedAsNonBacktick, isUsingFeatureOfTemplateLiteral
+- `node_modules/eslint/lib/rules/no-extra-boolean-cast.js`: isBooleanFunctionOrConstructorCall, isInBooleanContext, isInFlaggedContext, hasCommentsInside, isParenthesized, needsParens
+- `node_modules/eslint/lib/rules/no-spaced-func.js`: detectOpenSpaces
+- `node_modules/eslint/lib/rules/default-case.js`: last
+- `node_modules/eslint/lib/rules/key-spacing.js`: containsLineTerminator, last, isSingleLine, isSingleLineProperties, initOptionProperty, initOptions, isKeyValueProperty, getNextColon, getLastTokenBeforeColon, getFirstTokenAfterColon, continuesPropertyGroup, getKey, report, getKeyWidth, getPropertyWhitespace, createGroups, verifyGroupAlignment, verifySpacing, verifyListSpacing
+- `node_modules/eslint/lib/rules/symbol-description.js`: checkArgument
+- `node_modules/eslint/lib/rules/block-scoped-var.js`: enterScope, exitScope, report, checkForVariables, isOutsideOfScope
+- `node_modules/eslint/lib/rules/callback-return.js`: findClosestParentOfType, containsOnlyIdentifiers, isCallback, isCallbackExpression, if
+- `node_modules/eslint/lib/rules/jsx-quotes.js`: usesExpectedQuotes
+- `node_modules/eslint/lib/rules/default-param-last.js`: isRequiredParameter, handleFunction
+- `node_modules/eslint/lib/rules/template-curly-spacing.js`: checkSpacingBefore, checkSpacingAfter
+- `node_modules/eslint/lib/rules/no-unreachable.js`: isInitialized, areAllSegmentsUnreachable, reportIfUnreachable
+- `node_modules/eslint/lib/rules/valid-typeof.js`: isReferenceToGlobalVariable, isTypeofExpression
+- `node_modules/eslint/lib/rules/no-invalid-regexp.js`: report, isString, getFlags, validateRegExpPattern, validateRegExpFlags
+- `node_modules/eslint/lib/rules/newline-per-chained-call.js`: getPrefix, getPropertyText
+- `node_modules/eslint/lib/rules/require-yield.js`: beginChecking, endChecking
+- `node_modules/eslint/lib/rules/space-before-blocks.js`: isFunctionBody, isConflicted, checkPrecedingSpace, checkSpaceBeforeCaseBlock
+- `node_modules/eslint/lib/rules/no-confusing-arrow.js`: isConditional, checkArrowFunc
+- `node_modules/eslint/lib/rules/no-empty-function.js`: getKind, isParameterPropertiesConstructor, isAllowedEmptyFunction, reportIfEmpty
+- `node_modules/eslint/lib/rules/semi.js`: report, isRedundantSemi, isEndOfArrowBlock, maybeClassFieldAsiHazard, isOnSameLineWithNextToken, maybeAsiHazardAfter, maybeAsiHazardBefore, canRemoveSemicolon, isLastInOneLinerBlock, isLastInOneLinerClassBody, checkForSemicolon, checkForSemicolonForVariableDeclaration
+- `node_modules/eslint/lib/rules/no-useless-constructor.js`: hasDecoratorsOrParameterProperty, hasUsefulAccessibility, isSingleSuperCall, isSimple, isSpreadArguments, isValidIdentifierPair, isValidRestSpreadPair, isValidPair, isPassingThrough, isRedundantSuperCall, checkForConstructor
+- `node_modules/eslint/lib/rules/no-unexpected-multiline.js`: and, checkForBreakAfter
+- `node_modules/eslint/lib/rules/no-restricted-exports.js`: foo, checkExportedName
+- `node_modules/eslint/lib/rules/no-invalid-this.js`: isCodePathWithLexicalThis
+- `node_modules/eslint/lib/rules/quote-props.js`: isKeyword, areQuotesRedundant, getUnquotedKey, getQuotedKey, checkUnnecessaryQuotes, checkOmittedQuotes, checkConsistency
+- `node_modules/eslint/lib/rules/no-implicit-coercion.js`: isDoubleLogicalNegating, isBinaryNegatingOfIndexOf, isMultiplyByOne, isMultiplyByFractionOfOne, isNumeric, getNonNumericOperand, isStringType, isEmptyString, isConcatWithEmptyString, isAppendEmptyString, getNonEmptyOperand, report, fix
+- `node_modules/eslint/lib/rules/camelcase.js`: isUnderscored, isAllowed, isGoodName, isAssignmentTarget, equalsToOriginalName, report, reportReferenceId
+- `node_modules/eslint/lib/rules/init-declarations.js`: isForLoop, isInitialized
+- `node_modules/eslint/lib/rules/no-await-in-loop.js`: isBoundary, isLooped, validate
+- `node_modules/eslint/lib/rules/no-unused-expressions.js`: alwaysTrue, alwaysFalse, looksLikeDirective, takeWhile, directives, isDirective
+- `node_modules/eslint/lib/rules/no-unsafe-negation.js`: isInOrInstanceOfOperator, isOrderingRelationalOperator, isNegation
+- `node_modules/eslint/lib/rules/rest-spread-spacing.js`: checkWhiteSpace
+- `node_modules/eslint/lib/rules/array-bracket-spacing.js`: isOptionSet, reportNoBeginningSpace, reportNoEndingSpace, reportRequiredBeginningSpace, reportRequiredEndingSpace, isObjectType, isArrayType, validateArraySpacing
+- `node_modules/eslint/lib/rules/no-mixed-requires.js`: getBuiltinModules, getDeclarationType, inferModuleType, isMixed, isGrouped
+- `node_modules/eslint/lib/rules/arrow-spacing.js`: getTokens, countSpaces, spaces
+- `node_modules/eslint/lib/rules/func-names.js`: isFunctionName, getConfigForNode, isObjectOrClassMethod, hasInferredName, reportUnexpectedUnnamedFunction, reportUnexpectedNamedFunction, handleFunction
+- `node_modules/eslint/lib/rules/no-restricted-imports.js`: isTypeOnlyImport, isTypeOnlySpecifier, isTypeOnlyExport, checkRestrictedPathAndReport, reportPathForPatterns
+- `node_modules/eslint/lib/rules/no-unneeded-ternary.js`: isBooleanLiteral, invertExpression, isBooleanExpression, matchesDefaultAssignment
+- `node_modules/eslint/lib/rules/no-use-before-define.js`: parseOptions, isInRange, isInClassStaticInitializerRange, isClassStaticInitializerScope, isFromSeparateExecutionContext, isEvaluatedDuringInitialization, referenceContainsTypeQuery, isClassRefInClassDecorator, shouldCheck, checkReferencesInScope
+- `node_modules/eslint/lib/rules/id-blacklist.js`: isAssignmentTarget, isRenamedImport, isRenamedInDestructuring, isShorthandPropertyDefinition, isRestricted, isReferenceToGlobalVariable, shouldCheck, report
+- `node_modules/eslint/lib/rules/max-statements.js`: reportIfTooManyStatements, startFunction, endFunction, countStatements
+- `node_modules/eslint/lib/rules/prefer-spread.js`: isVariadicApplyCalling, isValidThisArg
+- `node_modules/eslint/lib/rules/keyword-spacing.js`: isOpenParenOfTemplate, isCloseParenOfTemplate, expectSpaceBefore, unexpectSpaceBefore, expectSpaceAfter, unexpectSpaceAfter, parseOptions, checkSpacingBefore, checkSpacingAfter, checkSpacingAround, checkSpacingAroundFirstToken, checkSpacingBeforeFirstToken, checkSpacingAroundTokenBefore, checkSpacingForFunction, checkSpacingForClass, checkSpacingForIfStatement, checkSpacingForTryStatement, checkSpacingForDoWhileStatement, checkSpacingForForInStatement, checkSpacingForForOfStatement ...
+- `node_modules/eslint/lib/rules/no-lone-blocks.js`: report, isLoneBlock, markLoneBlock
+- `node_modules/eslint/lib/rules/getter-return.js`: isAnySegmentReachable, checkLastSegment, isGetter
+- `node_modules/eslint/lib/rules/no-shadow-restricted-names.js`: safelyShadowsUndefined
+- `node_modules/eslint/lib/rules/no-import-assign.js`: isAssignmentLeft, isOperandOfMutationUnaryOperator, isIterationVariable, isArgumentOfWellKnownMutationFunction, isMemberWrite, getWriteNode
+- `node_modules/eslint/lib/rules/no-this-before-super.js`: isConstructorFunction, isCalled, isInConstructorOfDerivedClass, isEverySegmentCalled, isBeforeCallOfSuper, setInvalid, setSuperCalled
+- `node_modules/eslint/lib/rules/prefer-object-spread.js`: hasArraySpread, isAccessorProperty, hasAccessors, hasArgumentsWithAccessors, needsParens, argNeedsParens, getParenTokens, getStartWithSpaces, getEndWithSpaces, defineFixer
+- `node_modules/eslint/lib/rules/comma-style.js`: getReplacedText, getFixerFunction, validateCommaItemSpacing, validateComma
+- `node_modules/eslint/lib/rules/no-undefined.js`: report, checkScope
+- `node_modules/eslint/lib/rules/max-lines.js`: range, isCommentNodeType, getLinesWithoutCode
+- `node_modules/eslint/lib/rules/no-func-assign.js`: checkReference, checkVariable, checkForFunction
+- `node_modules/eslint/lib/rules/no-else-return.js`: isSafeToDeclare, foo, isSafeFromNameCollisions, displayReport, checkForReturn, naiveHasReturn, hasElse, checkForIf, checkForReturnOrIf, alwaysReturns, checkIfWithoutElse, checkIfWithElse
+- `node_modules/eslint/lib/rules/no-redeclare.js`: findVariablesInScope, checkForBlock
+- `node_modules/eslint/lib/rules/object-curly-spacing.js`: isOptionSet, reportNoBeginningSpace, reportNoEndingSpace, reportRequiredBeginningSpace, reportRequiredEndingSpace, validateBraceSpacing, getClosingBraceOfObject, checkForObject, checkForImport, checkForExport
+- `node_modules/eslint/lib/rules/global-require.js`: findReference, isShadowed
+- `node_modules/eslint/lib/rules/prefer-arrow-callback.js`: isFunctionName, checkMetaProperty, getVariableOfArguments, getCallbackInfo, hasDuplicateParams, enterScope, exitScope
+- `node_modules/eslint/lib/rules/generator-star-spacing.js`: optionToDefinition, isStarToken, getStarToken, capitalize, checkSpacing, checkFunction
+- `node_modules/eslint/lib/rules/prefer-const.js`: isInitOfForStatement, canBecomeVariableDeclaration, isOuterVariableInDestructing, getDestructuringHost, hasMemberExpressionAssignment, getIdentifierIfShouldBeConst, groupByDestructuring, findUp, checkGroup
+- `node_modules/eslint/lib/rules/no-extra-parens.js`: isImmediateFunctionPrototypeMethodCall, ruleApplies, isParenthesised, isParenthesisedTwice, hasExcessParens, hasDoubleExcessParens, hasExcessParensWithPrecedence, isCondAssignException, isInReturnStatement, isNewExpressionWithParens, containsAssignment, isReturnAssignException, hasExcessParensNoLineTerminator, requiresLeadingSpace, requiresTrailingSpace, isIIFE, canBeAssignmentTarget, isFixable, report, finishReport ...
+- `node_modules/eslint/lib/rules/no-console.js`: isConsole, isAllowed, isMemberAccessExceptAllowed, maybeAsiHazard, canProvideSuggestions, report
+- `node_modules/eslint/lib/rules/space-in-parens.js`: getExceptions, isOpenerException, isCloserException, openerMissingSpace, openerRejectsSpace, closerMissingSpace, closerRejectsSpace, checkParenSpaces
+- `node_modules/eslint/lib/rules/no-return-await.js`: reportUnnecessaryAwait, hasErrorHandler, isInTailCallPosition
+- `node_modules/eslint/lib/rules/no-class-assign.js`: checkVariable, checkForClass
+- `node_modules/eslint/lib/rules/no-inline-comments.js`: testCodeAroundComment
+- `node_modules/eslint/lib/rules/no-trailing-spaces.js`: report, getCommentLineNumbers, checkTrailingSpaces
+- `node_modules/eslint/lib/rules/no-self-compare.js`: hasSameTokens
+- `node_modules/eslint/lib/rules/grouped-accessor-pairs.js`: areEqualTokenLists, areEqualKeys, isAccessorKind, report, checkList
+- `node_modules/eslint/lib/rules/one-var-declaration-per-line.js`: isForTypeSpecifier, checkForNewLine
+- `node_modules/eslint/lib/rules/constructor-super.js`: isConstructorFunction, isPossibleConstructor, isCalledInSomePath, hasSegmentBeenSeen, isCalledInEveryPath
+- `node_modules/eslint/lib/rules/no-negated-condition.js`: hasElseWithoutCondition, isNegatedUnaryExpression, isNegatedBinaryExpression, isNegatedIf
+- `node_modules/eslint/lib/rules/no-script-url.js`: check
+- `node_modules/eslint/lib/rules/no-multi-str.js`: isJSXElement
+- `node_modules/eslint/lib/rules/max-statements-per-line.js`: reportFirstExtraStatementAndClear, getActualLastToken, enterStatement, leaveStatement
+- `node_modules/eslint/lib/rules/no-promise-executor-return.js`: isPromiseExecutor, expressionIsVoid, voidPrependFixer, curlyWrapFixer
+- `node_modules/eslint/lib/rules/no-unused-private-class-members.js`: isWriteOnlyAssignment
+- `node_modules/eslint/lib/rules/no-bitwise.js`: report, hasBitwiseOperator, allowedOperator, isInt32Hint, checkNodeForBitwiseOperator
+- `node_modules/eslint/lib/rules/unicode-bom.js`: checkUnicodeBOM
+- `node_modules/eslint/lib/rules/no-useless-return.js`: remove, isRemovable, isInFinally, isAnySegmentReachable, isReturned, getUselessReturns, markReturnStatementsOnSegmentAsUsed, markReturnStatementsOnCurrentSegmentsAsUsed
+- `node_modules/eslint/lib/rules/no-restricted-globals.js`: reportReference, isRestricted, isInTypeContext
+- `node_modules/eslint/lib/rules/dot-location.js`: checkDotLocation, checkNode
+- `node_modules/eslint/lib/rules/max-nested-callbacks.js`: checkFunction, popStack
+- `node_modules/eslint/lib/rules/new-cap.js`: invert, calculateCapIsNewExceptions, extractNameFromExpression, getCap, isCapAllowed, report
+- `node_modules/eslint/lib/rules/lines-around-directive.js`: hasNewlineBefore, getLastTokenOnLine, hasNewlineAfter, reportError, checkDirectives
+- `node_modules/eslint/lib/rules/no-regex-spaces.js`: isString, checkRegex, checkLiteral, checkFunction
+- `node_modules/eslint/lib/rules/prefer-rest-params.js`: getVariableOfArguments, isNotNormalMemberAccess, report, checkForArguments
+- `node_modules/eslint/lib/rules/prefer-destructuring.js`: shouldCheck, isArrayIndexAccess, report, shouldFix, fixIntoObjectDestructuring, performCheck, checkVariableDeclarator, checkAssignmentExpression
+- `node_modules/eslint/lib/rules/sort-imports.js`: usedMemberSyntax, getMemberParameterGroupIndex, getFirstLocalMemberName, getNumberOfLinesBetween
+- `node_modules/eslint/lib/rules/comma-spacing.js`: report, addNullElementsToIgnoreList
+- `node_modules/eslint/lib/rules/no-underscore-dangle.js`: isAllowed, hasDanglingUnderscore, isSpecialCaseIdentifierForMemberExpression, isSpecialCaseIdentifierInVariableExpression, isThisConstructorReference, checkForDanglingUnderscoreInFunctionParameters, checkForDanglingUnderscoreInFunction, checkForDanglingUnderscoreInVariableExpression, checkForDanglingUnderscoreInMemberExpression, checkForDanglingUnderscoreInMethod, checkForDanglingUnderscoreInClassField
+- `node_modules/eslint/lib/rules/require-await.js`: capitalizeFirstLetter, enterFunction, exitFunction
+- `node_modules/eslint/lib/rules/no-dupe-class-members.js`: getState
+- `node_modules/eslint/lib/rules/max-depth.js`: startFunction, endFunction, pushBlock, popBlock
+- `node_modules/eslint/lib/rules/no-dupe-args.js`: isParameter, checkParams
+- `node_modules/eslint/lib/rules/no-misleading-character-class.js`: isUnicodeCodePointEscape, getStaticValueOrRegex, checkForAcceptableEscape, checkForAcceptableEscapeInString, verify, isAcceptableEscapeSequence, getNodeReportLocations
+- `node_modules/eslint/lib/rules/no-useless-computed-key.js`: hasUselessComputedKey, check, noop
+- `node_modules/eslint/lib/rules/utils/regular-expressions.js`: isValidWithUnicodeFlag
+- `node_modules/eslint/lib/rules/utils/ast-utils.js`: isModifyingReference, startsWithUpperCase, isES5Constructor, getUpperFunction, isFunction, isLoop, isInLoop, isNullLiteral, isNullOrUndefined, isCallee, getStaticStringValue, getStaticPropertyName, skipChainExpression, checkText, isSpecificId, isSpecificMemberAccess, equalLiteralValue, isSameReference, isReflectApply, isArrayFromMethod ...
+- `node_modules/eslint/lib/rules/utils/char-source.js`: readHexSequence, readUnicodeSequence, readOctalSequence, readEscapeSequenceOrLineContinuation, parseStringLiteral, parseTemplateToken
+- `node_modules/eslint/lib/rules/utils/unicode/is-surrogate-pair.js`: isSurrogatePair
+- `node_modules/eslint/lib/rules/utils/unicode/is-combining-character.js`: isCombiningCharacter
+- `node_modules/eslint/lib/rules/utils/unicode/is-regional-indicator-symbol.js`: isRegionalIndicatorSymbol
+- `node_modules/eslint/lib/rules/utils/unicode/is-emoji-modifier.js`: isEmojiModifier
+- `node_modules/eslint/lib/eslint/eslint.js`: createRulesMeta, getOrFindUsedDeprecatedRules, processLintReport, compareResultsByFilePath, locateConfigFileToUse, createExtraneousResultsError, getWorkerCountFor, needsReprocessing, calculateAutoWorkerCount, calculateWorkerCount, runWorkers, workerExecutor
+- `node_modules/eslint/lib/eslint/eslint-helpers.js`: isNonEmptyString, isArrayOfNonEmptyString, isEmptyArrayOrArrayOfNonEmptyString, isPositiveInteger, normalizeToPosix, isGlobPattern, globMatch, globSearch, throwErrorForUnmatchedPatterns, globMultiSearch, findFiles
+- `node_modules/eslint/lib/eslint/legacy-eslint.js`: isNonEmptyString, isArrayOfNonEmptyString, isEmptyArrayOrArrayOfNonEmptyString, isFixType, isFixTypeArray, processOptions, hasDefinedProperty, createRulesMeta, getOrFindUsedDeprecatedRules, processCLIEngineLintReport, compareResultsByFilePath
+- `node_modules/esquery/parser.js`: ctor, hex, literalEscape, classEscape, describeExpectation, describeExpected, describeFound, text, location, expected, error
+- `node_modules/esquery/dist/esquery.js`: _arrayLikeToArray, _arrayWithHoles, _arrayWithoutHoles, _iterableToArray, _iterableToArrayLimit, _nonIterableRest, _nonIterableSpread, _slicedToArray, _toConsumableArray, _typeof, _unsupportedIterableToArray, createCommonjsModule, clone, deepCopy, upperBound, Reference, replace, remove, Element, Controller ...
+- `node_modules/esquery/dist/esquery.esm.js`: _arrayLikeToArray, _arrayWithHoles, _arrayWithoutHoles, _iterableToArray, _iterableToArrayLimit, _nonIterableRest, _nonIterableSpread, _slicedToArray, _toConsumableArray, _typeof, _unsupportedIterableToArray, createCommonjsModule, clone, deepCopy, upperBound, Reference, replace, remove, Element, Controller ...
+- `node_modules/esquery/dist/esquery.lite.min.js`: e, r, n, u, o, t, r, n, u, o, dt, yt, At, xt, gt, Pt, mt, bt, Ct, wt ...
+- `node_modules/esquery/dist/esquery.lite.js`: _arrayLikeToArray, _arrayWithHoles, _arrayWithoutHoles, _iterableToArray, _iterableToArrayLimit, _nonIterableRest, _nonIterableSpread, _slicedToArray, _toConsumableArray, _typeof, _unsupportedIterableToArray, createCommonjsModule, ctor, literal, _class, any, end, other, hex, literalEscape ...
+- `node_modules/esquery/dist/esquery.esm.min.js`: e, t, r, n, o, a, e, u, l, c, f, p, h, y, d, m, a, b, e, r ...
+- `node_modules/esquery/dist/esquery.min.js`: e, t, r, n, o, a, e, u, l, c, f, p, h, d, y, m, a, b, e, r ...
+- `node_modules/to-regex-range/index.js`: collatePatterns, splitToRanges, rangeToPattern, splitToPatterns, filterPatterns, zip, compare, contains, countNines, countZeros, toQuantifier, toCharacterClass, hasPadding, padZeros
+- `node_modules/esbuild/install.js`: pkgAndSubpathForCurrentPlatform, downloadedBinPath, validateBinaryVersion, isYarn, fetch, extractFileFromTarGzip, installUsingNPM, removeRecursive, applyManualBinaryPathOverride, maybeOptimizePackage, downloadDirectlyFromNPM, checkAndPreparePackage
+- `node_modules/esbuild/lib/main.js`: encodePacket, decodePacket, readUInt32LE, writeUInt32LE, validateAndJoinStringArray, getFlag, checkForInvalidFlags, validateInitializeOptions, validateMangleCache, pushLogFlags, validateStringValue, pushCommonFlags, flagsForBuildOptions
+- `node_modules/yallist/yallist.js`: Yallist, insert, push, unshift, Node
+- `node_modules/@jridgewell/sourcemap-codec/dist/sourcemap-codec.umd.js`: def, decodeInteger, encodeInteger, hasMoreVlq, decodeOriginalScopes, encodeOriginalScopes, _encodeOriginalScopes, decodeGeneratedRanges, encodeGeneratedRanges, _encodeGeneratedRanges, catchupLine, decode, sort, sortComparator, encode
+- `node_modules/@jridgewell/trace-mapping/dist/trace-mapping.umd.js`: def, __require, stripFilename, resolver, maybeSort, nextUnsortedSegmentLine, isSorted, sortSegments, sortComparator, buildBySources, binarySearch, upperBound, lowerBound, memoizedState, memoizedBinarySearch, parse, recurse, addSection, append, getLine ...
+- `node_modules/@jridgewell/gen-mapping/dist/gen-mapping.umd.js`: def, __require, cast, get, put, remove, cast2, addSegment, addMapping, setSourceContent, setIgnore, toDecodedMap, toEncodedMap, fromMap, allMappings, addSegmentInternal, assert, getIndex, getColumnIndex, insert ...
+- `node_modules/@jridgewell/resolve-uri/dist/resolve-uri.umd.js`: isAbsoluteUrl, isSchemeRelativeUrl, isAbsolutePath, isFileUrl, isRelative, parseAbsoluteUrl, parseFileUrl, makeUrl, parseUrl, stripPathFilename, mergePaths, normalizePath, resolve
+- `node_modules/@jridgewell/remapping/dist/remapping.umd.js`: def, __require, SegmentObject, Source, MapSource, OriginalSource, traceMappings, originalPositionFor, asArray, buildSourceMapTree, build, remapping
+- `node_modules/fast-glob/out/index.js`: FastGlob, sync, stream, generateTasks, isDynamicPattern, escapePath, convertPathToPattern, escapePath, convertPathToPattern, escapePath, convertPathToPattern, getWorks, assertPatternsInput
+- `node_modules/fast-glob/out/managers/tasks.js`: generate, processPatterns, convertPatternsToTasks, getPositivePatterns, getNegativePatternsAsPositive, groupPatternsByBaseDirectory, convertPatternGroupsToTasks, convertPatternGroupToTask
+- `node_modules/fast-glob/out/utils/stream.js`: merge, propagateCloseEventToSources
+- `node_modules/fast-glob/out/utils/pattern.js`: isStaticPattern, isDynamicPattern, hasBraceExpansion, convertToPositivePattern, convertToNegativePattern, isNegativePattern, isPositivePattern, getNegativePatterns, getPositivePatterns, getPatternsInsideCurrentDirectory, getPatternsOutsideCurrentDirectory, isPatternRelatedToParentDirectory, getBaseDirectory, hasGlobStar, endsWithSlashGlobStar, isAffectDepthOfReadingPattern, expandPatternsWithBraceExpansion, expandBraceExpansion, getPatternParts, makeRe ...
+- `node_modules/fast-glob/out/utils/errno.js`: isEnoentCodeError
+- `node_modules/fast-glob/out/utils/array.js`: flatten, splitWhen
+- `node_modules/fast-glob/out/utils/string.js`: isString, isEmpty
+- `node_modules/fast-glob/out/utils/path.js`: unixify, makeAbsolute, removeLeadingDotSegment, escapeWindowsPath, escapePosixPath, convertWindowsPathToPattern, convertPosixPathToPattern
+- `node_modules/fast-glob/out/utils/fs.js`: createDirentFromStats
+- `node_modules/fast-glob/node_modules/glob-parent/index.js`: globParent
+- `node_modules/is-extglob/index.js`: isExtglob
+- `node_modules/fastq/queue.js`: fastqueue, running, pause, length, getQueue, resume, idle, push, unshift, release, kill, killAndDrain, abort, error, noop, Task, worked, queueAsPromised, asyncWrapper, push ...
+- `node_modules/fastq/example.js`: worker
+- `node_modules/fastq/bench.js`: bench, end, benchFastQ, benchAsyncQueue, benchNeoQueue, worker, benchSetImmediate, benchFastQPromise, runBench
+- `node_modules/fastq/test/test.js`: worker, worker, result, worker, done, worker, done, worker, worker, worker, worker, worker, workDone, worker, setImmediate, worker, done, worker, done, worker ...
+- `node_modules/fastq/test/promise.js`: worker, worker, worker, worker, worker, worker, worker, worker, worker, worker, worker, handleRejection, handleRejection, processTask, worker, worker
+- `node_modules/caniuse-lite/dist/unpacker/region.js`: unpackRegion
+- `node_modules/caniuse-lite/dist/unpacker/agents.js`: unpackBrowserVersions
+- `node_modules/caniuse-lite/dist/unpacker/feature.js`: unpackSupport, unpackFeature
